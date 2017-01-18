@@ -1,1 +1,5 @@
-theme: jekyll-theme-architect
+title: Technologie webowe
+description: Strona z materiałami dydaktycznymi do warsztatów technologii webowych
+show_downloads: true
+google_analytics:
+theme: 
