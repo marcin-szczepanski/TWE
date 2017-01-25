@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<div id="header-div">
+	<h1 id="main1">Zajęcia 1</h1>
+    <h2 id="main2">Materiały do warsztatów technologii webowych prowadzonych na Wydziale Matematyki i Informatyki Uniwersytetu im. Adama Mickiewicza w Poznaniu.</h2>
+</div>
 
 <a href="index.html" class="button-v button-back">Wróc do spisu materiałów</a>
 

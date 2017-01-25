@@ -7,16 +7,13 @@ header,#main-content h1,#main-content h2,#main-content h3,#main-content h4,#main
 	font-family: Calibri;
 }
 
-header h2 {
-	color: #fff;
-}
-
-.main1,.main2 {
+#main1,#main2 {
 	width: 720px;
+	margin: 0;
 }
 
-.main1 {
-	padding-bottom: 2rem;
+#header-div h2 {
+	color: #666;
 }
 
 .menu {
@@ -46,13 +43,18 @@ header h2 {
 
 .button-back {
 	float: none;
+	margin-top: 1rem;
 }
 
+.wrapper {
+	margin-top: 1.5rem;
+}
 .modules {
 	padding: 0 1.25em;
 	border: 0.2em solid #674370;
 	border-radius: 0.35em;
 	margin-bottom: 2rem;
+	
 }
 
 .module {
@@ -68,6 +70,7 @@ header h2 {
 
 .center {
 	text-align: center;
+	color: #222;
 }
 
 dd {
