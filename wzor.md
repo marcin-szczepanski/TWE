@@ -3,10 +3,10 @@ layout: default
 ---
 <div class="inner">
 	<h1 id="main1">Zajęcia 1</h1>
-    <h2 id="main2">Materiały do warsztatów technologii webowych prowadzonych na Wydziale Matematyki i Informatyki Uniwersytetu im. Adama Mickiewicza w Poznaniu.</h2>
+    <h2 id="main2">Materiały do&nbsp;warsztatów technologii webowych prowadzonych na Wydziale Matematyki i Informatyki Uniwersytetu im. Adama Mickiewicza w Poznaniu.</h2>
 </div>
 
-<a href="index.html" class="button-v button-back">Wróc do spisu materiałów</a>
+<a href="index.html" class="button-v button-back">Wróc do&nbsp;spisu materiałów</a>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
