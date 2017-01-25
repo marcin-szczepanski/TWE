@@ -361,6 +361,11 @@ footer a:hover {
   .inner {
     width: 490px;
   }
+  
+  .wrapper {
+	margin-top: 10rem;
+  }
+  
   header h1, header h2 {
     width: 340px;
   }
@@ -392,6 +397,9 @@ footer a:hover {
   }
   header {
     padding: 20px 0;
+  }
+  .wrapper 	{
+	margin-top: 10rem;
   }
   header .inner {
     position: relative;
