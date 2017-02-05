@@ -28,6 +28,13 @@ var fun = function lang(l) {
 }
 ```
 
+```html
+<!-- HTML code -->
+<div class="xyz">
+
+</div>
+```
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
