@@ -11,12 +11,7 @@ layout: default
 
 <h2>Ćwiczenie 1</h2>
 Przeanalizuj poniższy kod:
-```html
-<!-- HTML code -->
-<div class="xyz">
 
-</div>
-```
 
 ```css
 /* CSS code */
