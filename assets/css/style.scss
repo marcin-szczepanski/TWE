@@ -1,0 +1,108 @@
+---
+---
+
+@import 'jekyll-theme-architect';
+
+.fixed {
+	position: absoulte;
+	width: 100%;
+	background-color: #65397C;
+}
+
+header,#main-content h1,#main-content h2,#main-content h3,#main-content h4,#main-content h5,#main-content h5 {
+	font-family: 'SourceSansProRegular';
+}
+
+#main1,#main2 {
+	margin: 0;
+}
+
+#main1 {
+	line-height: 1em;
+}
+#header-div h2 {
+	color: #666;
+}
+
+.menu {
+	list-style-type: none;
+}
+
+.button-v {
+	display: inline-block;
+	font-family: 'SourceSansProRegular';
+	color: #fff;
+	background-color: #674370;
+	text-align: center;
+	border-radius: 0.35em;
+	padding: 0.4em 1em;
+	margin-bottom: 1rem;
+	transition-property: all;
+	transition-duration: 500ms;
+	float: right;
+}
+
+.button-v:hover {
+	background-color: #65397C;
+	color: white;
+	text-decoration: none;
+}
+
+.button-back {
+	float: none;
+	margin-top: 1rem;
+}
+
+.button-module {
+	float: left;
+	margin-right: 2em;
+	margin-top: 1rem;
+}
+
+.choose-module {
+	margin: 0 auto;
+}
+
+.wrapper {
+	margin-top: 10rem;
+}
+
+.modules {
+	padding: 0 1.25em;
+	border: 0.2em solid #674370;
+	border-radius: 0.35em;
+	margin-bottom: 4rem;
+}
+
+.module {
+	padding: 0 1.25em;
+	border: 0.1em solid #674370;
+	border-radius: 0.35em;
+	margin-bottom: 1rem;
+}
+
+#main-content h1:before,#main-content h2:before,#main-content h3:before,#main-content h4:before,#main-content h5:before,#main-content h6:before {
+	content: none;
+}
+
+.center {
+	text-align: center;
+	color: #222;
+}
+
+dd {
+	margin-left: 0;
+	padding-top: 0.5rem;
+}
+
+dt {
+	font-weight: bold;
+}
+
+a {
+	color: #674370;
+}
+
+a:hover {
+	color: #65397C;
+}
