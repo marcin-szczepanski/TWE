@@ -54,6 +54,7 @@ Każdy uczestnik, który będzie **aktywnie uczestniczyć** w warsztatach otrzym
 ### Co to znaczy "aktywnie uczestniczyć" w warsztatach?
 
 Aktywnie uczestniczyć w warsztatach oznacza, że uczestnik:
+
 *	był na co najmniej połowie warsztatów;
 *	wykonał większość zadań domowych;
 *	przystąpił do wykonania projektu i pomyślnie przeszedł przez co najmniej 4 z 5 etapów tego projektu.
