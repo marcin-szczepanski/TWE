@@ -4,9 +4,34 @@ layout: default
 <div class="inner">
 	<h1 id="main1">Zajęcia 1</h1>
     <h2 id="main2">Materiały do&nbsp;warsztatów technologii webowych prowadzonych na Wydziale Matematyki i Informatyki Uniwersytetu im. Adama Mickiewicza w Poznaniu.</h2>
+	<a href="index.html" class="button-v button-module">Wróc do&nbsp;spisu materiałów</a>
+	<a href="https://jsfiddle.net/" target="blank" class="button-v button-module">Tu będziemy testować kod&nbsp;źródłowy</a>
+	<div style="clear: both;"></div>
 </div>
 
-<a href="index.html" class="button-v button-back">Wróc do&nbsp;spisu materiałów</a>
+<h2>Ćwiczenie 1</h2>
+Przeanalizuj poniższy kod:
+```html
+<!-- HTML code -->
+<div class="xyz">
+
+</div>
+```
+
+```css
+/* CSS code */
+div {
+	background-color: red;
+}
+```
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
