@@ -78,7 +78,7 @@ Przeanalizuj poniższy kod źródłowy:
 
 #### 2.3.8. Element button oraz pola ukryte
 
-#### 2.3.9. Grupowanie elementów formularzy
+### 2.4. Grupowanie elementów formularzy
 
 ## Zadania domowe
 
