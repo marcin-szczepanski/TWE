@@ -83,7 +83,7 @@ Przeanalizuj poniższy kod źródłowy:
 ## Zadania domowe
 
 ### Zadanie nr 1
-Wykonaj pierwszą fazę tworzenia projektu - **stworzenie repozytorium, w którym będą się znajdować pliki projektu**. Po stworzeniu repozytorium umieść adres do niego w bieżącym temacie z obecnością na forum.
+Wykonaj pierwszą fazę tworzenia projektu - **stworzenie repozytorium, w którym będą się znajdować pliki projektu**. Po stworzeniu repozytorium umieść adres do niego na forum w temacie z obecnością na pierwszych zajęciach w tym semestrze.
 
 ### Zadanie nr 2
 Przygotuj formularz jak na poniższym obrazku:
