@@ -186,15 +186,27 @@ form {
 #main-content h2 {
   margin-bottom: 8px;
   font-family: 'SourceSansProRegular', Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  font-weight: normal;
+  font-size: 24px;
+  font-weight: bold;
   color: #222;
 }
+
+
+
 #main-content h2:before {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "//";
   color: #9ddcff;
+}
+
+.h2 {
+  margin-bottom: 8px;
+  margin-top: 8px;
+  font-family: 'SourceSansProRegular', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  color: #222;
 }
 
 dt {
@@ -207,7 +219,7 @@ dt {
   font-family: 'SourceSansProRegular', Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: bold;
-  color: #474747;
+  color: #222;
   text-indent: 3px;
 }
 
@@ -215,7 +227,7 @@ dt {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #9ddcff;
+  color: #222;
 }
 
 #main-content h4 {
@@ -223,7 +235,7 @@ dt {
   font-family: 'SourceSansProRegular', Helvetica, Arial, sans-serif;
   font-size: 15px;
   font-weight: bold;
-  color: #474747;
+  color: #222;
   text-indent: 3px;
 }
 
@@ -231,35 +243,35 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
-  color: #9ddcff;
+  color: #222;
 }
 
 #main-content h5 {
   margin-bottom: 8px;
   font-family: 'SourceSansProRegular', Helvetica, Arial, sans-serif;
   font-size: 14px;
-  color: #474747;
+  color: #222;
   text-indent: 3px;
 }
 h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "/////";
-  color: #9ddcff;
+  color: #222;
 }
 
 #main-content h6 {
   margin-bottom: 8px;
   font-family: 'SourceSansProRegular', Helvetica, Arial, sans-serif;
   font-size: .8em;
-  color: #474747;
+  color: #222;
   text-indent: 3px;
 }
 h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "//////";
-  color: #9ddcff;
+  color: #222;
 }
 
 header h1 {
