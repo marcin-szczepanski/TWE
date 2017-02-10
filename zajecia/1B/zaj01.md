@@ -14,6 +14,7 @@ W języku HTML5 został wprowadzony zbiór nowych elementów służących do ozn
 
 ### 1.1. Nagłówki i stopki
 Elementy <span class="preformat">&lt;header&gt;</span> i <span class="preformat">&lt;footer&gt;</span> mogą być używane do tworzenia:
+
 * głównego nagłówka i stopki prezentowanych odpowiednio na górze i na dole każdej strony witryny;
 * nagłówka i stopki umieszczonych w poszczególnych elementach <span class="preformat">&lt;article&gt;</span> oraz <span class="preformat">&lt;section&gt;</span>.
 
