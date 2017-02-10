@@ -90,4 +90,4 @@ Przygotuj formularz jak na poniższym obrazku:
 
 ![](assets/images/prdom01.png)
 
-Rozwiązania tego zadania umieść w stworzonym w poprzednim zadaniu repozytorium w katalogu o nazwie "Prace_domowe". Plik z rozwiązaniem nazwij "prdom01.html".
+Rozwiązanie tego zadania umieść w stworzonym w poprzednim zadaniu repozytorium w katalogu o nazwie "Prace_domowe". Plik z rozwiązaniem nazwij "prdom01.html".
