@@ -22,6 +22,7 @@ Element <span class="preformat">&lt;nav&gt;</span> jest przeznaczony do umieszcz
 
 ### Przykład 1
 Przeanalizuj poniższy kod źródłowy:
+
 ```html
 <header>
     <h1>Dania świata</h1>
