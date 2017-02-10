@@ -81,6 +81,7 @@ Przeanalizuj poniższy kod źródłowy:
 #### 2.3.9. Grupowanie elementów formularzy
 
 ## Zadania domowe
+
 ### Zadanie nr 1
 Wykonaj pierwszą fazę tworzenia projektu - **stworzenie repozytorium, w którym będą się znajdować pliki projektu**. Po stworzeniu repozytorium umieść adres do niego w bieżącym temacie z obecnością na forum.
 
