@@ -348,7 +348,7 @@ Przeanalizuj poniższy kod źródłowy:
 </form>
 ```
 
-Do czego służą zastosowane w powyższym kodzie znaczniki <span class="preformat">&lt;fieldset&gt;</span> oraz <span class="preformat">&lt;legend&gt;</span>?
+Do czego służą zastosowane w powyższym kodzie znaczniki <span class="preformat">&lt;fieldset&gt;</span>, <span class="preformat">&lt;legend&gt;</span> oraz <span class="preformat">&lt;label&gt;</span>?
 
 ## Zadania domowe:
 
