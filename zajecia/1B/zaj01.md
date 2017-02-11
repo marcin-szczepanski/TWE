@@ -21,7 +21,7 @@ Elementy <span class="preformat">&lt;header&gt;</span> i <span class="preformat"
 ### 1.2. Nawigacja
 Element <span class="preformat">&lt;nav&gt;</span> jest przeznaczony do umieszczania głównych bloków nawigacyjnych witryny, takich jak lista łączy do jej głównych działów.
 
-### Przykład 1
+### Przykład 1.
 
 ```html
 <header>
@@ -46,7 +46,7 @@ Element <span class="preformat">&lt;nav&gt;</span> jest przeznaczony do umieszcz
 Element <span class="preformat">&lt;section&gt;</span> służy do grupowania innych powiązanych ze sobą elementów. Zazwyczaj każda taka sekcja ma własny nagłówek.
 Na przykład na stronie głównej naszej witryny możemy umieścić kilka elementów <span class="preformat">&lt;section&gt;</span> zawierających różne sekcje strony, takie jak najnowsze publikacje, najpopularniejsze produkty czy formularze do subskrypcji biuletynu informacyjnego.
 
-### Przykład 2
+### Przykład 2.
 
 ```html
 <section class="popular-recipes">
@@ -61,7 +61,7 @@ Na przykład na stronie głównej naszej witryny możemy umieścić kilka elemen
 ### 1.4. Grupy nagłówków
 Element <span class="preformat">&lt;hgroup&gt;</span> służy do grupowania od jednego do kilku elementów <span class="preformat">&lt;h1&gt; - &lt;h6&gt;</span>, tak by były one traktowane jako jeden nagłówek.
 
-### Przykład 3
+### Przykład 3.
 
 ```html
 <hgroup>
@@ -96,7 +96,7 @@ W elemencie <span class="preformat">&lt;figure&gt;</span> należy umieszczać ta
 ### 1.6. Artykuły
 Element <span class="preformat">&lt;article&gt;</span> pełni funkcję pojemnika, w którym są umieszczane dowolne sekcje strony, przy czym powinny one być stosunkowo autonomiczne i nadawać się do zebrania w większą grupę.
 
-### Przykład 5
+### Przykład 5.
 
 ```html
 <article>
@@ -128,7 +128,7 @@ Element <span class="preformat">&lt;aside&gt;</span> ma kilka zastosowań, zale�
 W pierwszym przypadku element <span class="preformat">&lt;aside&gt;</span> powinien zawierać informacje powiązane z artykułem, lecz niekoniecznie z jego znaczeniem (np. wyróżniony cudzysłów).
 Natomiast w drugiej sytuacji element <span class="preformat">&lt;aside&gt;</span> służy nam jako pojemnik dla treści związanych z całą stroną (np. łącza do innych sekcji witryny).
 
-### Przykład 6
+### Przykład 6.
 
 ```html
 <aside>
@@ -152,7 +152,7 @@ Natomiast w drugiej sytuacji element <span class="preformat">&lt;aside&gt;</span
 ### 1.8. Grupowanie elementów w sekcje
 
 ### Ćwiczenie 1.
-Przeanalizuj poniśzy kod źródłowy:
+Przeanalizuj poniższy kod źródłowy:
 
 ```html
 <div class="wrapper">
@@ -178,13 +178,56 @@ Jakie znaczenie w powyższym kodzie ma element <span class="preformat">&lt;div&g
 
 ## 2. Formularze
 
+### Ćwiczenie 2.
+Co to jest formularz? Zastanów się, jakie znaczenie może mieć pojęcie formularza w kontekście języka HTML5.
+
 ### 2.1. Jak działają formularze?
+Użytkownik wypełnia formularz, a następnie naciska przycisk, by przesłać podane w nim informacje na serwer. Co się dzieje dalej?
+
+### Ćwiczenie 3.
+Przeanalizuj a następnie omów poniższy schemat:
+
+![](assets/images/przykl01.png)
 
 ### 2.2. Struktura formularzy
+Wszystkie pola formularzy są umieszczane wewnątrz elementu <span class="preformat">&lt;form&gt;</span>. W tym elemencie zawsze określamy wartość atrybutu <span class="preformat">action</span>; oprócz tego zazwyczaj podaje się wartości atrybutów <span class="preformat">method</span> oraz <span class="preformat">id</span>.
+
+Każdy element <span class="preformat">&lt;form&gt;</span> wymaga określenia atrybutu <span class="preformat">action</span>. Jest nią adres URL strony na serwerze, do której w momencie wysłania formularza należy przekazać podane w nim informacje.
+
+Formularze można wysyłać za pomocą jednej z dwóch metod: <span class="preformat">get</span> albo <span class="preformat">post</span>.
+W przypadku stosowania metody <span class="preformat">get</span> wartości pól formularza są dodawane na końcu adresu URL podanego w atrybucie <span class="preformat">action</span>.
+Natomiast w przypadku zastosowania metody <span class="preformat">post</span> wartości są przesyłane w tzw. **nagłówkach HTTP**.
+Jeśli atrybut <span class="preformat">method</span> nie zostanie podany, przeglądarka prześle formularz, używając metody <span class="preformat">get</span>.
+
+### Ćwiczenie 3.
+Jak myślisz, kiedy do przesyłania formularzy używamy metody <span class="preformat">get</span> a kiedy metody <span class="preformat">post</span>?
+
+### Ćwiczenie 4.
+Kiedy Twoim zdaniem należy w formularzu umieszczać atrybut <span class="preformat">id</span>?
 
 ### 2.3. Pola formularzy
+W tej części omówimy podstawowe elementy używane przy tworzeniu formularzy.
 
 #### 2.3.1. Pola tekstowe
+Element <span class="preformat">&lt;input&gt;</span> służy do tworzenia kilku różnych rodzajów pól. Rodzaj pola, które zostanie utworzone, zależy od wartości atrybutu <span class="preformat">type</span> tego elementu.
+
+Przeanalizujmy poniższy przykład:
+
+### Przykład 7.
+
+```html
+<form action="http://www.jakaswitryna.com/login.php">
+	<p>Nazwa użytkownika:
+		<input type="text" name="username" size="15" maxlength="30" />
+	</p>  
+</form>
+```
+
+Jeśli atrybut <span class="preformat">type</span> będzie mieć wartość <span class="preformat">text</span>, zostanie utworzone pole tekstowe.
+
+Kiedy użytkownicy wypełniają formularz serwer musi wiedzieć, jakie informacje zostały podane w poszczególnych polach. Z tego powodu w każdym polu formularza należy podać wartość atrybutu <span class="preformat">name</span>. Identyfikuje ona pole formularza i jest przesyłana wraz z jego zawartością na serwer.
+
+Atrybutu <span class="preformat">maxlength</span> można używać w celu ograniczenia liczby znaków wpisywanych w polu.
 
 #### 2.3.2. Pole hasła
 
@@ -201,6 +244,25 @@ Jakie znaczenie w powyższym kodzie ma element <span class="preformat">&lt;div&g
 #### 2.3.8. Element button oraz pola ukryte
 
 ### 2.4. Grupowanie elementów formularzy
+
+### Ćwiczenie 5.
+Przeanalizuj poniższy kod źródłowy:
+
+```html
+<form action="http://www.jakaswitryna.com/profile.php">
+	<fieldset>
+		<legend>Informacje kontaktowe</legend>
+		<label>Adres email:<br />
+		<input type="text" name="email" /></label><br />
+		<label>Telefon komórkowy:<br />
+		<input type="text" name="mobile" /></label><br />
+		<label>Telefon:<br />
+		<input type="text" name="telephone" /></label>
+	</fieldset>
+</form>
+```
+
+Do czego służą zastosowane w powyższym kodzie znaczniki <span class="preformat">&lt;fieldset&gt;</span> oraz <span class="preformat">&lt;legend&gt;</span>?
 
 ## Zadania domowe
 
