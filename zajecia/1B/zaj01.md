@@ -229,6 +229,10 @@ Kiedy użytkownicy wypełniają formularz serwer musi wiedzieć, jakie informacj
 
 Atrybutu <span class="preformat">maxlength</span> można używać w celu ograniczenia liczby znaków wpisywanych w polu.
 
+Atrybutu <span class="preformat">size</span> nie należy używać w nowych formularzach. Wcześniej był on wykorzystywany w celu określenia długości pola.
+Wartością tego atrybutu jest liczba znaków, które będą widoczne w polu.
+We wszystkich obecnie tworzonych formularzach szerokość pól formularzy należy określać przy użyciu CSS.
+
 #### 2.3.2. Pole hasła
 
 #### 2.3.3. Wielowierszowe pola tekstowe
