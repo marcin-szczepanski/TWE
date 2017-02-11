@@ -234,8 +234,22 @@ Wartością tego atrybutu jest liczba znaków, które będą widoczne w polu.
 We wszystkich obecnie tworzonych formularzach szerokość pól formularzy należy określać przy użyciu CSS.
 
 #### 2.3.2. Pole hasła
-
+Jeśli atrybutowi <span class="preformat">type</span> elementu <span class="preformat">&lt;input&gt;</span> zostanie przypisana wartość <span class="preformat">password</span>, można utworzyć pole działające podobnie do zwyczajnego z tą różnicą, że wpisywane do niego znaki będą maskowane. Dzięki temu nikt, zaglądając nam przez ramię, nie będzie mógł odczytać wpisywanych w polu wrażliwych danych takich jak hasło.
 #### 2.3.3. Wielowierszowe pola tekstowe
+Element <span class="preformat">&lt;textarea&gt;</span> służy do tworzenia wielowierszowych pól tekstowych. W odróżnieniu od <span class="preformat">&lt;input&gt;</span> nie jest elementem pustym. Oznacza to, że powinien mieć zarówno znacznik otwierający jak i zamykający.
+
+### Ćwiczenie 5.
+Przeanalizuj poniższy kod źródłowy:
+
+```html
+<form action="http://www.jakaswitryna.com/login.php">
+	<p>Co myślisz o tym koncercie?</p>
+	<textarea name="comments" cols="30" rows="4">
+	Tutaj wpisz swój komentarz...</textarea>   
+</form>
+```
+
+Do czego służą atrybuty <span class="preformat">cols</span> i <span class="preformat">rows</span>?
 
 #### 2.3.4. Przyciski opcji
 
@@ -245,7 +259,7 @@ We wszystkich obecnie tworzonych formularzach szerokość pól formularzy należ
 
 #### 2.3.7. Przycisk graficzny
 
-#### 2.3.8. Element button oraz pola ukryte
+#### 2.3.8. Element button
 
 ### 2.4. Grupowanie elementów formularzy
 
