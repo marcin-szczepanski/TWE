@@ -14,6 +14,7 @@ Zajęcia dla grup kontynuujących kurs warsztatów Technologii Webowych w semest
 ### Zagadnienia poruszane w trakcie warsztatów:
 
 *   znaczniki charakterystyczne dla języka HTML5;
+*	formularze;
 *   animacje w CSS3;
 *   pozycjonowanie elementów na stronie;
 *   rytm pionowy;
