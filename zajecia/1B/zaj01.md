@@ -300,7 +300,7 @@ Jeżeli elementowi <span class="preformat">&lt;input&gt;</span> nadamy atrybut <
 
 ### Ćwiczenie 2.7
 
-Jakie znaczenie ma atrybut <span class="preformat">submit</span> w poniższym kodzie źródłowym?
+Jakie znaczenie ma atrybut <span class="preformat">value</span> w poniższym kodzie źródłowym?
 
 ```html
 <form action="http://www.jakaswitryna.com/profile.php">
