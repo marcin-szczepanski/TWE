@@ -72,7 +72,7 @@ Element <span class="preformat">&lt;hgroup&gt;</span> służy do grupowania od j
 
 ### 1.5. Ilustracje
 Element <span class="preformat">&lt;figure&gt;</span> może zawierać dowolne treści, do których odwołuje się główna treść artykułu (nie tylko obrazy).
-Należy też zauważyć, że artykuł nie powinien tracić znaczenia w przypadku przesunięcia zawartości elementu <span class="preformat">&lt;figure&gt;</span>. Dlatego nalezy go używać tylko w sytuacjach, kiedy w treści artykułu znajduje się jedynie odwołanie do elementu.
+Należy też zauważyć, że artykuł nie powinien tracić znaczenia w przypadku przesunięcia zawartości elementu <span class="preformat">&lt;figure&gt;</span>. Dlatego należy go używać tylko w sytuacjach, kiedy w treści artykułu znajduje się jedynie odwołanie do elementu.
 Poniżej przedstawiono kilka zastosowań elementu <span class="preformat">&lt;figure&gt;</span>:
 
 * obrazy,
