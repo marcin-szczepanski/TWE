@@ -330,16 +330,47 @@ div {
 
 Poniżej zostały omówione właściwości grupy <span class="preformat">animation</span>:
 
-* aby określić nazwę animacji, którą chcemy dodać do elementu używamy właściwości <span class="preformat">animation-name</span>;
-* aby określić długość trwania animacji używamy właściwości <span class="preformat">animation-duration</span>;
-* aby określić tempo animacji używamy właściwości <span class="preformat">animation-timing-function</span>;
-* aby określić opóźnienie/przyspieszenie pierwszego startu animacji używamy właściwości <span class="preformat">animation-delay</span>;
-* aby określić ilość powtórzeń animacji używamy właściwości <span class="preformat">animation-iteration-count</span>;
-* aby określić kierunek powtarzania się oraz rozpoczęcia animacji używamy właściwości <span class="preformat">animation-direction</span>;
-* aby określić dodatkowy wygląd elementu przed lub po wykonaniu się animacji używamy właściwości <span class="preformat">animation-fill-mode</span>;
-* aby wstrzymać lub wznowić wykonywanie się animacji używamy właściwości <span class="preformat">animation-play-state</span>.
+- aby określić nazwę animacji, którą chcemy dodać do elementu używamy właściwości <span class="preformat">animation-name</span>;
+- aby określić długość trwania animacji używamy właściwości <span class="preformat">animation-duration</span>;
+- aby określić tempo animacji używamy właściwości <span class="preformat">animation-timing-function</span>; przyjmowane wartości:
+	- <span class="preformat">linear</span> - stała szybkość;
+    - <span class="preformat">ease</span> - szybciej na początku, wolniej pod koniec (domyślne ustawienie);
+    - <span class="preformat">ease-in</span> - wolniej na początku;
+    - <span class="preformat">ease-out</span> - wolniej pod koniec;
+    - <span class="preformat">ease-in-out</span> - wolniej na początku i pod koniec;
+    - <span class="preformat">cubic-bezier()</span> - własne ustawienie szybkości (wartości od 0 do 1);
+	- <span class="preformat">steps(frames, avoid)</span> - tempem wykonywania się animacji interesującego nas elementu HTML będzie tempo stałe składające się z konkretnej ilości klatek;
+- aby określić opóźnienie/przyspieszenie pierwszego startu animacji używamy właściwości <span class="preformat">animation-delay</span>;
+- aby określić ilość powtórzeń animacji używamy właściwości <span class="preformat">animation-iteration-count</span>; przyjmowane wartości:
+    - <span class="preformat">infinite</span> - ciągłe powtarzanie;
+    - <span class="preformat">wartość liczbowa</span> - liczba powtórzeń;
+- aby określić kierunek powtarzania się oraz rozpoczęcia animacji używamy właściwości <span class="preformat">animation-direction</span>; przyjmowane wartości:
+    - <span class="preformat">normal</span> - animacja będzie przebiegać od początku do końca;
+    - <span class="preformat">reverse</span> - animacja będzie przebiegać od końca do początku;
+    - <span class="preformat">alternate</span> - rozpoczęcie animacji od początku, powtarzanie w przeciwnym kierunku;
+    - <span class="preformat">alternate-reverse</span> - rozpoczęcie animacji od końca, powtarzanie w przeciwnym kierunku;
+- aby określić dodatkowy wygląd elementu przed lub po wykonaniu się animacji używamy właściwości <span class="preformat">animation-fill-mode</span>; przyjmowane wartości:
+    - <span class="preformat">none</span> - brak efektu (domyślne ustawienie);
+    - <span class="preformat">forwards</span> - styl elementu po zakończeniu animacji zgodny z deklaracją w ostatnim selektorze animacji;
+    - <span class="preformat">backwards</span> - styl elementu przed rozpoczęciem animacji zgodny z deklaracją w pierwszym selektorze animacji;
+    - <span class="preformat">both</span> - styl elementu po rozpoczęciu i zakończeniu animacji zgodny z deklaracjami odpowiednio w pierwszym i ostatnim selektorze animacji;
+- aby wstrzymać lub wznowić wykonywanie się animacji używamy właściwości <span class="preformat">animation-play-state</span>; przyjmowane wartości:
+    - <span class="preformat">paused</span> - wstrzymanie animacji;
+    - <span class="preformat">running</span> - wznowienie animacji;
 
 Aby wyżej wymienione właściwości CSS w jakikolwiek sposób oddziaływały na dany element musimy najpierw utworzyć jakąś przykładową animację, za pomocą reguły <span class="preformat">@keyframes</span>.
+
+### Więcej informacji o funkcji <span class="preformat">steps()</span>
+Za pomocą funkcji <span class="preformat">steps()</span> możemy określić stałe tempo składające się z określonej ilości klatek. 
+
+Parametr <span class="preformat">frames</span> jest wymaganym parametrem funkcji <span class="preformat">steps()</span>. Parametr <span class="preformat">frames</span> określa z ilu klatek powinno składać się nowo tworzone stałe tempo. 
+
+Parametr <span class="preformat">avoid</span> nie jest wymaganym parametrem funkcji <span class="preformat">steps()</span>. Parametr <span class="preformat">avoid</span> określa, która klatka budująca nowo tworzone stałe tempo powinna zostać pominięta. Dostępne wartości: <span class="preformat">start</span> i <span class="preformat">end</span>.
+Wartość <span class="preformat">start</span> parametru <span class="preformat">avoid</span> sprawia, że pierwsza klatka budująca nowo tworzone stałe tempo będzie pomijana. 
+Wartość <span class="preformat">end</span> parametru <span class="preformat">avoid</span> sprawia, że ostatnia klatka budująca nowo tworzone stałe tempo będzie pomijana. 
+
+### Więcej informacji o funkcji <span class="preformat">cubic-bezier()</span>
+Jeśli jesteś zainteresowany szczegółami na temat funkcji <span class="preformat">cubic-bezier()</span> zapraszam do lektury - <a href="http://webkod.pl/kurs-css/wartosci/funkcje/cubic-bezier" target="blank">Krzywa Béziera</a>.
 
 ### Przykład 4.2.
 
