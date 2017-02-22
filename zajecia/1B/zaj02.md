@@ -366,7 +366,9 @@ Za pomocą funkcji <span class="preformat">steps()</span> możemy określić sta
 Parametr <span class="preformat">frames</span> jest wymaganym parametrem funkcji <span class="preformat">steps()</span>. Parametr <span class="preformat">frames</span> określa z ilu klatek powinno składać się nowo tworzone stałe tempo. 
 
 Parametr <span class="preformat">avoid</span> nie jest wymaganym parametrem funkcji <span class="preformat">steps()</span>. Parametr <span class="preformat">avoid</span> określa, która klatka budująca nowo tworzone stałe tempo powinna zostać pominięta. Dostępne wartości: <span class="preformat">start</span> i <span class="preformat">end</span>.
+
 Wartość <span class="preformat">start</span> parametru <span class="preformat">avoid</span> sprawia, że pierwsza klatka budująca nowo tworzone stałe tempo będzie pomijana. 
+
 Wartość <span class="preformat">end</span> parametru <span class="preformat">avoid</span> sprawia, że ostatnia klatka budująca nowo tworzone stałe tempo będzie pomijana. 
 
 ### Więcej informacji o funkcji <span class="preformat">cubic-bezier()</span>
@@ -411,6 +413,80 @@ div:hover {
 	animation-play-state: paused;
 	cursor: pointer;
 }
+```
+
+### Ćwiczenie 4.3.
+Napisz kod tworzący poniższą animację:
+
+<iframe src="cw4-03.html" width="100%" height="370" style="overflow: auto;" frameborder="0"></iframe>
+
+### Przykład 4.3. - coś ambitniejszego :)
+
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body {
+				background: #000;
+				padding-top: 16px;
+			} 
+
+			p {
+				color: lime; 
+				font-family: "Courier";
+				font-size: 20px;
+				margin: 10px 0 0 10px;
+				white-space: nowrap;
+				overflow: hidden;
+				width: 30em;
+				animation: type 4s steps(60, end); 
+			}
+
+			p:nth-child(2) {
+				animation: type2 8s steps(60, end);
+			}
+
+			p a {
+				color: lime;
+				text-decoration: none;
+			}
+
+			span {
+				animation: blink 1s infinite;
+			}
+
+			@keyframes type { 
+				0% {
+					width: 0;
+				} 
+			} 
+
+			@keyframes type2 {
+				0% {
+					width: 0;
+				}
+				50% {
+					width: 0;
+				}
+				100% {
+					width: 100;
+				} 
+			} 
+
+			@keyframes blink {
+				100% {
+					opacity: .0;
+				}
+			}
+
+		</style>
+	</head>
+	<body>
+		<p>To jest pierwszy wiersz animacji.</p>
+		<p>To jest drugi wiersz animacji.<span>|</span></p> 
+	</body>
+</html>
 ```
 
 ## Zadania domowe
