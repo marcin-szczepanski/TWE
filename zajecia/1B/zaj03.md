@@ -204,7 +204,8 @@ Wejdź na stronę <a href="https://webroad.pl/html5-css3/2466-css3-flexbox-podst
 Korzystając z mechanizmu flexbox, stwórz układ jak na poniższym obrazku:
 
 ![](assets/images/cw7-1.png)
-### Zadania domowe
+
+## Zadania domowe
 
 Na kolejne zajęcia musi być wykonana druga faza projektu - **zbudowanie szkieletu aplikacji w HTML5**.
 
