@@ -201,9 +201,34 @@ Wejdź na stronę <a href="https://webroad.pl/html5-css3/2466-css3-flexbox-podst
 * <a href="http://flexboxfroggy.com/">Flexbox Froggy</a> - ćwiczenia.
 
 ### Ćwiczenie 7.1.
-Korzystając z mechanizmu flexbox, stwórz układ jak na poniższym obrazku:
+Korzystając z mechanizmu flexbox, stwórz układ jak na poniższym obrazku na podstawie niżej podanego kodu źródłowego:
 
 ![](assets/images/cw7-1.png)
+
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ćwiczenie 7.1.</title>
+	</head>
+	<body>
+		<div class="box">
+		<div class="A">1</div>
+		<div class="B">2</div>
+		<div class="C">3</div>
+		<div class="D">4</div>
+		<div class="E">5</div>
+		<div class="F">6</div>
+		<div class="G">7</div>
+		<div class="H">8</div>
+		<div class="I">9</div>
+		<div class="J">10</div>
+		<div class="K">11</div>
+	</div>
+	</body>
+</html>
+
+```
 
 ## Zadania domowe
 
