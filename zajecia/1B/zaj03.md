@@ -213,18 +213,18 @@ Korzystając z mechanizmu flexbox, stwórz układ jak na poniższym obrazku na p
 	</head>
 	<body>
 		<div class="box">
-		<div class="A">1</div>
-		<div class="B">2</div>
-		<div class="C">3</div>
-		<div class="D">4</div>
-		<div class="E">5</div>
-		<div class="F">6</div>
-		<div class="G">7</div>
-		<div class="H">8</div>
-		<div class="I">9</div>
-		<div class="J">10</div>
-		<div class="K">11</div>
-	</div>
+			<div class="A">1</div>
+			<div class="B">2</div>
+			<div class="C">3</div>
+			<div class="D">4</div>
+			<div class="E">5</div>
+			<div class="F">6</div>
+			<div class="G">7</div>
+			<div class="H">8</div>
+			<div class="I">9</div>
+			<div class="J">10</div>
+			<div class="K">11</div>
+		</div>
 	</body>
 </html>
 
