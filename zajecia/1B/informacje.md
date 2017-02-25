@@ -9,7 +9,7 @@ layout: default
 </div>
 
 ### Terminy zajęć:
-Zajęcia dla grupy kontynuującej kurs warsztatów Technologii Webowych w semestrze letnim 2016/2017 odbywają się _co tydzień_ w każdy **wtorek o 11:45** w sali **A1-14**.
+Zajęcia dla grupy kontynuującej kurs warsztatów Technologii Webowych w semestrze letnim 2016/2017 odbywają się w każdy **wtorek o 11:45** w sali **A1-14**.
 
 ### Zagadnienia poruszane w trakcie warsztatów:
 
