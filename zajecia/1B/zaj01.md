@@ -363,5 +363,5 @@ Przygotuj formularz jak na poniższym obrazku:
 Rozwiązanie tego zadania umieść w stworzonym w poprzednim zadaniu repozytorium w katalogu o nazwie "Prace_domowe". Plik z rozwiązaniem nazwij "prdom01.html".
 
 ### Źródła
-* Ducket Jon, HTML and CSS: Design and Build Websites, przeł. Piotr Rajca, Helion, 2014, ISBN 978-83-246-6520-4.
+* Ducket Jon, _HTML and CSS: Design and Build Websites_, przeł. Piotr Rajca, Helion, 2014, ISBN 978-83-246-6520-4.
 * webkod.pl

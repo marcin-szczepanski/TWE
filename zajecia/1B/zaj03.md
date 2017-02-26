@@ -237,6 +237,6 @@ Na kolejne zajęcia musi być wykonana druga faza projektu - **zbudowanie szkiel
 Omówione dzisiaj zagadnienia będą używane w kolejnej fazie projektu. Więcej szczegółów będzie podane później.
 
 ### Źródła
-* Ducket Jon, HTML and CSS: Design and Build Websites, przeł. Piotr Rajca, Helion, 2014, ISBN 978-83-246-6520-4.
+* Ducket Jon, _HTML and CSS: Design and Build Websites_, przeł. Piotr Rajca, Helion, 2014, ISBN 978-83-246-6520-4.
 * webkod.pl
 * webroad.pl
