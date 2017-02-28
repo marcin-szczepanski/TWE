@@ -4,8 +4,19 @@
 @import 'jekyll-theme-architect';
 
 .fixed {
-	width: 100%;
-	background-color: #65397C;
+	padding-top: 3px;
+	height: 60px;
+	background-color: rgb(103,67,112);
+}
+
+.wrap {
+	max-width: 1110px;
+	margin: 8px auto;
+}
+
+.logo-img {
+	width: 143px;
+	height: 40px;
 }
 
 header,#main-content h1,#main-content h2,#main-content h3,#main-content h4,#main-content h5,#main-content h5 {
