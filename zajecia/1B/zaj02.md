@@ -84,7 +84,7 @@ div {
 }
 
 #div-4 {
-	background-image: radial-gradient(blue -20%, gold 150%);
+	background-image: radial-gradient(blue -20%, white 150%);
 }
 
 #div-5 {
