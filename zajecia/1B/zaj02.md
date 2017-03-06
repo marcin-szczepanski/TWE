@@ -76,11 +76,11 @@ div {
 }
 
 #div-2 {
-	background-image: radial-gradient(white 0%, blue 0%);
+	background-image: radial-gradient(white 0%, blue 100%);
 }
 
 #div-3 {
-	background-image: radial-gradient(white, blue);
+	background-image: radial-gradient(blue, white);
 }
 
 #div-4 {
@@ -88,27 +88,27 @@ div {
 }
 
 #div-5 {
-	background-image: radial-gradient(blue, gold, green);
+	background-image: radial-gradient(blue, white, green);
 }
 
 #div-6 {
-	background-image: radial-gradient(circle, blue, gold, green);
+	background-image: radial-gradient(circle, blue, white, green);
 }
 
 #div-7 {
-	background-image: radial-gradient(ellipse, blue, gold, green);
+	background-image: radial-gradient(ellipse, blue, white, green);
 }
 
 #div-8 {
-	background-image: radial-gradient(circle at top, blue, gold, green);
+	background-image: radial-gradient(circle at top, blue, white, green);
 }
 
 #div-9 {
-	background-image: radial-gradient(circle at bottom right, blue, gold, green);
+	background-image: radial-gradient(circle at bottom right, blue, white, green);
 }
 
 #div-10 {
-	background-image: radial-gradient(circle at 50px 0, blue, gold, green);
+	background-image: radial-gradient(circle at 50px 0, blue, white, green);
 }
 ```
 
