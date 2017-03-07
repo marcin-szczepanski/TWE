@@ -476,7 +476,7 @@ Napisz kod tworzący poniższą animację:
 
 			@keyframes blink {
 				100% {
-					opacity: .0;
+					opacity: 0;
 				}
 			}
 
