@@ -18,7 +18,7 @@ Pojawienie się JavaScriptu pozwoliło zastapić tradycyjne aplikacje desktopowe
 
 ### 8.2. Na czym będziemy pracować?
 
-Będziemy pracować na platformie node.js.
+Będziemy pracować na platformie **node.js**.
 
 Najprościej rzecz ujmując, node.js jest platformą, która pozwala uruchomić kod JavaScript. Wszystko dzięki temu, że zbudowana jest na tym samym silniku JS, który używany jest choćby w Google Chrome – mowa o V8. Sama możliwość uruchomienia skryptów JavaScript w innym środowisku niż przeglądarka byłaby jednak mało atrakcyjna. Siła Node.js tkwi w jego modułach. Oferuje on ich kilkadziesiąt, dzięki którym możemy zbudować bardzo ciekawe aplikacje. Co za tym idzie, mamy np. do wyboru moduł HTTP, dzięki którym obsłużymy wszystkie zapytania HTTP, tworząc serwer www. Dostępny jest też moduł File System, dzięki któremu dostaniemy się do systemu plików. Dzięki Bufferowi obsłużymy dane binarne. I tak dalej. Jest tego naprawdę sporo i warto się temu przyjrzeć. Gwoli sprawiedliwości należy dodać, że dokumentacja node.js to pięta achillesowa tego projektu, choć pocieszać można się, że na początku było z tym jeszcze gorzej.
 
@@ -103,11 +103,11 @@ if (x == -2) {
 x++;
 var y = 0;
 
-if ((x >= -2) && (y<=0)) { // koniunkcja (and)
+if ((x >= -2) && (y <= 0)) { // koniunkcja (and)
 	console.log("true");
 }
 
-if ((x > -3) || (y>0)) { // alternatywa (or)
+if ((x > -3) || (y > 0)) { // alternatywa (or)
 	console.log("true");
 }
 
@@ -154,7 +154,7 @@ for (i in iterators) {
 
 ```js
 var tab = [1, 2, 3, 4, 5];
-for (var i = 0; i<tab.length; i++) {
+for (var i = 0; i < tab.length; i++) {
 	console.log(tab[i]);
 }
 ```
