@@ -121,7 +121,7 @@ if (!(x < -5)) { // negacja (not)
 ### Przykład 9.5.
 
 ```js
-var colors;
+var colors = [];
 colors = ['white', 'red', 'blue', 'other']; // wypełnienie tablicy danymi
 
 var el = colors[0]; // odniesienie do pierwszego elementu tablicy
@@ -159,11 +159,22 @@ for (var i = 0; i < tab.length; i++) {
 }
 ```
 
+### Przykład 9.8.
+
+```js
+var n = 5; // deklaracja rozmiaru tablicy tab
+var tab = []; // stworzenie jednowymiarowej tablicy
+
+for (var i = 0; i < n; i++) {
+	tab[i] = []; // każdy element tablicy jednowymiarowej staje się nową tablicą, dzięki czemu mamy tablicę dwuwymiarową
+}
+```
+
 W pętlach działają słowa kluczowe <span class="preformat">break</span> i <span class="preformat">continue</span> (tak jak np. w C++).
 
 ### 9.5. Pętla <span class="preformat">while</span>
 
-### Przykład 9.8.
+### Przykład 9.9.
 
 ```js
 var i = 0;
@@ -175,7 +186,7 @@ while (i < 5) {
 
 ### 9.6. Pętla <span class="preformat">do-while</span>
 
-### Przykład 9.9.
+### Przykład 9.10.
 
 ```js
 var i = 0;
@@ -192,7 +203,7 @@ Napisz skrypt języka JavaScript, który wyświetli macierz górnotrójkątną, 
 
 ### 9.7. Funkcje
 
-### Przykład 9.10.
+### Przykład 9.11.
 
 ```js
 function hello() {
@@ -202,7 +213,7 @@ function hello() {
 hello();
 ```
 
-### Przykład 9.11.
+### Przykład 9.12.
 
 ```js
 function getArea(width, height) {
@@ -216,7 +227,7 @@ var area = getArea(wallWidth, wallHeight);
 console.log(area);
 ```
 
-### Przykład 9.12.
+### Przykład 9.13.
 
 ```js
 function getSize(width, height, depth) {
@@ -240,7 +251,7 @@ console.log(areaVolume);
 
 Znając już funkcje w języku JavaScript, możemy przedstawić jeszcze jeden sposób wykonywania pętli. Obrazuje to poniższy przykład.
 
-### Przykład 9.13.
+### Przykład 9.14.
 
 ```js
 var numbers = [11, 6, 12, 1, 3, 14, 10, 0, 13, 4, 15, 5, 9, 17, 7, 16, 2, 8];
