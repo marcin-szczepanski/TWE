@@ -133,6 +133,8 @@ colors[1] = 'green';
 console.log(colors);
 ```
 
+Więcej informacji o tablicach, które przydadzą nam się w czwartej fazie projektu można znaleźć na stronie: <a href="http://kursjs.pl/kurs/super-podstawy/tablice.php" target="blank">kursjs.pl/kurs/super-podstawy/tablice.php</a>.
+
 ### 9.4. Pętla <span class="preformat">for</span>
 
 ### Przykład 9.6.
@@ -279,7 +281,7 @@ Napisz skrypt języka JavaScript, który wypisuje na ekranie tabliczkę mnożeni
 
 ### Zadanie 3.
 
-Napisz funkcję języka JavaScript, która wyszukuje najmniejszy element w tabkicy, zwraca go oraz jego indeks (jeśli jest kilka takich elementów, zwracany jest indeks pierwszego z nich). Argumentem tej funkcji jest tablica.
+Napisz funkcję języka JavaScript, która wyszukuje zadany element x w tablicy, zwraca go oraz jego indeks (jeśli jest kilka takich elementów, zwracany jest indeks pierwszego z nich). Argumentem tej funkcji jest tablica.
 
 ### Zadanie 4.
 
