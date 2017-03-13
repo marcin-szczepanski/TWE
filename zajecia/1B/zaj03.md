@@ -127,14 +127,12 @@ Kod źródłowy HTML:
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   </head>
   <body>
-    <div>
-      <p>W 1817 roku baron von Drais wymyślił maszynę biegową, która miała mu pomóc w szybszym poruszaniu się po ogrodach królewskich.</p>
-      <p>Urządzenie to, od nazwiska konstruktora, zostało nazwane &#8222;Draisienne&#8221; (drezyną). Było wykonane w całości z drewna. Nie cieszyło się ono długą popularnością i stanowiło raczej chwilowy krzyk mody.</p>
-      <p>Kolejne dwukołowe urządzenie do jeżdżenia pojawiło się w 1865 roku.</p>    
-      <p>Pierwsze rowery wykonane w całości z metalu pojawiły się w roku 1870. (Wcześniej metalurgia nie była dostatecznie rozwinięta i nie dawała możliwości wytworzenia metalu na tyle wytrzymałego, by można go użyć do tworzenia niewielkich, lecz dostatecznie mocnych części.)</p>
-      <p>Przednie koła rowerów zaczęły się robić coraz większe, gdyż uświadomiono sobie, że im będą większe, tym dalej rower przejedzie. </p>
-      <p>Ponieważ kierowca takiego urządzenia znajdował się tak wysoko nad jego środkiem ciężkości, jeśli tylko pojazd uderzył w kamień.</p>    
-    </div>
+    <p>W 1817 roku baron von Drais wymyślił maszynę biegową, która miała mu pomóc w szybszym poruszaniu się po ogrodach królewskich.</p>
+    <p>Urządzenie to, od nazwiska konstruktora, zostało nazwane &#8222;Draisienne&#8221; (drezyną). Było wykonane w całości z drewna. Nie cieszyło się ono długą popularnością i stanowiło raczej chwilowy krzyk mody.</p>
+    <p>Kolejne dwukołowe urządzenie do jeżdżenia pojawiło się w 1865 roku.</p>    
+    <p>Pierwsze rowery wykonane w całości z metalu pojawiły się w roku 1870. (Wcześniej metalurgia nie była dostatecznie rozwinięta i nie dawała możliwości wytworzenia metalu na tyle wytrzymałego, by można go użyć do tworzenia niewielkich, lecz dostatecznie mocnych części.)</p>
+    <p>Przednie koła rowerów zaczęły się robić coraz większe, gdyż uświadomiono sobie, że im będą większe, tym dalej rower przejedzie. </p>
+    <p>Ponieważ kierowca takiego urządzenia znajdował się tak wysoko nad jego środkiem ciężkości, jeśli tylko pojazd uderzył w kamień.</p>    
   </body>
 </html>
 ```
