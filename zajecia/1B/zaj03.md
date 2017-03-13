@@ -127,7 +127,6 @@ Kod źródłowy HTML:
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   </head>
   <body>
-    <h1>Ewolucja roweru</h1>
     <div>
       <p>W 1817 roku baron von Drais wymyślił maszynę biegową, która miała mu pomóc w szybszym poruszaniu się po ogrodach królewskich.</p>
       <p>Urządzenie to, od nazwiska konstruktora, zostało nazwane &#8222;Draisienne&#8221; (drezyną). Było wykonane w całości z drewna. Nie cieszyło się ono długą popularnością i stanowiło raczej chwilowy krzyk mody.</p>
