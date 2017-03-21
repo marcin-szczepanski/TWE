@@ -212,7 +212,7 @@ W wielkim skrócie, aby zachować rytm pionowy na stronie należy:
 ## 7. Wprowadzenie do Flexboxa
 
 ### Trochę przydatnych informacji
-Wejdź na stronę <a href="https://webroad.pl/html5-css3/2466-css3-flexbox-podstawowe-zalozenia">CSS3 Flexbox – podstawowe założenia</a> i przeczytaj znajdujący się tam artykuł.
+Wejdź na stronę <a href="http://webroad.pl/html5-css3/2466-css3-flexbox-podstawowe-zalozenia">CSS3 Flexbox – podstawowe założenia</a> i przeczytaj znajdujący się tam artykuł.
 
 ### Ciekawe strony:
 * <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a> - teoria z przykładami;
