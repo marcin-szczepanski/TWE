@@ -191,7 +191,7 @@ Która strona wygląda lepiej? Na obrazku nr 1 czy nr 2? Dlaczego?
 ![](assets/images/przy6-1.png)
 
 ![](assets/images/przy6-1-2.png)
-(obrazy pobrano z <a href="http://webroad.pl/html5-css3/702-6-sass-compass-rytm-pionowy">webroad.pl</a>)
+(obrazy pobrano z <a href="http://webroad.pl/html5-css3/702-6-sass-compass-rytm-pionowy" target="blank">webroad.pl</a>)
 
 **Rytm pionowy** jest to prawidłowość w ustaleniu rozmiaru odstępów, skutkująca uporządkowanym i&nbsp;przemyślanym rozmieszczeniem elementów witryny, głównie tekstu, w pionie.
 
@@ -212,12 +212,12 @@ W wielkim skrócie, aby zachować rytm pionowy na stronie należy:
 ## 7. Wprowadzenie do Flexboxa
 
 ### Trochę przydatnych informacji
-Wejdź na stronę <a href="http://webroad.pl/html5-css3/2466-css3-flexbox-podstawowe-zalozenia">CSS3 Flexbox – podstawowe założenia</a> i przeczytaj znajdujący się tam artykuł.
+Wejdź na stronę <a href="http://webroad.pl/html5-css3/2466-css3-flexbox-podstawowe-zalozenia" target="blank">CSS3 Flexbox – podstawowe założenia</a> i przeczytaj znajdujący się tam artykuł.
 
 ### Ciekawe strony:
-* <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a> - teoria z przykładami;
-* <a href="https://demo.agektmr.com/flexbox/">CSS Flexbox Please!</a> - tu można sprawdzić jak działają poszczególne właściwości;
-* <a href="http://flexboxfroggy.com/">Flexbox Froggy</a> - ćwiczenia.
+* <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="blank">A Complete Guide to Flexbox</a> - teoria z przykładami;
+* <a href="https://demo.agektmr.com/flexbox/" target="blank">CSS Flexbox Please!</a> - tu można sprawdzić jak działają poszczególne właściwości;
+* <a href="http://flexboxfroggy.com/" target="blank">Flexbox Froggy</a> - ćwiczenia.
 
 ### Ćwiczenie 7.1.
 Korzystając z mechanizmu flexbox, stwórz układ jak na poniższym obrazku na podstawie niżej podanego kodu źródłowego:
