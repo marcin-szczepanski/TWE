@@ -281,7 +281,7 @@ Napisz skrypt języka JavaScript, który wypisuje na ekranie tabliczkę mnożeni
 
 ### Zadanie 3.
 
-Napisz funkcję języka JavaScript, która wyszukuje zadany element x w tablicy, zwraca go oraz jego indeks (jeśli jest kilka takich elementów, zwracany jest indeks pierwszego z nich). Argumentem tej funkcji jest tablica oraz szukany element x.
+Napisz funkcję języka JavaScript, która wyszukuje zadany element x w tablicy, zwraca go oraz jego indeks (jeśli jest kilka takich elementów, zwracany jest indeks pierwszego z nich). Argumentem tej funkcji jest tablica oraz&nbsp;szukany element x.
 
 ### Zadanie 4.
 
