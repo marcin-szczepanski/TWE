@@ -298,7 +298,7 @@ Dana jest strona o poniższym kodzie źródłowym:
 
 Napisz skrypt języka JavaScript, który zmodyfikuje treść tej strony następująco:
 
-UWAGA: wartości w nawiasach należy podmienić poprzez skrypt JS! Moich komentarzy nie przepisujemy do kodu!
+UWAGA: wartości w nawiasach należy podmienić poprzez skrypt JS! Moich komentarzy nie przepisujemy do&nbsp;kodu!
 
 Nagłówek:
 
