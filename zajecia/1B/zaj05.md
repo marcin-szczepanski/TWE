@@ -335,7 +335,7 @@ Korzystam z dodatkowych wiadomości o obiekcie Math ze strony: http://kursjs.pl/
 Zadanie 1. Mam funkcję kwadratową:
 f(x) = x^2 + 5x + 6
 
-Wyróżnik tego trójmianu (delta) to: (wartość).
+Wyróżnik tego trójmianu to: (wartość).
 Pierwiastek kwadratowy tego wyróżnika to: (wartość).
 Miejscami zerowymi tej funkcji są: (wartość) i (wartość).
 
