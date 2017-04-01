@@ -31,7 +31,7 @@ layout: default
 
 ### 10.2. Modyfikowanie elementów HTML w języku JavaScript
 
-Wszystkie przykłady i ćwiczenia w tym podpunkcie będziemy wykonywać dla strony o następującym kodzie źródłowym:
+Większość przykładów i ćwiczeń w tym punkcie będziemy wykonywać dla strony o następującym kodzie źródłowym:
 
 ```html
 <!DOCTYPE html>
