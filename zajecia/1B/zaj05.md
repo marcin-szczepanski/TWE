@@ -137,8 +137,8 @@ function Hotel(name, rooms, booked) {
   };
 }
 
-var quayHotel = new Hotel('Tipton', 40, 25);
-var parkHotel = new Hotel('Hilton', 120, 77);
+var tiptonHotel = new Hotel('Tipton', 40, 25);
+var hiltonHotel = new Hotel('Hilton', 120, 77);
 ```
 
 ### Dodawanie i usuwanie właściwości
