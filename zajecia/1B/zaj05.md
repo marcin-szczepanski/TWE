@@ -181,7 +181,7 @@ W przypadku wartości będącej ciągiem tekstowym można użyć własciwości i
 
 ### Ćwiczenie 10.4.
 
-Mamy do dyspozycji zmienną <span class="preformat">var sentence = ' Home sweet home ';</span>. Dla&nbsp;strony o&nbsp;kodzie źródłowym z podpunktu 10.2. zastąp treść elementu o&nbsp;identyfikatorze **paragraph-one** następującą treścią:
+Mamy do dyspozycji zmienną <span class="preformat">var sentence = " Home sweet home ";</span>. Dla&nbsp;strony o&nbsp;kodzie źródłowym z podpunktu 10.2. zastąp treść elementu o&nbsp;identyfikatorze **paragraph-one** następującą treścią:
 
 ```
 Nasz ciąg ma długość: ... .
