@@ -224,7 +224,7 @@ Co należy wstawić w miejsce '.....', aby na stronie o kodzie źródłowym z pp
 ```js
 var randomNumber = .....;
 
-var el. = document.getElementById('paragraph-two');
+var el = document.getElementById('paragraph-two');
 el.innerHTML = 'Losowo wygenerowana liczba to ' + randomNumber;
 ```
 
