@@ -240,7 +240,7 @@ Gdy mamy utworzony obiekt typu <span class="preformat">Date</span>, wymienione p
 * <span class="preformat">getMinutes()</span>, <span class="preformat">setMinutes()</span> - zwraca lub ustawia minuty (od 0 do 59);
 * <span class="preformat">getMonths()</span>, <span class="preformat">setMonths()</span> - zwraca lub ustawia miesiąc (od 0 do 11);
 * <span class="preformat">getSeconds()</span>, <span class="preformat">setSeconds()</span> - zwraca lub ustawia sekundy (od 0 do 59);
-* <span class="preformat">getTime()</span>, <span class="preformat">setTime()</span> - liczba milisekund, które upłynęły od 1 stycznia 1970 roku, 00:00:00 UTC; dla daty sprzed podanego dnia wartość jest ujemna;
+* <span class="preformat">getTime()</span>, <span class="preformat">setTime()</span> - liczba milisekund, które upłynęły od 1 stycznia 1970 roku, 00:00:00 UTC; dla&nbsp;daty sprzed podanego dnia wartość jest ujemna;
 * <span class="preformat">getTimezoneOffset()</span> - zwraca wyrażone w minutach przesunięcie strefy czasowej dla&nbsp;bieżącej lokalizacji;
 * <span class="preformat">toDateString()</span> - zwraca datę w postaci ciągu tekstowego;
 * <span class="preformat">toTimeString()</span> - zwraca godzinę w postaci ciągu tekstowego;
@@ -251,7 +251,7 @@ Gdy mamy utworzony obiekt typu <span class="preformat">Date</span>, wymienione p
 Uzupełnij luki (tzn. co wstawić w miejsce '???') w poniższym skrypcie języka JavaScript tak, aby na stronie o&nbsp;kodzie źródłowym z ppkt. 10.2. treść elementu o&nbsp;identyfikatorze **paragraph-three** została zastąpiona przez&nbsp;komunikat znadujący się pod skryptem JS?
 
 ```js
-var daysOfWeek = ['poniedziałek', 'wtorek', 'środa', 'czwartek', 'piątek', 'sobota', 'niedziela'];
+var daysOfWeek = ['niedziela', 'poniedziałek', 'wtorek', 'środa', 'czwartek', 'piątek', 'sobota'];
 var months = ['styczeń', 'luty', 'marzec', 'kwiecień', 'maj', 'czerwiec', 'lipiec', 'sierpień', 'wrzesień', 'październik', 'listopad', 'grudzień'];
 
 var d = new Date();
