@@ -149,7 +149,7 @@ var hiltonHotel = new Hotel('Hilton', 120, 77);
 var hotel = {
   name: 'Hilton',
   rooms: 120,
-  booked: 77,
+  booked: 77
 };
 
 hotel.gym = true;
