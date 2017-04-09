@@ -289,7 +289,7 @@ Przeanalizujmy poniższy przykład:
 
 ### Przykład 11.5.
 
-Dalej działamy na kodzie HTML z przykładu 11.1.:
+Dalej działamy na kodzie HTML z przykładu 11.2.:
 
 ```js
 // Element przeznaczony do usunięcia.
