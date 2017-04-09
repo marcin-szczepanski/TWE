@@ -190,7 +190,7 @@ element.firstChild.nodeValue = "Zmieniony przykład ";
 
 ### Ćwiczenie 11.5.
 
-Do czego służy właściwość <span class="preformat">nodeValue</span>? Dlaczego w przykładzie powyżej dwa ostatnie polecenia skryptu zwracają wartość <span class="preformat">null</span>?
+Do czego służy właściwość <span class="preformat">nodeValue</span>? Dlaczego w przykładzie powyżej dwa ostatnie polecenia <span class="preforma">console.log()</span> skryptu zwracają wartość <span class="preformat">null</span>?
 
 ### Przykład 11.3.
 
