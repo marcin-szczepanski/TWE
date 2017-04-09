@@ -247,7 +247,7 @@ Dany jest kod źródłowy strony:
 	</head>
 	<body>
 		<div class="wrapper">
-			<h1 class="example">Zadanie 11.2.</h1>
+			<h1 class="example">Zadanie 11.7.</h1>
 			<ul>
 				<li id="li-1">Punkt 1.</li>
 				<li id="li-2">Punkt 2.</li>
