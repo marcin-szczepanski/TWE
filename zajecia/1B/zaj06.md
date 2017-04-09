@@ -28,6 +28,27 @@ Gdy uzyskamy dostęp do&nbsp;węzła elementu, możemy przejść do&nbsp;tekstu 
 
 Każdy węzeł jest dokumentem wraz z&nbsp;metodami i&nbsp;właściwościami. Skrypty uzyskują dostęp do&nbsp;drzewa modelu DOM (nie&nbsp;pliku źródłowego HTML) i&nbsp;uaktualniają je. Wszelkie zmiany wprowadzone w&nbsp;drzewie modelu DOM są&nbsp;odzwierciedlane w&nbsp;przeglądarce.
 
+### Przykład 11.1.
+
+Dla kodu źródłowego strony:
+
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Przykład</title>
+	</head>
+	<body>
+		<h1 id="header">Przykład 11.1.</h1>
+		<span>Tu jest treść elementu &lt;span&gt;</span>
+	</body>
+</html>
+```
+
+drzewo modelu DOM będzie wyglądać następująco:
+
+![](assets/images/DOM-tree-example.jpg)
+
 ### Ćwiczenie 11.1.
 
 Narysuj drzewo modelu DOM dla strony o poniższym kodzie źródłowym:
@@ -103,7 +124,7 @@ Działamy na kodzie z ćwiczenia 11.2. Napisz skrypt języka JavaScript, który 
 
 Przanalizujmy przykład:
 
-### Przykład 11.1.
+### Przykład 11.2.
 
 ```html
 <!DOCTYPE html>
@@ -113,7 +134,7 @@ Przanalizujmy przykład:
 	</head>
 	<body>
 		<div class="wrapper">
-			<h1 id="header">Przykład <i>11.1.</i></h1>
+			<h1 id="header">Przykład <i>11.2.</i></h1>
 			<p id="paragraph">Tu jest <u>treść</u> akapitu</p>
 		</div>
 		<script src="app.js"></script>
@@ -147,7 +168,7 @@ else {
 
 ### Ćwiczenie 11.4.
 
-Dla strony o kodzie źródłowym HTML z przykładu 11.1. napisz skrypt, który akapitowi nada klasę **akapit** i&nbsp;zmieni identyfikator na **zmieniony**.
+Dla strony o kodzie źródłowym HTML z przykładu 11.2. napisz skrypt, który akapitowi nada klasę **akapit** i&nbsp;zmieni identyfikator na **zmieniony**.
 
 
 ### 11.5. Pobieranie i uaktualnianie zawartości elementu
@@ -159,7 +180,7 @@ Aby pracować z&nbsp;zawartością elementów można:
 
 Przeanalizujmy poniższy przykład:
 
-### Przykład 11.2.
+### Przykład 11.3.
 
 ```html
 <!DOCTYPE html>
@@ -169,7 +190,7 @@ Przeanalizujmy poniższy przykład:
 	</head>
 	<body>
 		<div class="wrapper">
-			<h1 id="header">Przykład <i>11.2.</i></h1>
+			<h1 id="header">Przykład <i>11.3.</i></h1>
 			<p id="paragraph">Tu jest <u>treść</u> akapitu</p>
 		</div>
 		<script src="app.js"></script>
@@ -182,7 +203,7 @@ Plik **app.js**:
 ```js
 var element = document.getElementById('header');
 console.log(element.firstChild.nodeValue); // wynikiem będzie "Przykład "
-console.log(element.lastChild.firstChild.nodeValue) // wynikiem będzie "11.2."
+console.log(element.lastChild.firstChild.nodeValue) // wynikiem będzie "11.3."
 console.log(element.nodeValue); // wynikiem będzie "null"
 console.log(element.firstChild.nextSibling.nodeValue); // wynikiem będzie "null"
 element.firstChild.nodeValue = "Zmieniony przykład ";
@@ -192,15 +213,15 @@ element.firstChild.nodeValue = "Zmieniony przykład ";
 
 Do czego służy właściwość <span class="preformat">nodeValue</span>? Dlaczego w przykładzie powyżej dwa ostatnie polecenia <span class="preformat">console.log()</span> skryptu zwracają wartość <span class="preformat">null</span>?
 
-### Przykład 11.3.
+### Przykład 11.4.
 
-Inny skrypt do strony o kodzie źródłowym z przykładu 11.2.:
+Inny skrypt do strony o kodzie źródłowym z przykładu 11.3.:
 
 ```js
 var element = document.getElementById('header');
-console.log(element.textContent); // wynikiem będzie "Przykład 11.2."
-console.log(element.innerHTML); // wynikiem będzie "Przykład <i>11.2.</i>"
-element.textContent = "Zmieniony przykład 11.2.";
+console.log(element.textContent); // wynikiem będzie "Przykład 11.3."
+console.log(element.innerHTML); // wynikiem będzie "Przykład <i>11.3.</i>"
+element.textContent = "Zmieniony przykład 11.3.";
 var element2 = document.getElementById('paragraph');
 element2.innerHTML = '<u>Zmieniony</u> akapit';
 console.log(element2.innerHTML); // wynikiem będzie "<u>Zmieniony</u> akapit"
@@ -214,9 +235,9 @@ Jak zachowują się właściwości <span class="preformat">textContent</span> i 
 
 Przeanalizujmy poniższy przykład:
 
-### Przykład 11.4.
+### Przykład 11.5.
 
-Działamy na kodzie HTML z przykładu 11.1.:
+Działamy na kodzie HTML z przykładu 11.2.:
 
 ```js
 // Utworzenie nowego elementu i przechowywanie go w zmiennej.
