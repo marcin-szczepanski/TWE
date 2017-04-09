@@ -216,7 +216,7 @@ Przeanalizujmy poniższy przykład:
 
 ### Przykład 11.4.
 
-Dalej działamy na kodzie HTML z przykładu 11.1.:
+Działamy na kodzie HTML z przykładu 11.1.:
 
 ```js
 // Utworzenie nowego elementu i przechowywanie go w zmiennej.
