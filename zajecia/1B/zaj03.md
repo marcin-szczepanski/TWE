@@ -198,7 +198,7 @@ Która strona wygląda lepiej? Na obrazku nr 1 czy nr 2? Dlaczego?
 Aby łatwiej ustawić rytm pionowy na stronie możemy skorzystać z narzędzia, które wstawia na stronie linie pomocnicze:
 <a href="http://basehold.it/" target="blank">basehold.it</a>.
 
-W wielkim skrócie, aby zachować rytm pionowy na stronie należy:
+W wielkim skrócie, aby zachować rytm pionowy na stronie:
 
 * rozmiary czcionek powinny być wielokrotnościami <span class="preformat">1rem</span> lub takimi wartościami, które są dzielnikami całkowitymi (w pikselach) rozmiaru czcionki w elemencie <span class="preformat">html</span> (wtedy warto użyć wartości <span class="preformat">calc()</span> dla&nbsp;właściwości <span class="preformat">font-size</span>; np. <span class="preformat">font-size: calc(2/3 * 1rem);</span>);
 * wszystkie interlinie powinny być wielokrotnościami <span class="preformat">1rem</span>;
