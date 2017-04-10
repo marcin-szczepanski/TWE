@@ -287,7 +287,7 @@ Dla powyższej strony napisz skrypt języka JavaScript, który do listy doda now
 
 Przeanalizujmy poniższy przykład:
 
-### Przykład 11.5.
+### Przykład 11.6.
 
 Dalej działamy na kodzie HTML z przykładu 11.2.:
 
