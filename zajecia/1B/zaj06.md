@@ -18,7 +18,7 @@ Model DOM nie jest częścią HTML ani JavaScript - jest to oddzielny zbiór reg
 
 Kiedy przeglądarka wczytuje stronę internetową, tworzy jej model - tzw. **model drzewa DOM**, który&nbsp;jest przechowywany w&nbsp;pamięci zajmowanej przez&nbsp;przeglądarkę. Składa się z&nbsp;czterech podstawowych typów węzłów.
 
-Węzeł **document** jest to węzeł, który znajduje się w korzeniu drzewa modelu DOM. Przedstawia on całą stronę (i jednocześnie odpowiada obiektowi _document_, który poznaliśmy już wcześniej. Kiedy uzyskujemy dostęp do&nbsp;dowolnego węzła elementu, atrybutu lub&nbsp;tekstu, przechodzimy do&nbsp;niego za&nbsp;pomocą węzła _document_. To&nbsp;punkt wyjścia dla&nbsp;wszystkich wizyt w&nbsp;drzewie modelu DOM.
+Węzeł **document** jest to węzeł, który znajduje się w korzeniu drzewa modelu DOM. Przedstawia on całą stronę (i jednocześnie odpowiada obiektowi _document_, który poznaliśmy już wcześniej). Kiedy uzyskujemy dostęp do&nbsp;dowolnego węzła elementu, atrybutu lub&nbsp;tekstu, przechodzimy do&nbsp;niego za&nbsp;pomocą węzła _document_. To&nbsp;punkt wyjścia dla&nbsp;wszystkich wizyt w&nbsp;drzewie modelu DOM.
 
 Węzły **elementów** są to węzły, które odpowiadają poszczególnym elementom strony HTML. Aby uzyskać dostęp do&nbsp;drzewa modelu DOM, należy rozpocząć od&nbsp;wyszukiwania elementów. Po&nbsp;znalezieniu żądanego elementu mamy dostęp do&nbsp;węzłów jego tekstu i&nbsp;atrybutu, o&nbsp;ile zachodzi potrzeba.
 
@@ -71,7 +71,7 @@ Narysuj drzewo modelu DOM dla strony o poniższym kodzie źródłowym:
 ### 11.2. Buforowanie zapytań modelu DOM
 
 Metody wyszukujące elementy w&nbsp;drzewie modelu DOM są nazywane **zapytaniami modelu DOM**. Jeżeli&nbsp;z&nbsp;danym elementem musimy pracować więcej niż jeden raz, rozsądnym rozwiązaniem jest użycie zmiennej do&nbsp;przechowywania wyniku danego zapytania.
-Kiedy programiści mówią o&nbsp;przechowywaniu elementów w&nbsp;zmiennych, tak naprawdę mają na&nbsp;myśliprzechowywanie w&nbsp;zmiennej położenia elementu (lub&nbsp;elementów) w&nbsp;drzewie modelu DOM. Właściwości i&nbsp;metody tego węzła elementu działają na&nbsp;zmiennej.
+Kiedy programiści mówią o&nbsp;przechowywaniu elementów w&nbsp;zmiennych, tak naprawdę mają na&nbsp;myśli przechowywanie w&nbsp;zmiennej położenia elementu (lub&nbsp;elementów) w&nbsp;drzewie modelu DOM. Właściwości i&nbsp;metody tego węzła elementu działają na&nbsp;zmiennej.
 
 Metody wyszukujące elementy poznaliśmy na&nbsp;poprzednich zajęciach. W związku z&nbsp;tym wykonajmy poniższe ćwiczenie:
 
@@ -168,7 +168,7 @@ else {
 
 ### Ćwiczenie 11.4.
 
-Dla strony o kodzie źródłowym HTML z przykładu 11.2. napisz skrypt, który akapitowi nada klasę **akapit** i&nbsp;zmieni identyfikator na **zmieniony**.
+Dla strony o kodzie źródłowym HTML z przykładu 11.2. napisz skrypt języka JavaScript, który&nbsp;akapitowi nada klasę **akapit** i&nbsp;zmieni identyfikator na **zmieniony**.
 
 
 ### 11.5. Pobieranie i uaktualnianie zawartości elementu
