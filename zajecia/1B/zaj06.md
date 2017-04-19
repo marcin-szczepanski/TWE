@@ -346,6 +346,11 @@ Napisz skrypt języka JavaScript, który:
 - usunie całą zawartość listy a w jej miejsce stworzy nową zawartość, na&nbsp;którą&nbsp;będzie się&nbsp;składać 30&nbsp;elementów <span class="preformat"><li></span> o&nbsp; identyfikatorach o&nbsp;nazwach odpowiednio **new1** do&nbsp;**new30**, z&nbsp;treścią odpowiednio **Nowa treść 1** do&nbsp;**Nowa treść 30**;
 - w akapicie pod listą zmieni treść na **Zmieniona treść akapitu**.
 
+### Zadanie 2.
+
+Wykonaj czwartą fazę tworzenia projektu - **"ożywienie" aplikacji przy pomocy języka JavaScript**. Każda większa zmiana powinna być wysłana jako osobny commit na repozytorium utworzone w pierwszej fazie. Czas na wykonanie zadania to **cztery tygodnie**.
+
+
 ### Źródła
 
 * Duckett Jon, _JavaScript and JQuery: Interactive Front-End Web Development_, przeł. Robert Górczyński, Helion, 2015, ISBN 978-83-283-0126-9.
