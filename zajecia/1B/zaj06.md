@@ -310,6 +310,11 @@ Dla strony o kodzie źródłowym HTML z ćwiczenia 11.7. napisz skrypt języka J
 
 ### Zadanie 1.
 
+Wykonaj czwartą fazę tworzenia projektu - **"ożywienie" aplikacji przy pomocy języka JavaScript**. Każda większa zmiana powinna być wysłana jako osobny commit na repozytorium utworzone w pierwszej fazie. Czas na wykonanie zadania to **cztery tygodnie**.
+
+
+### Zadanie 2.
+
 Dany jest kod źródłowy strony:
 
 ```html
@@ -345,11 +350,6 @@ Napisz skrypt języka JavaScript, który:
 - doda link w elemencie o klasie <span class="preformat">wrapper</span>, który będzie miał klasę <span class="preformat">new-class</span> i&nbsp;który&nbsp;będzie przenosił do&nbsp;strony **sealcode.org**; link ten powinien mieć atrybut <span class="preformat">target="blank"</span>;
 - usunie całą zawartość listy a w jej miejsce stworzy nową zawartość, na&nbsp;którą&nbsp;będzie się&nbsp;składać 30&nbsp;elementów <span class="preformat"><li></span> o&nbsp; identyfikatorach o&nbsp;nazwach odpowiednio **new1** do&nbsp;**new30**, z&nbsp;treścią odpowiednio **Nowa treść 1** do&nbsp;**Nowa treść 30**;
 - w akapicie pod listą zmieni treść na **Zmieniona treść akapitu**.
-
-### Zadanie 2.
-
-Wykonaj czwartą fazę tworzenia projektu - **"ożywienie" aplikacji przy pomocy języka JavaScript**. Każda większa zmiana powinna być wysłana jako osobny commit na repozytorium utworzone w pierwszej fazie. Czas na wykonanie zadania to **cztery tygodnie**.
-
 
 ### Źródła
 
