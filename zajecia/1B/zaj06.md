@@ -281,7 +281,7 @@ Dany jest kod źródłowy strony:
 </html>
 ```
 
-Dla powyższej strony napisz skrypt języka JavaScript, który do listy doda nowy elementu o treści **Punkt 5.** z&nbsp;identyfikatorem **li-5**.
+Dla powyższej strony napisz skrypt języka JavaScript, który do listy doda nowy element o treści **Punkt 5.** z&nbsp;identyfikatorem **li-5**.
 
 ### 11.8. Usuwanie elementów z drzewa modelu DOM
 
@@ -304,7 +304,7 @@ containerElement.removeChild(removeElement);
 
 ### Ćwiczenie 11.8.
 
-Dla strony o kodzie źródłowym HTML z ćwiczenia 11.7. napisz skrypt języka JavaScript, który usunie wszystkie elementy listy, a nastepnie sam element <span class="preformat"><ul></span>.
+Dla strony o kodzie źródłowym HTML z ćwiczenia 11.7. napisz skrypt języka JavaScript, który usunie wszystkie elementy listy, a następnie sam element <span class="preformat"><ul></span>.
 
 ### Zadania domowe
 
