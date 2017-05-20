@@ -41,11 +41,11 @@ Wyróżniamy dwa rodzaje adresów: _konkretnego_ elementu (np. /koty/1) oraz&nbs
 
 Konkretne metody protokołu HTTP odpowiadają za&nbsp;odpowiednie operacje:
 
-- **GET** – _pobieranie_ (zarówno kolekcji, jak i pojedynczego elementu);
-- **POST** – _tworzenie_ (tylko kolekcji);
-- **PUT** – _aktualizacja_ (tylko pojedynczego elementu);
-- **PATCH** – _częściowa aktualizacja_ (tylko pojedynczego elementu);
-- **DELETE** – _usuwanie_ (tylko pojedynczego elementu).
+- **GET** – _pobieranie_;
+- **POST** – _tworzenie_;
+- **PUT** – _aktualizacja_;
+- **PATCH** – _częściowa aktualizacja_;
+- **DELETE** – _usuwanie_.
 
 Więcej o REST-owym API znajdziesz na stronie <a href="http://www.moseleians.co.uk/wp-content/uploads/cmdm/9632/1422444257_api-restowe-whitepaper.pdf" target="blank">Wprowadzenie do&nbsp;architektury REST</a>.
 
