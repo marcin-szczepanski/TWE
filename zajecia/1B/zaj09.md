@@ -42,7 +42,7 @@ Wyróżniamy dwa rodzaje adresów: _konkretnego_ elementu (np. /koty/1) oraz&nbs
 Konkretne metody protokołu HTTP odpowiadają za&nbsp;odpowiednie operacje:
 
 - **GET** – _pobieranie_;
-- **POST** – _tworzenie_;
+- **POST** – _tworzenie (wysyłanie)_;
 - **PUT** – _aktualizacja_;
 - **PATCH** – _częściowa aktualizacja_;
 - **DELETE** – _usuwanie_.
@@ -83,7 +83,7 @@ gdzie:
 - **url** to adres, z którym się łączymy;
 - **data** to dane, jakie wysyłamy (np. w tablicy);
 - **options** to opcje, z jakimi chcemy wywołać metodę (lista opcji znajduje się <a href="https://github.com/pyrsmk/qwest" target="blank">tutaj</a>;
-- **before** - własne opcje dla obiektu XHR (XMLHttpRequest).
+- **before** to własne opcje dla obiektu XHR (XMLHttpRequest).
 
 ### Przykłady użycia biblioteki qwest dla API sealcode-owego:
 
