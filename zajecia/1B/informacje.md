@@ -46,9 +46,9 @@ Projekt ten będziemy wykonywać w **pięciu** etapach:
 	- możemy zmieniać status zadania z niewykonanego na wykonane i odwrotnie;
 	- po kliknięciu przycisku do usuwania, dane zadanie powinno zniknąć z listy zadań;
 	- data powinna być aktualizowana;
-- **wysłanie zadań na serwer**:
-	- aplikacja powinna łączyć się z serwerem;
-	- dodanie, usunięcie i modyfikacja stanu wykonania zadań powinny odbywać się na serwerze;
+- **łączenie się z API**:
+	- aplikacja powinna łączyć się z API sealcode-owym;
+	- dodanie, usunięcie i modyfikacja stanu wykonania zadań powinny być wykonywane poprzez API sealcode-owe;
 	- przy odświeżaniu strony oraz dokonaniu zmian(y), lista zadań widoczna na stronie powinna zostać zaktualizowana.
 
 Terminy wykonania poszczególnych części projektu będą podawane na bieżąco w czasie trwania zajęć.
