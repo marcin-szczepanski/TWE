@@ -101,6 +101,7 @@ function getTasks() { // pobieramy listę zadań po wystąpieniu odpowiedniego z
 		function(xhr, response) {
 			response.forEach(function(element) { // wywołujemy dla każdego pobranego zasobu
 				tasks.push(element); // dodajemy pobrany element zasobu do tablicy "tasks"
+				/* Teraz treść danego zadania i jego inne własciwości będą ukrywać w tasks[index].body.nazwaWlasciwosci, np. tasks[0].body.title - nazwa pierwszego zadania w tablicy! */
 				refresh(); // odświeżamy stan strony
 	})});
 }
@@ -120,7 +121,6 @@ function addTaskServer(task) { // wysyłamy nowe zadanie po wciśnięciu klawisz
 function checkboxClick(event) { // stan kliknięcia checkboxa przy danym zadaniu (załóżmy, że funkcja wywołuje się po wystąpieniu pewnego zdarzenia
 	tasks[this.id].body.is_done = this.checked; // zmiana stanu kliknięcia danego zadania w tablicy (zakładamy, że każde zadanie ma swój identyfikator, dla uproszczenia przyjąłem, że identyfikatorem jest pozycja w tablicy
 	qwest.map('PATCH', url+'/'+tasks[this.id].id, tasks[this.id].body, {cache: true}).then(function(xhr, response) { // szukamy odpowiedniego zasobu na serwerze i modyfikujemy jego ciało
-		getTasks(); // pobieramy na nowo listę zadań (ta linijka jest opcjonalna w zależności od implementacji (ja założyłem, że usuwamy wszystkie zadania lokalnie i potem pobieramy je ponownie
 		refresh(); // odświeżamy stan strony
 	});
 }
@@ -131,7 +131,6 @@ function checkboxClick(event) { // stan kliknięcia checkboxa przy danym zadaniu
 ```js
 function deleteTask() { // usuwanie wybranego zadania pod wpływem wystąpienia pewnego zdarzenia
 	qwest.delete(url+'/'+tasks[this.id].id, null, {cache: true}).then(function(xhr, response) { // usuwamy zadanie o danym identyfikatorze (tym razem nie musimy przesyłać ciała takiego zadania)
-		getTasks(); // pobieramy na nowo listę zadań (ta linijka jest opcjonalna w zależności od implementacji (ja założyłem, że usuwamy wszystkie zadania lokalnie i potem pobieramy je ponownie
 		refresh(); // odświeżamy stan strony
 	});
 }
@@ -139,7 +138,9 @@ function deleteTask() { // usuwanie wybranego zadania pod wpływem wystąpienia 
 
 ### Zadania domowe
 
-Na kolejne zajęcia musi być wykonana piąta (ostatnia) faza projektu - **łączenie się z API**.
+### Zadanie 1.
+
+Wykonaj piątą (ostatnią) fazę tworzenia projektu - **łączenie się z API**. Każda większa zmiana powinna być wysłana jako osobny commit na repozytorium utworzone w pierwszej fazie.
 
 ### Źródła
 
