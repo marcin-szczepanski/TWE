@@ -101,7 +101,7 @@ function getTasks() { // pobieramy listę zadań po wystąpieniu odpowiedniego z
 		function(xhr, response) {
 			response.forEach(function(element) { // wywołujemy dla każdego pobranego zasobu
 				tasks.push(element); // dodajemy pobrany element zasobu do tablicy "tasks"
-				/* Teraz treść danego zadania i jego inne własciwości będą ukrywać w tasks[index].body.nazwaWlasciwosci, np. tasks[0].body.title - nazwa pierwszego zadania w tablicy! */
+				/* Teraz treść danego zadania i jego inne własciwości będą ukrywać się w tasks[index].body.nazwaWlasciwosci, np. tasks[0].body.title - nazwa pierwszego zadania w tablicy! */
 				refresh(); // odświeżamy stan strony
 	})});
 }
