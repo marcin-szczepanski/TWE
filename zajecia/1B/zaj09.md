@@ -20,7 +20,7 @@ Przeglądarki internetowe, skrypty, witryny internetowe oraz&nbsp;inne aplikacje
 - **Przeglądarki internetowe** - model DOM to API. Pozwala skryptom na&nbsp;uzyskanie dostępu i&nbsp;uaktualnienie zawartości strony internetowej po&nbsp;jej wczytaniu w&nbsp;przeglądarce.
 - **Skrypty** - np. biblioteka jQuery to plik JavaScript wraz z&nbsp;API. Pozwala na&nbsp;wybór elementów, a&nbsp;następnie użycie metod jQuery do&nbsp;pracy z&nbsp;wybranymi elementami.
 
-Nie musimy wiedzieć, jak inny skrypt lub program wykonuje dane zadanie. Powinniśmy wiedzieć, co&nbsp;robi, jak&nbsp;zlecić mu wykonanie zadania, a&nbsp;także jak przetworzyć dane otrzymane w&nbsp;odpowiedzi.
+Nie musimy wiedzieć jak inny skrypt lub program wykonuje dane zadanie. Powinniśmy wiedzieć, co&nbsp;robi, jak&nbsp;zlecić mu wykonanie zadania, a&nbsp;także jak przetworzyć dane otrzymane w&nbsp;odpowiedzi.
 
 API pozwala na&nbsp;tworzenie kodu wykonującego **żądanie**, w&nbsp;którym inny program lub&nbsp;skrypt jest proszony o&nbsp;wykonanie pewnego zadania.
 API określa także format, w&nbsp;jakim oczekuje **odpowiedzi** (aby&nbsp;mogła być ona zrozumiana).
@@ -53,7 +53,7 @@ Więcej o REST-owym API znajdziesz na stronie <a href="http://www.moseleians.co.
 
 SOAP jest ustandaryzowany. To&nbsp;oznacza, że&nbsp;będziemy musieli się&nbsp;dopasować do&nbsp;tych standardów, ale&nbsp;w&nbsp;zamian dostajemy masę narzędzi, które&nbsp;automatycznie zrobią część pracy za&nbsp;nas. Jest jednak bardziej problematyczny w&nbsp;manualnym testowaniu i&nbsp;analizie zapytań/usług.
 
-REST na pewno jest bardzo logiczny jesli chodzi o&nbsp;operacje na&nbsp;danych – dodawanie, odczyt, aktualizacja itp. W&nbsp;przypadku operacji czysto proceduralnych (np.&nbsp;"oblicz jakąś wartość na&nbsp;podstawie danych wejściowych") jest on&nbsp;dużo mniej jasny, a&nbsp;brak okreslonych standardów i&nbsp;norm powoduje, że&nbsp;implementacje często nie&nbsp;są&nbsp;zgodne z&nbsp;intencją RESTa i&nbsp;korzystanie z&nbsp;nich może przyprawić o&nbsp;bół głowy. Jest jednak dużo mniej wrażliwy na&nbsp;zmiany w&nbsp;API (np.&nbsp;dodanie lub&nbsp;usunięcie pól, nowe operacje&nbsp;itp.).
+REST na pewno jest bardzo logiczny jesli chodzi o&nbsp;operacje na&nbsp;danych – dodawanie, odczyt, aktualizacja itp. W&nbsp;przypadku operacji czysto proceduralnych (np.&nbsp;"oblicz jakąś wartość na&nbsp;podstawie danych wejściowych") jest on&nbsp;dużo mniej jasny, a&nbsp;brak określonych standardów i&nbsp;norm powoduje, że&nbsp;implementacje często nie&nbsp;są&nbsp;zgodne z&nbsp;intencją RESTa i&nbsp;korzystanie z&nbsp;nich może przyprawić o&nbsp;bół głowy. Jest jednak dużo mniej wrażliwy na&nbsp;zmiany w&nbsp;API (np.&nbsp;dodanie lub&nbsp;usunięcie pól, nowe operacje&nbsp;itp.).
 
 ### 13.5. Biblioteka **qwest**
 
@@ -82,7 +82,7 @@ gdzie:
 - **method** to wywoływana metoda REST lub inna metoda biblioteki;
 - **url** to adres, z którym się łączymy;
 - **data** to dane, jakie wysyłamy (np. w tablicy);
-- **options** to opcje, z jakimi chcemy wywołać metodę (lista opcji znajduje się <a href="https://github.com/pyrsmk/qwest" target="blank">tutaj</a>;
+- **options** to opcje, z jakimi chcemy wywołać metodę (lista opcji znajduje się <a href="https://github.com/pyrsmk/qwest" target="blank">tutaj</a>);
 - **before** to własne opcje dla obiektu XHR (XMLHttpRequest).
 
 ### Przykłady użycia biblioteki qwest dla API sealcode-owego:
