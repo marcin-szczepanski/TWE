@@ -16,7 +16,6 @@ layout: default
 #### TOP 3 - czyli najlepsza trójka uczestników zajęć:
 
 W kolejności od najlepszego:
-
 - **Łukasz Lejman**
 - **Dawid Bogacki**
 - **Mikołaj Szumigalski**
