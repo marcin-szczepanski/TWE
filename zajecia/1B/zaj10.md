@@ -15,11 +15,13 @@ layout: default
 
 #### TOP 3 - czyli najlepsza trójka uczestników zajęć:
 
-1. **Łukasz Lejman**
-2. **Dawid Bogacki**
-3. **Mikołaj Szumigalski**
+W kolejności od najlepszego:
 
-Gratuluję najlepszym :3
+- **Łukasz Lejman**
+- **Dawid Bogacki**
+- **Mikołaj Szumigalski**
+
+Gratuluję najlepszym :)
 
 #### Frekwencja na warsztatach: **72,92%**.
 
