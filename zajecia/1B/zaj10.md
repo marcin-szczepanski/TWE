@@ -22,7 +22,11 @@ W kolejności od najlepszego:
 
 Gratuluję najlepszym :)
 
+#### Ilość zajęć: **12**.
+
 #### Frekwencja na warsztatach: **72,92%**.
+
+#### Frekwencja na warsztatach (nie licząc osób, które nie ukończyły warsztatów): **83,33%**.
 
 #### Średnia ocena pracy wszystkich uczestników: **dobra**.
 
