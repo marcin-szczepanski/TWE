@@ -26,9 +26,9 @@ Gratuluję najlepszym :)
 
 #### Średnia ocena pracy wszystkich uczestników: **dobra**.
 
-#### Ilość uczestników: **12**.
+#### Liczba uczestników: **12**.
 
-#### Ilość uczestników, którzy otrzymali certyfikat ukończenia warsztatów: **10**.
+#### Liczba uczestników, którzy otrzymali certyfikat ukończenia warsztatów: **10**.
 
 
 ### 14.2. Kilka słów od prowadzącego
