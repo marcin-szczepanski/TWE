@@ -33,7 +33,7 @@ Aktywnie uczestniczyć w warsztatach oznacza, że uczestnik:
 *	był na co najmniej połowie warsztatów;
 *	otrzymał na koniec warsztatów ocenę co najmniej dostateczną.
 
-### Testy
+### Testy:
 
 W czasie warsztatów zostaną przeprowadzone 3 testy, których celem jest sprawdzenie przyswojonej przez&nbsp;uczestników wiedzy na&nbsp;zajęciach. Poza tym zostanie przeprowadzony na&nbsp;pierwszych zajęciach test wstępny, na&nbsp;podstawie którego materiał zostanie odpowiednio dopasowany do&nbsp;grupy.
 
@@ -44,7 +44,7 @@ Zakres i terminy testów:
 * **Test nr 3** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z&nbsp;każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne (być może dotyczące pewnego kodu) i&nbsp;dwa krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Jedno ze wszystkich trzech pytań będzie dotyczyć HTML5, jedno CSS3 i jedno języka JavaScript. Czas trwania testu: ok. 10 minut na jedną osobę.
 Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced) z **wyłączeniem** tematyki związanej z API, AJAX, Angular, jQuery UI. Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na&nbsp;pytanie teoretyczne).
 
-	**<u>Lista pytań teoretycznych</u>**:
+	**<u>Lista pytań teoretycznych:</u>**
 	
 	**HTML_1** Do czego służy znacznik <span class="preformat">&lt;meta&gt;</span> w HTML? Wymień wybrane 3 atrybuty tego znacznika i&nbsp;omów je.
 	
