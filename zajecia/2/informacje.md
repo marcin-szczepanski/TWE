@@ -48,7 +48,7 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**HTML_1** Do czego służy znacznik <span class="preformat">&lt;meta&gt;</span> w HTML? Wymień wybrane 3 atrybuty tego znacznika i&nbsp;omów je.
 	
-	**HTML_2** Omów jak stworzyłbyś tabelę o podanej budowie (uczestnik dostaje kartkę z wyglądem tabeli i&bsp;opowiada jak tworzyłby dane elementy - tabela będzie z nagłówkiem/stopką i z łączeniem komórek).
+	**HTML_2** Omów jak stworzyłbyś tabelę o podanej budowie (uczestnik dostaje kartkę z wyglądem tabeli i&nbsp;opowiada jak tworzyłby dane elementy - tabela będzie z nagłówkiem/stopką i z łączeniem komórek).
 	
 	**HTML_3** Omów jak stworzyłbyś formularz o podanej budowie (uczestnik dostaje kartkę z&nbsp;wyglądem formularza).
 	
