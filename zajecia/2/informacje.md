@@ -9,7 +9,7 @@ layout: default
 </div>
 
 ### Terminy zajęć:
-Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w każdy **wtorek o 11:45** w sali **(sala)**.
+Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w każdy **wtorek o 11:45** w&nbsp;sali **(sala)**.
 
 ### Zagadnienia poruszane w trakcie warsztatów:
 
