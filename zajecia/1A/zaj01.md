@@ -8,4 +8,4 @@ layout: default
 	<div style="clear: both;"></div>
 </div>
 
-W tym semestrze nie prowadzę zajęć dla grupy początkującej. Zachęcam do zapoznania się z materiałami dla grupy średniozaawansowanej :)
+W tym semestrze nie prowadzę zajęć dla grupy początkującej. Zachęcam do zapoznania się z materiałami&nbsp;dla grupy średniozaawansowanej :)
