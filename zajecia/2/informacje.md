@@ -48,15 +48,15 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**HTML_1** Do czego służy znacznik <span class="preformat">&lt;meta&gt;</span> w HTML? Wymień wybrane 3 atrybuty tego znacznika i&nbsp;omów je.
 	
-	**HTML_2** Omów jak stworzyłbyś tabelę o podanej budowie (uczestnik dostaje kartkę z wyglądem tabeli i opowiada jak tworzyłby dane elementy - tabela będzie z nagłówkiem/stopką i z łączeniem komórek).
+	**HTML_2** Omów jak stworzyłbyś tabelę o podanej budowie (uczestnik dostaje kartkę z wyglądem tabeli i&bsp;opowiada jak tworzyłby dane elementy - tabela będzie z nagłówkiem/stopką i z łączeniem komórek).
 	
-	**HTML_3** Omów jak stworzyłbyś formularz o podanej budowie (uczestnik dostaje kartkę z wyglądem formularza).
+	**HTML_3** Omów jak stworzyłbyś formularz o podanej budowie (uczestnik dostaje kartkę z&nbsp;wyglądem formularza).
 	
-	**HTML_3** Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z wyglądem strony i omawia po kolei jak by ją zakodował w HTML5)?
+	**HTML_3** Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z wyglądem strony i&nbsp;omawia po kolei jak by ją zakodował w HTML5)?
 	
 	**CSS_1** Omów hierarchię selektorów w CSS3. Jak działa atrybut <span class="preformat">&lt;style&gt;</span> w HTML5? Jak nadpisać dowolny styl niezależnie od hierarchii selektorów?
 	
-	**CSS_2** Jakie wymiary będzie miał dany element danej strony (uczestnik dostaje kod HTML i CSS i na podstawie reguł zawartych w kodzie CSS analizuje jakie wymiary będzie miał element)? Omow swój tok rozumowania.
+	**CSS_2** Jakie wymiary będzie miał dany element danej strony (uczestnik dostaje kod HTML i&nbsp;CSS&nbsp;i&nbsp;na&nbsp;podstawie reguł zawartych w kodzie CSS analizuje jakie wymiary będzie miał element)? Omow swój tok rozumowania.
 	
 	**CSS_3** Jakie znasz jednostki długości w CSS3? Omów każdą z nich.
 	
