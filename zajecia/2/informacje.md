@@ -45,5 +45,10 @@ Zakres i terminy testów:
 Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced). Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na pytanie teoretyczne).
 
 	**Lista pytań teoretycznych** (będzie jeszcze uzupełniana w trakcie warsztatów):
-	* Do czego służy znacznik <span class="preformat">&lt;meta&gt;</span>? Wymień wybrane 3 atrybuty tego znacznika i omów je.
-	* Zadanie 2
+	* Do czego służy znacznik <span class="preformat">&lt;meta&gt;</span> w HTML? Wymień wybrane 3 atrybuty tego znacznika i&nbsp;omów je.
+	* Omów jak stworzyłbyś tabelę o podanej budowie (uczestnik dostaje kartkę z wyglądem tabeli i opowiada jak tworzyłby dane elementy - tabela będzie z nagłówkiem/stopką i z łączeniem komórek).
+	* Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z wyglądem strony i omawia po kolei jak by ją zakodował w HTML5)?
+	* Omów hierarchię selektorów w CSS3. Jak działa atrybut <span class="preformat">&lt;style&gt;</span> w HTML5? Jak nadpisać dowolny styl niezależnie od hierarchii selektorów?
+	* Jakie wymiary będzie miał dany element danej strony (uczestnik dostaje kod HTML i CSS i na podstawie reguł zawartych w kodzie CSS analizuje jakie wymiary będzie miał element)?
+	* 
+	* 
