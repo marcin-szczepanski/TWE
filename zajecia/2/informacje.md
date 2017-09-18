@@ -45,5 +45,5 @@ Zakres i terminy testów:
 * **Test nr 3** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne i trzy krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Czas trwania testu: ok. 10 minut na jedną osobę.
 Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced). Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na pytanie teoretyczne).
 
-**Lista pytań teoretycznych** (będzie jeszcze uzupełniana w trakcie warsztatów):
+	**Lista pytań teoretycznych** (będzie jeszcze uzupełniana w trakcie warsztatów):
 * Pytanie 1
