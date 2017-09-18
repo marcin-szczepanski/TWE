@@ -44,4 +44,5 @@ Zakres i terminy testów:
 * **Test nr 2** - będzie przeprowadzony na zajęciach po omówieniu tematu "Przykłady API" w&nbsp;formie elektronicznej (quiz z&nbsp;pytaniami jednokrotnego wyboru i&nbsp;zadania polegające na&nbsp; napisaniu kodu na&nbsp;komputerze z&nbsp;możliwością korzystania z&nbsp;dokumentacji dostępnej w&nbsp;Internecie czy&nbsp;StackOverflow). Zakres materiału: _technologia AJAX, żądania AJAX w&nbsp;bibliotece jQuery, interfejs programowania aplikacji, przykłady API_. Czas trwania testu: ok. 80 minut.
 * **Test nr 3** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne i trzy krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Czas trwania testu: ok. 10 minut na jedną osobę.
 Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced). Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na pytanie teoretyczne).
-
+**Lista pytań teoretycznych** (będzie jeszcze uzupełniana w trakcie warsztatów):
+* Pytanie 1
