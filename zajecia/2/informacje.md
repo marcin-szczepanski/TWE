@@ -86,6 +86,6 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**JS_8** Czym jest funkcja callback (funkcja wywołania zwrotnego)?
 	
-	**JS_9** Jaki jest scope (zakres) zmiennych w standardzie ECMAScript 6 (chodzi o omówienie słów kluczowych <span class="preformat">var</span>, <span class="preformat">let</span>, <span class="preformat">const</span>?
+	**JS_9** Jaki jest scope (zakres) zmiennych w standardzie ECMAScript 6 (chodzi o omówienie słów kluczowych <span class="preformat">var</span>, <span class="preformat">let</span>, <span class="preformat">const</span>)?
 	
 	**JS_10** Czym są arrow functions?
