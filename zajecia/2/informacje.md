@@ -31,8 +31,7 @@ Każdy uczestnik, który będzie **aktywnie uczestniczyć** w warsztatach otrzym
 Aktywnie uczestniczyć w warsztatach oznacza, że uczestnik:
 
 *	był na co najmniej połowie warsztatów;
-*	wykonał większość zadań domowych;
-*	zaliczył większość testów.
+*	otrzymał na koniec warsztatów ocenę co najmniej dostateczną.
 
 ### Testy
 
@@ -42,7 +41,7 @@ Zakres i terminy testów:
 * **Test wstępny** - będzie przeprowadzony na&nbsp;pierwszych zajęciach w&nbsp;formie pisemnej (zadania zamknięte jednokrotnego i&nbsp;wielokrotnego wyboru oraz&nbsp;zadania polegające na&nbsp;napisaniu/uzupełnieniu kodu). Zakres materiału: _podstawy składni języka JavaScript, obiekty w&nbsp;języku JavaScript, obiektowy model dokumentu, zdarzenia języka JavaScript, podstawowe informacje o&nbsp;REST-owym API na&nbsp;przykładzie biblioteki qwest_. Czas trwania testu: ok. 45 minut.
 * **Test nr 1** - będzie przeprowadzony na zajęciach po omówieniu tematu "Efekty, zdarzenia i filtry biblioteki jQuery" w&nbsp;formie elektronicznej (quiz z&nbsp;pytaniami jednokrotnego wyboru i&nbsp;zadania polegające na&nbsp; napisaniu kodu na&nbsp;komputerze z&nbsp;możliwością korzystania z&nbsp;dokumentacji dostępnej w&nbsp;Internecie czy&nbsp;StackOverflow). Zakres materiału: _ECMAScript 6, podstawy pracy z biblioteką jQuery, efekty, zdarzenia i&nbsp;filtry biblioteki jQuery_. Czas trwania testu: ok. 25 minut.
 * **Test nr 2** - będzie przeprowadzony na zajęciach po omówieniu tematu "Przykłady API" w&nbsp;formie elektronicznej (quiz z&nbsp;pytaniami jednokrotnego wyboru i&nbsp;zadania polegające na&nbsp; napisaniu kodu na&nbsp;komputerze z&nbsp;możliwością korzystania z&nbsp;dokumentacji dostępnej w&nbsp;Internecie czy&nbsp;StackOverflow). Zakres materiału: _technologia AJAX, żądania AJAX w&nbsp;bibliotece jQuery, interfejs programowania aplikacji, przykłady API_. Czas trwania testu: ok. 80 minut.
-* **Test nr 3** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne i trzy krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Czas trwania testu: ok. 10 minut na jedną osobę.
+* **Test nr 3** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z&nbsp;każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne i trzy krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Czas trwania testu: ok. 10 minut na jedną osobę.
 Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced). Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na pytanie teoretyczne).
 
 	**Lista pytań teoretycznych** (będzie jeszcze uzupełniana w trakcie warsztatów):
