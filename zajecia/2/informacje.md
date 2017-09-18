@@ -66,7 +66,7 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**CSS_6** Jakie wartości może przyjmować właściwość <span class="preformat">position</span>? Omów je.
 	
-	**CSS_7** Do czego służy właściwość <span class="float"></span>? Jak naprawić problem: "jeśli wewnątrz rodzica znajduje się jedynie element pływający, to niektóre przeglądarki uznają, że ma on zerową wysokość" (uczestnik dostanie ten&nbsp;problem na&nbsp;kartce z przykładem jego wystąpienia)?
+	**CSS_7** Do czego służy właściwość <span class="preformat">float</span>? Jak naprawić problem: "jeśli wewnątrz rodzica znajduje się jedynie element pływający, to niektóre przeglądarki uznają, że ma on zerową wysokość" (uczestnik dostanie ten&nbsp;problem na&nbsp;kartce z przykładem jego wystąpienia)?
 	
 	**CSS_8** Do czego służy reguła <span class="preformat">@keyframes</span>?
 	
