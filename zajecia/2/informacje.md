@@ -52,11 +52,11 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**HTML_3** Omów jak stworzyłbyś formularz o podanej budowie (uczestnik dostaje kartkę z&nbsp;wyglądem formularza).
 	
-	**HTML_4** Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z wyglądem strony i&nbsp;omawia po kolei jak by ją zakodował w HTML5)?
+	**HTML_4** Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z&nbsp;wyglądem strony i&nbsp;omawia po kolei jak by ją zakodował w HTML5)?
 	
 	**CSS_1** Omów hierarchię selektorów w CSS3. Jak działa atrybut <span class="preformat">&lt;style&gt;</span> w HTML5? Jak nadpisać dowolny styl niezależnie od hierarchii selektorów?
 	
-	**CSS_2** Jakie wymiary będzie miał dany element danej strony (uczestnik dostaje kod HTML i&nbsp;CSS&nbsp;i&nbsp;na&nbsp;podstawie reguł zawartych w kodzie CSS analizuje jakie wymiary będzie miał element)? Omow swój tok rozumowania.
+	**CSS_2** Jakie wymiary będzie miał dany element danej strony (uczestnik dostaje kod HTML i&nbsp;CSS&nbsp;i&nbsp;na&nbsp;podstawie reguł zawartych w kodzie CSS analizuje jakie wymiary będzie miał element)? Omów swój tok rozumowania.
 	
 	**CSS_3** Jakie znasz jednostki długości w CSS3? Omów każdą z nich.
 	
