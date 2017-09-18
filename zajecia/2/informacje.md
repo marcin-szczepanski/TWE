@@ -36,7 +36,7 @@ Aktywnie uczestniczyć w warsztatach oznacza, że uczestnik:
 
 ### Testy
 
-W czasie warsztatów zostaną przeprowadzone 3 testy, których celem jest sprawdzenie przyswojonej przez uczestników wiedzy na&nbsp;zajęciach. Poza tym zostanie przeprowadzony na pierwszych zajęciach test wstępny, na podstawie którego materiał zostanie odpowiednio dopasowany do grupy.
+W czasie warsztatów zostaną przeprowadzone 3 testy, których celem jest sprawdzenie przyswojonej przez uczestników wiedzy na&nbsp;zajęciach. Poza tym zostanie przeprowadzony na&nbsp;pierwszych zajęciach test wstępny, na&nbsp;podstawie którego materiał zostanie odpowiednio dopasowany do&nbsp;grupy.
 
 Zakres i terminy testów:
 * **Test wstępny** - będzie przeprowadzony na&nbsp;**pierwszych zajęciach** w&nbsp;formie pisemnej (zadania zamknięte jednokrotnego i&nbsp;wielokrotnego wyboru oraz&nbsp;zadania polegające na&nbsp;napisaniu/uzupełnieniu kodu. Zakres materiału: **podstawy składni języka JavaScript, obiekty w&nbsp;języku JavaScript, obiektowy model dokumentu, zdarzenia języka JavaScript, podstawowe informacje o&nbsp;REST-owym API na&nbsp;przykładzie biblioteki qwest**.
