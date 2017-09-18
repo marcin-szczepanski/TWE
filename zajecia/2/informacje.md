@@ -52,7 +52,7 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**HTML_3** Omów jak stworzyłbyś formularz o podanej budowie (uczestnik dostaje kartkę z&nbsp;wyglądem formularza).
 	
-	**HTML_3** Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z wyglądem strony i&nbsp;omawia po kolei jak by ją zakodował w HTML5)?
+	**HTML_4** Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z wyglądem strony i&nbsp;omawia po kolei jak by ją zakodował w HTML5)?
 	
 	**CSS_1** Omów hierarchię selektorów w CSS3. Jak działa atrybut <span class="preformat">&lt;style&gt;</span> w HTML5? Jak nadpisać dowolny styl niezależnie od hierarchii selektorów?
 	
@@ -70,4 +70,6 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**CSS_8** Do czego służy reguła <span class="preformat">@keyframes</span>?
 	
-	**JS_1** 
+	**JS_1** Omów jak wygląda procedura dodawania i usuwania elementów z drzewa modelu DOM.
+	
+	**JS_2** 
