@@ -50,6 +50,8 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**HTML_2** Omów jak stworzyłbyś tabelę o podanej budowie (uczestnik dostaje kartkę z wyglądem tabeli i opowiada jak tworzyłby dane elementy - tabela będzie z nagłówkiem/stopką i z łączeniem komórek).
 	
+	**HTML_3** Omów jak stworzyłbyś formularz o podanej budowie (uczestnik dostaje kartkę z wyglądem formularza).
+	
 	**HTML_3** Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z wyglądem strony i omawia po kolei jak by ją zakodował w HTML5)?
 	
 	**CSS_1** Omów hierarchię selektorów w CSS3. Jak działa atrybut <span class="preformat">&lt;style&gt;</span> w HTML5? Jak nadpisać dowolny styl niezależnie od hierarchii selektorów?
@@ -66,4 +68,6 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**CSS_7** Do czego służy właściwość <span class="float"></span>? Jak naprawić problem: "jeśli wewnątrz rodzica znajduje się jedynie element pływający, to niektóre przeglądarki uznają, że ma on zerową wysokość" (uczestnik dostanie ten problem na kartce z przykładem jego wystąpienia)?
 	
-	**CSS_8**  
+	**CSS_8** Do czego służy reguła <span class="preformat">@keyframes</span>?
+	
+	**JS_1** 
