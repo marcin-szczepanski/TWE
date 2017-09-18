@@ -35,14 +35,14 @@ Aktywnie uczestniczyć w warsztatach oznacza, że uczestnik:
 
 ### Testy
 
-W czasie warsztatów zostaną przeprowadzone 3 testy, których celem jest sprawdzenie przyswojonej przez uczestników wiedzy na&nbsp;zajęciach. Poza tym zostanie przeprowadzony na&nbsp;pierwszych zajęciach test wstępny, na&nbsp;podstawie którego materiał zostanie odpowiednio dopasowany do&nbsp;grupy.
+W czasie warsztatów zostaną przeprowadzone 3 testy, których celem jest sprawdzenie przyswojonej przez&nbsp;uczestników wiedzy na&nbsp;zajęciach. Poza tym zostanie przeprowadzony na&nbsp;pierwszych zajęciach test wstępny, na&nbsp;podstawie którego materiał zostanie odpowiednio dopasowany do&nbsp;grupy.
 
 Zakres i terminy testów:
 * **Test wstępny** - będzie przeprowadzony na&nbsp;pierwszych zajęciach w&nbsp;formie pisemnej (zadania zamknięte jednokrotnego i&nbsp;wielokrotnego wyboru oraz&nbsp;zadania polegające na&nbsp;napisaniu/uzupełnieniu kodu). Zakres materiału: _podstawy składni języka JavaScript, obiekty w&nbsp;języku JavaScript, obiektowy model dokumentu, zdarzenia języka JavaScript, podstawowe informacje o&nbsp;REST-owym API na&nbsp;przykładzie biblioteki qwest_. Czas trwania testu: ok. 45 minut.
-* **Test nr 1** - będzie przeprowadzony na zajęciach po omówieniu tematu "Efekty, zdarzenia i filtry biblioteki jQuery" w&nbsp;formie elektronicznej (zadania polegające na&nbsp; napisaniu kodu na&nbsp;komputerze z&nbsp;możliwością korzystania z&nbsp;dokumentacji dostępnej w&nbsp;Internecie czy&nbsp;StackOverflow). Zakres materiału: _ECMAScript 6, podstawy pracy z&nbsp;biblioteką jQuery, efekty, zdarzenia i&nbsp;filtry biblioteki jQuery_. Czas trwania testu: ok. 25 minut.
+* **Test nr 1** - będzie przeprowadzony na zajęciach po omówieniu tematu "Efekty, zdarzenia i filtry biblioteki jQuery" w&nbsp;formie elektronicznej (zadania polegające na&nbsp; napisaniu kodu na&nbsp;komputerze z&nbsp;możliwością korzystania z&nbsp;dokumentacji dostępnej w&nbsp;Internecie czy&nbsp;StackOverflow). Zakres materiału: _ECMAScript 6, podstawy pracy z&nbsp;biblioteką jQuery, efekty, zdarzenia i&nbsp;filtry biblioteki jQuery_. Czas trwania testu: ok. 30 minut.
 * **Test nr 2** - będzie przeprowadzony na zajęciach po omówieniu tematu "Przykłady API" w&nbsp;formie elektronicznej (zadania polegające na&nbsp; napisaniu kodu na&nbsp;komputerze z&nbsp;możliwością korzystania z&nbsp;dokumentacji dostępnej w&nbsp;Internecie czy&nbsp;StackOverflow). Zakres materiału: _technologia AJAX, żądania AJAX w&nbsp;bibliotece jQuery, interfejs programowania aplikacji, przykłady API_. Czas trwania testu: ok. 45 minut.
 * **Test nr 3** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z&nbsp;każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne (być może dotyczące pewnego kodu) i&nbsp;dwa krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Jedno ze wszystkich trzech pytań będzie dotyczyć HTML5, jedno CSS3 i jedno języka JavaScript. Czas trwania testu: ok. 10 minut na jedną osobę.
-Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced) z **wyłączeniem** tematyki związanej z API, AJAX, Angular, jQuery UI. Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na pytanie teoretyczne).
+Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced) z **wyłączeniem** tematyki związanej z API, AJAX, Angular, jQuery UI. Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na&nbsp;pytanie teoretyczne).
 
 	**<u>Lista pytań teoretycznych</u>** (będzie jeszcze uzupełniana w trakcie warsztatów):
 	
@@ -66,7 +66,7 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**CSS_6** Jakie wartości może przyjmować właściwość <span class="preformat">position</span>? Omów je.
 	
-	**CSS_7** Do czego służy właściwość <span class="float"></span>? Jak naprawić problem: "jeśli wewnątrz rodzica znajduje się jedynie element pływający, to niektóre przeglądarki uznają, że ma on zerową wysokość" (uczestnik dostanie ten problem na kartce z przykładem jego wystąpienia)?
+	**CSS_7** Do czego służy właściwość <span class="float"></span>? Jak naprawić problem: "jeśli wewnątrz rodzica znajduje się jedynie element pływający, to niektóre przeglądarki uznają, że ma on zerową wysokość" (uczestnik dostanie ten&nbsp;problem na&nbsp;kartce z przykładem jego wystąpienia)?
 	
 	**CSS_8** Do czego służy reguła <span class="preformat">@keyframes</span>?
 	
