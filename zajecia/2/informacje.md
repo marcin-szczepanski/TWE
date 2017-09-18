@@ -45,4 +45,5 @@ Zakres i terminy testów:
 Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced). Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na pytanie teoretyczne).
 
 	**Lista pytań teoretycznych** (będzie jeszcze uzupełniana w trakcie warsztatów):
-	* Pytanie 1
+	* Do czego służy znacznik <pre>&lt;meta&gt;</pre>? Wymień wybrane 3 atrybuty tego znacznika i omów je.
+	* Zadanie 2
