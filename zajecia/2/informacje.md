@@ -24,3 +24,20 @@ Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w 
 *	obsługa błędów i debugowanie kodu języka JavaScript;
 *	zestaw wtyczek JQuery UI.
 
+Każdy uczestnik, który będzie **aktywnie uczestniczyć** w warsztatach otrzyma na końcu imienny **certyfikat** :)
+
+### Co to znaczy "aktywnie uczestniczyć" w warsztatach?
+
+Aktywnie uczestniczyć w warsztatach oznacza, że uczestnik:
+
+*	był na co najmniej połowie warsztatów;
+*	wykonał większość zadań domowych;
+*	zaliczył większość testów.
+
+### Testy
+
+W czasie warsztatów zostaną przeprowadzone 3 testy, których celem jest sprawdzenie przyswojonej przez uczestników wiedzy na&nbsp;zajęciach. Poza tym zostanie przeprowadzony na pierwszych zajęciach test wstępny, na podstawie którego materiał zostanie odpowiednio dopasowany do grupy.
+
+Zakres i terminy testów:
+* **Test wstępny** - będzie przeprowadzony na&nbsp;**pierwszych zajęciach** w&nbsp;formie pisemnej (zadania zamknięte jednokrotnego i&nbsp;wielokrotnego wyboru oraz&nbsp;zadania polegające na&nbsp;napisaniu/uzupełnieniu kodu. Zakres materiału: **podstawy składni języka JavaScript, obiekty w&nbsp;języku JavaScript, obiektowy model dokumentu, zdarzenia języka JavaScript, podstawowe informacje o&nbsp;REST-owym API na&nbsp;przykładzie biblioteki qwest**.
+
