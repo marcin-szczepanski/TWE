@@ -7,5 +7,5 @@ layout: default
 	<a href="../../index.html" class="button-v button-module">Wróć do&nbsp;spisu materiałów</a>
 	<div style="clear: both;"></div>
 </div>
-<br /> <br />
+
 Strona w budowie
