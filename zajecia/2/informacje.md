@@ -68,8 +68,6 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**CSS_7** Do czego służy właściwość <span class="preformat">float</span>? Jak naprawić problem: "jeśli wewnątrz rodzica znajduje się jedynie element pływający, to niektóre przeglądarki uznają, że ma on zerową wysokość" (uczestnik dostanie ten&nbsp;problem na&nbsp;kartce z przykładem jego wystąpienia)?
 	
-	**CSS_8** Do czego służy reguła <span class="preformat">@keyframes</span>?
-	
 	**JS_1** Omów jak wygląda procedura dodawania i usuwania elementów z drzewa modelu DOM.
 	
 	**JS_2** Do czego służą funkcje anonimowe w JavaScript?
