@@ -49,6 +49,6 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	* Omów jak stworzyłbyś tabelę o podanej budowie (uczestnik dostaje kartkę z wyglądem tabeli i opowiada jak tworzyłby dane elementy - tabela będzie z nagłówkiem/stopką i z łączeniem komórek).
 	* Jakich znaczników byś użył, tworząc stronę o podanym wyglądzie (uczestnik dostaje kartkę z wyglądem strony i omawia po kolei jak by ją zakodował w HTML5)?
 	* Omów hierarchię selektorów w CSS3. Jak działa atrybut <span class="preformat">&lt;style&gt;</span> w HTML5? Jak nadpisać dowolny styl niezależnie od hierarchii selektorów?
-	* Jakie wymiary będzie miał dany element danej strony (uczestnik dostaje kod HTML i CSS i na podstawie reguł zawartych w kodzie CSS analizuje jakie wymiary będzie miał element)?
-	* 
-	* 
+	* Jakie wymiary będzie miał dany element danej strony (uczestnik dostaje kod HTML i CSS i na podstawie reguł zawartych w kodzie CSS analizuje jakie wymiary będzie miał element)? Omow swój tok rozumowania.
+	* Jakie znasz jednostki długości w CSS3? Omów każdą z nich.
+	* Na przykładzie podanej (na kartce) listy omów działanie selektorów pseudoklas <span class="preformat">:first-child()</span>, <span class="preformat">:last-child()</span>, <span class="preformat">:nth-child()</span>, <span class="preformat">:nth-last-child()</span>.
