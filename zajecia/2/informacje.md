@@ -42,7 +42,7 @@ Zakres i terminy testów:
 * **Test nr 1** - będzie przeprowadzony na zajęciach po omówieniu tematu "Efekty, zdarzenia i filtry biblioteki jQuery" w&nbsp;formie elektronicznej (quiz z&nbsp;pytaniami jednokrotnego wyboru i&nbsp;zadania polegające na&nbsp; napisaniu kodu na&nbsp;komputerze z&nbsp;możliwością korzystania z&nbsp;dokumentacji dostępnej w&nbsp;Internecie czy&nbsp;StackOverflow). Zakres materiału: _ECMAScript 6, podstawy pracy z biblioteką jQuery, efekty, zdarzenia i&nbsp;filtry biblioteki jQuery_. Czas trwania testu: ok. 25 minut.
 * **Test nr 2** - będzie przeprowadzony na zajęciach po omówieniu tematu "Przykłady API" w&nbsp;formie elektronicznej (quiz z&nbsp;pytaniami jednokrotnego wyboru i&nbsp;zadania polegające na&nbsp; napisaniu kodu na&nbsp;komputerze z&nbsp;możliwością korzystania z&nbsp;dokumentacji dostępnej w&nbsp;Internecie czy&nbsp;StackOverflow). Zakres materiału: _technologia AJAX, żądania AJAX w&nbsp;bibliotece jQuery, interfejs programowania aplikacji, przykłady API_. Czas trwania testu: ok. 80 minut.
 * **Test nr 3** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z&nbsp;każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne (być może dotyczące pewnego kodu) i&nbsp;dwa krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Jedno ze wszystkich trzech pytań będzie dotyczyć HTML5, jedno CSS3 i jedno języka JavaScript. Czas trwania testu: ok. 10 minut na jedną osobę.
-Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced). Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na pytanie teoretyczne).
+Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced) z **wyłączeniem** tematyki związanej z API, AJAX, Angular, jQuery UI. Pytania te są krótkie, mniej więcej ok. 90 sekund na każde pytanie (reszta czasu na pytanie teoretyczne).
 
 	**<u>Lista pytań teoretycznych</u>** (będzie jeszcze uzupełniana w trakcie warsztatów):
 	
@@ -72,4 +72,20 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze wszystkich t
 	
 	**JS_1** Omów jak wygląda procedura dodawania i usuwania elementów z drzewa modelu DOM.
 	
-	**JS_2** 
+	**JS_2** Do czego służą funkcje anonimowe w JavaScript?
+	
+	**JS_3** Omów przepływ zdarzeń w JavaScript.
+	
+	**JS_4** Jaki jest scope (zakres) zmiennych w standardzie ECMAScript 5?
+	
+	**JS_5** Co to jest "hoisting"?
+	
+	**JS_6** Co to jest closure (domknięcie)?
+	
+	**JS_7** Co to jest funkcja natychmiastowa i po co jej używamy?
+	
+	**JS_8** Czym jest funkcja callback (funkcja wywołania zwrotnego)?
+	
+	**JS_9** Jaki jest scope (zakres) zmiennych w standardzie ECMAScript 6 (chodzi o omówienie słów kluczowych <span class="preformat">var</span>, <span class="preformat">let</span>, <span class="preformat">const</span>?
+	
+	**JS_10** Czym są arrow functions?
