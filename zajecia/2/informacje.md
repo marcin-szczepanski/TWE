@@ -13,7 +13,7 @@ Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w 
 
 ### Zagadnienia poruszane w trakcie warsztatów:
 
-* ECMAScript 6;
+* standard ECMAScript 6;
 *	podstawowe problemy języka JavaScript;
 * biblioteka jQuery;
 * AJAX;
