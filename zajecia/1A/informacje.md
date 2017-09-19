@@ -9,3 +9,6 @@ layout: default
 </div>
 
 W tym semestrze nie prowadzę zajęć dla grupy początkującej. Zachęcam do zapoznania się z materiałami dla&nbsp;grupy średniozaawansowanej :)
+
+Prezentacje z warsztatów, które prowadziłem dla grupy początkującej przed powstaniem tej strony znajdują się tutaj:
+<a href="https://www.dropbox.com/sh/y880vkq1a3nho1r/AAAlAiUbuR72RkZhozh5KB1Ua?dl=0">Grupa początkująca</a>.
