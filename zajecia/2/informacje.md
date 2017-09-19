@@ -20,8 +20,8 @@ Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w 
 * żądania AJAX w bibliotece jQuery;
 *	API HTML5;
 *	biblioteka leaflet.js;
-*	obsługa błędów i debugowanie kodu języka JavaScript;
-*	zestaw wtyczek JQuery UI.
+*	zestaw wtyczek JQuery UI;
+*	obsługa błędów i debugowanie kodu języka JavaScript.
 
 Każdy uczestnik, który będzie **aktywnie uczestniczyć** w warsztatach otrzyma na końcu imienny **certyfikat** :)
 
