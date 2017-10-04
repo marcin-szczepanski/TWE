@@ -8,6 +8,25 @@ layout: default
 	<div style="clear: both;"></div>
 </div>
 
+## Zadania wstępne
+
+### Zadanie 1.
+
+Załóż konto na <a href="https://hub.sealcode.org/" target="blank">Sealhub</a>. Nazwę użytkownika stwórz wg wzoru:
+imie-nazwisko (lub imie.nazwisko lub imie_nazwisko lub ImieNazwisko). Np. dla Jana Kowalskiego - jan-kowalski (lub jan.kowalski lub jan_kowalski lub JanKowalski).
+
+### Zadanie 2.
+
+Stwórz na Githubie nowe repozytorium o&nbsp;nazwie **Sealcode_workshops**, dodaj prowadzącego zajęcia do&nbsp;niego (marcin-szczepanski),
+a&nbsp;następnie utwórz w&nbsp;nim **9** katalogów o&nbsp;nazwach **Lesson_01**, **Lesson_02**, itd.
+W&nbsp;każdym z&nbsp;tych katalogów będziesz umieszczać rozwiązania zadań domowych
+z&nbsp;każdych zajęć oraz&nbsp;ćwiczeń, które&nbsp;będziesz wykonywać na&nbsp;zajęciach.
+
+Stosuj następującą notację przy&nbsp;nazywaniu zadań domowych: **homework_task_01**, **homework_task_02**, itd.
+Dla&nbsp;ćwiczeń wykonywanych na&nbsp;zajęciach: **exercise_01**, **exercise_02**, itd.
+
+## Sprawy organizacyjne
+
 ### Terminy zajęć:
 Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w każdy **wtorek o&nbsp;11:45** w&nbsp;sali **D1**.
 
