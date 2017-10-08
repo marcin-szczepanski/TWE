@@ -4,7 +4,7 @@ layout: default
 <div class="inner">
 	<h1 id="main1">O warsztatach</h1>
     <div id="main2" class="h2">Znajdują się tutaj ogólne informacje dotyczące warsztatów technologii webowych.</div>
-	<a href="index.html" class="button-v button-module">Wróć do&nbsp;spisu materiałów</a>
+	<a href="./index.html" class="button-v button-module">Wróć do&nbsp;spisu materiałów</a>
 	<div style="clear: both;"></div>
 </div>
 
