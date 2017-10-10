@@ -17,11 +17,11 @@ imie-nazwisko (lub imie.nazwisko lub imie_nazwisko lub ImieNazwisko). Np. dla Ja
 
 ### Zadanie 2.
 
-Stwórz na Githubie nowe repozytorium o&nbsp;nazwie **Sealcode_workshops**, dodaj prowadzącego zajęcia do&nbsp;niego (marcin-szczepanski),
+Stwórz na Githubie nowe repozytorium o&nbsp;nazwie **Sealcode_workshops**,
 a&nbsp;następnie utwórz w&nbsp;nim **9** katalogów o&nbsp;nazwach **Lesson_01**, **Lesson_02**, itd.
 W&nbsp;każdym z&nbsp;tych katalogów będziesz umieszczać rozwiązania zadań domowych
 z&nbsp;każdych zajęć oraz&nbsp;ćwiczeń, które&nbsp;będziesz wykonywać na&nbsp;zajęciach.
-Na początku katalogi wypełnij pustymi plikami o nazwie **homework_task_01**, ponieważ puste katalogi nie są wysyłane na Githuba!
+Na&nbsp;początku katalogi wypełnij pustymi plikami o&nbsp;nazwie **homework_task_01**, ponieważ&nbsp;puste katalogi nie&nbsp;są wysyłane na&nbsp;Githuba!
 
 Stosuj następującą notację przy&nbsp;nazywaniu zadań domowych: **homework_task_01**, **homework_task_02**, itd.
 Dla&nbsp;ćwiczeń wykonywanych na&nbsp;zajęciach: **exercise_01**, **exercise_02**, itd.
