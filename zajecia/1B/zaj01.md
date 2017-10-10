@@ -353,7 +353,20 @@ Do czego służą zastosowane w powyższym kodzie znaczniki <span class="preform
 ## Zadania domowe:
 
 ### Zadanie 1.
-Wykonaj pierwszą fazę tworzenia projektu - **stworzenie repozytorium, w którym będą się znajdować pliki projektu**. Po stworzeniu repozytorium umieść adres do niego na forum w temacie z obecnością na pierwszych zajęciach w tym semestrze.
+Wykonaj pierwszą fazę tworzenia projektu - **stworzenie repozytorium, w którym będą się znajdować pliki projektu**.
+Stwórz na Githubie nowe repozytorium o&nbsp;nazwie **Sealcode_workshops**,
+a&nbsp;następnie utwórz w&nbsp;nim **8** katalogów o&nbsp;nazwach **Lesson_01**, **Lesson_02**, itd.
+W&nbsp;każdym z&nbsp;tych katalogów będziesz umieszczać rozwiązania zadań domowych
+z&nbsp;każdych zajęć oraz&nbsp;ćwiczeń, które&nbsp;będziesz wykonywać na&nbsp;zajęciach.
+Na&nbsp;początku katalogi wypełnij pustymi plikami o&nbsp;nazwie **homework_task_01**, ponieważ&nbsp;puste katalogi nie&nbsp;są wysyłane na&nbsp;Githuba!
+
+W trakcie warsztatów stosuj następującą notację przy&nbsp;nazywaniu zadań domowych: **homework_task_01**, **homework_task_02**, itd.
+Dla&nbsp;ćwiczeń wykonywanych na&nbsp;zajęciach: **exercise_01**, **exercise_02**, itd.
+
+Utwórz także katalog o&nbsp;nazwie **Projekt**, w&nbsp;którym będziesz umieszczać pliki projektu, który&nbsp;będziemy wykonywać
+w&nbsp;tym semestrze.
+
+**Uwaga!** Link do repozytorium podaj w&nbsp;komentarzu do&nbsp;zadania na&nbsp;SealHubie o&nbsp;nazwie **Zajęcia 1.** w&nbsp;grupie średniozaawansowanej, edytując dodany wcześniej komentarz ze&nbsp;swoim imieniem i&nbsp;nazwiskiem.
 
 ### Zadanie 2.
 Przygotuj formularz jak na poniższym obrazku:
