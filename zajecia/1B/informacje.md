@@ -9,7 +9,7 @@ layout: default
 </div>
 
 ### Terminy zajęć:
-Zajęcia dla grupy średniozaawansowanej w semestrze zimowym 2017/2018 odbywają się w&nbsp;każdy **poniedziałek o&nbsp;15:30** w&nbsp;sali **D1**. 
+Zajęcia dla grupy średniozaawansowanej w semestrze zimowym 2017/2018 odbywają się w&nbsp;każdy **poniedziałek o&nbsp;15:30** w&nbsp;sali **D2**. 
 
 ### Zagadnienia poruszane w trakcie warsztatów:
 
