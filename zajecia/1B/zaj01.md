@@ -355,13 +355,8 @@ Do czego służą zastosowane w powyższym kodzie znaczniki <span class="preform
 ### Zadanie 1.
 Wykonaj pierwszą fazę tworzenia projektu - **stworzenie repozytorium, w którym będą się znajdować pliki projektu**.
 Stwórz na Githubie nowe repozytorium o&nbsp;nazwie **Sealcode_workshops**,
-a&nbsp;następnie utwórz w&nbsp;nim **8** katalogów o&nbsp;nazwach **Lesson_01**, **Lesson_02**, itd.
-W&nbsp;każdym z&nbsp;tych katalogów będziesz umieszczać rozwiązania zadań domowych
-z&nbsp;każdych zajęć oraz&nbsp;ćwiczeń, które&nbsp;będziesz wykonywać na&nbsp;zajęciach.
-Na&nbsp;początku katalogi wypełnij pustymi plikami o&nbsp;nazwie **homework_task_01**, ponieważ&nbsp;puste katalogi nie&nbsp;są wysyłane na&nbsp;Githuba!
-
-W trakcie warsztatów stosuj następującą notację przy&nbsp;nazywaniu zadań domowych: **homework_task_01**, **homework_task_02**, itd.
-Dla&nbsp;ćwiczeń wykonywanych na&nbsp;zajęciach: **exercise_01**, **exercise_02**, itd.
+a&nbsp;następnie utwórz w&nbsp;nim katalog **Prace_domowe** i&nbsp;katalog **Zadania_na_zajeciach**.
+Na&nbsp;początku katalogi wypełnij pustymi plikami, ponieważ&nbsp;puste katalogi nie&nbsp;są wysyłane na&nbsp;Githuba!
 
 Utwórz także katalog o&nbsp;nazwie **Projekt**, w&nbsp;którym będziesz umieszczać pliki projektu, który&nbsp;będziemy wykonywać
 w&nbsp;tym semestrze.
