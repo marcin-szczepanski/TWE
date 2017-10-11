@@ -33,6 +33,9 @@ Dla&nbsp;ćwiczeń wykonywanych na&nbsp;zajęciach: **exercise_01**, **exercise_
 ### Terminy zajęć:
 Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w każdy **wtorek o&nbsp;11:45** w&nbsp;sali **D2**.
 
+### Prowadzący:
+Zajęcia prowadzi **Marcin Szczepański** (<a href="maito:marcin.szczepanski@sealcode.org">marcin.szczepanski@sealcode.org</a>
+
 ### Zagadnienia poruszane w trakcie warsztatów:
 
 * standard ECMAScript 6;
