@@ -60,7 +60,7 @@ Aktywnie uczestniczyć w warsztatach oznacza, że uczestnik:
 
 *	był na co najmniej połowie warsztatów;
 *	zrobił co najmniej połowę zadań domowych z pozytywnym efektem;
-*	wykazał się wiedzą na zajęciach (może to być po prostu zapytanie danego uczestnika wyrywkowo o&nbsp;jakąś rzecz z&nbsp;poprzednich zajęć, może to&nbsp;być wykonanie zadania na&nbsp;zajęciach czy&nbsp;test-quiz).
+*	wykazał się wiedzą na zajęciach (może to&nbsp;być wykonanie zadania na&nbsp;zajęciach czy&nbsp;test-quiz).
 
 ### Testy:
 
