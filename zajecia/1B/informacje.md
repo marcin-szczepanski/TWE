@@ -13,6 +13,8 @@ layout: default
 Załóż konto na <a href="https://hub.sealcode.org/" target="blank">Sealhub</a>. Nazwę użytkownika stwórz wg wzoru:
 imie-nazwisko (lub imie.nazwisko lub imie_nazwisko lub ImieNazwisko). Np. dla Jana Kowalskiego - jan-kowalski (lub jan.kowalski lub jan_kowalski lub JanKowalski).
 
+## Sprawy organizacyjne
+
 ### Terminy zajęć:
 Zajęcia dla grupy średniozaawansowanej w semestrze zimowym 2017/2018 odbywają się w&nbsp;każdy **poniedziałek o&nbsp;15:30** w&nbsp;sali **D2**. 
 
