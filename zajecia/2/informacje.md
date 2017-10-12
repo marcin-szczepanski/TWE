@@ -34,7 +34,11 @@ Dla&nbsp;ćwiczeń wykonywanych na&nbsp;zajęciach: **exercise_01**, **exercise_
 Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w każdy **wtorek o&nbsp;11:45** w&nbsp;sali **D2**.
 
 ### Prowadzący:
-Zajęcia prowadzi **Marcin Szczepański** (<a href="maito:marcin.szczepanski@sealcode.org">marcin.szczepanski@sealcode.org</a>
+Zajęcia prowadzi **Marcin Szczepański**.
+
+Kontakt: <a href="maito:marcin.szczepanski@sealcode.org">marcin.szczepanski@sealcode.org</a>
+
+Dyżur: **wtorek o 10:00** (w laboratoriach komputerowych WMI, prawdopodobnie **A1-16,17**)
 
 ### Zagadnienia poruszane w trakcie warsztatów:
 
