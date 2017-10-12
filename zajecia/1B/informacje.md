@@ -16,6 +16,13 @@ imie-nazwisko (lub imie.nazwisko lub imie_nazwisko lub ImieNazwisko). Np. dla Ja
 ### Terminy zajęć:
 Zajęcia dla grupy średniozaawansowanej w semestrze zimowym 2017/2018 odbywają się w&nbsp;każdy **poniedziałek o&nbsp;15:30** w&nbsp;sali **D2**. 
 
+### Prowadzący:
+Zajęcia prowadzi **Marcin Szczepański**.
+
+Kontakt: <a href="maito:marcin.szczepanski@sealcode.org">marcin.szczepanski@sealcode.org</a>
+
+Dyżur: **wtorek o 10:00** (w laboratoriach komputerowych WMI, prawdopodobnie **A1-16,17**)
+
 ### Zagadnienia poruszane w trakcie warsztatów:
 
 *   znaczniki charakterystyczne dla języka HTML5;
