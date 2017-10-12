@@ -27,7 +27,8 @@ Dyżur: **wtorek o 10:00** (w laboratoriach komputerowych WMI, prawdopodobnie **
 
 ### Zagadnienia poruszane w trakcie warsztatów:
 
-*   znaczniki charakterystyczne dla języka HTML5;
+*   podstawy Git-a;
+*	znaczniki charakterystyczne dla języka HTML5;
 *	formularze;
 *   animacje w CSS3;
 *   pozycjonowanie elementów na stronie;
