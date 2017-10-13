@@ -350,25 +350,12 @@ Przeanalizuj poniższy kod źródłowy:
 
 Do czego służą zastosowane w powyższym kodzie znaczniki <span class="preformat">&lt;fieldset&gt;</span>, <span class="preformat">&lt;legend&gt;</span> oraz <span class="preformat">&lt;label&gt;</span>?
 
-## Zadania domowe:
-
-### Zadanie 1.
-Wykonaj pierwszą fazę tworzenia projektu - **stworzenie repozytorium, w którym będą się znajdować pliki projektu**.
-Stwórz na Githubie nowe repozytorium o&nbsp;nazwie **Sealcode_workshops**,
-a&nbsp;następnie utwórz w&nbsp;nim katalog **Prace_domowe** i&nbsp;katalog **Zadania_na_zajeciach**.
-Na&nbsp;początku katalogi wypełnij pustymi plikami, ponieważ&nbsp;puste katalogi nie&nbsp;są wysyłane na&nbsp;Githuba!
-
-Utwórz także katalog o&nbsp;nazwie **Projekt**, w&nbsp;którym będziesz umieszczać pliki projektu, który&nbsp;będziemy wykonywać
-w&nbsp;tym semestrze.
-
-**Uwaga!** Link do repozytorium podaj w&nbsp;komentarzu do&nbsp;zadania na&nbsp;SealHubie o&nbsp;nazwie **Zajęcia 1.** w&nbsp;grupie średniozaawansowanej, edytując dodany wcześniej komentarz ze&nbsp;swoim imieniem i&nbsp;nazwiskiem.
-
-### Zadanie 2.
+### Zadanie domowe.
 Przygotuj formularz jak na poniższym obrazku:
 
 ![](assets/images/prdom01.png)
 
-Rozwiązanie tego zadania umieść w stworzonym w poprzednim zadaniu repozytorium w katalogu o nazwie "Prace_domowe". Plik z rozwiązaniem nazwij "prdom01.html".
+Rozwiązanie tego zadania umieść w stworzonym w poprzedniej pracy domowej repozytorium w&nbsp;katalogu o&nbsp;nazwie "Prace_domowe". Plik z&nbsp;rozwiązaniem nazwij "prdom01.html".
 
 ### Źródła
 * Duckett Jon, _HTML and CSS: Design and Build Websites_, przeł. Piotr Rajca, Helion, 2014, ISBN 978-83-246-6520-4.
