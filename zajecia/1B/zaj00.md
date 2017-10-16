@@ -88,7 +88,7 @@ Utwórz także katalog o&nbsp;nazwie **Projekt** (również umieść w&nbsp;nim 
 Od&nbsp;następnych zajęć rozwiązania wszystkich zadań wykonywanych na&nbsp;zajęciach umieszczaj
 w&nbsp;odpowiednim katalogu, np. rozwiązania zadań z&nbsp;zajęć nr 1 umieszczaj w&nbsp;katalogu **Zajecia_1**.
 
-Link do repozytorium wyślij prowadzącemu na&nbsp;adres mailowy <a href="mailto:marcin.szczepanski@sealcode.org">marcin.szczepanski@sealcode.org<a/>.
+Link do repozytorium podaj w komentarzu do&nbsp;zadania na SealHubie o&nbsp;nazwie **Zajęcia 0 - 16.10.17r.** w&nbsp;grupie średniozaawansowanej, edytując dodany wcześniej komentarz ze&nbsp;swoim imieniem i nazwiskiem.
 
 ### Źródła
 
