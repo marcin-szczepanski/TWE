@@ -2,11 +2,266 @@
 layout: default
 ---
 <div class="inner">
-	<h1 id="main1">Zajęcia 1</h1>
+    <h1 id="main1">Zajęcia 1</h1>
     <div id="main2" class="h2">Materiały do&nbsp;warsztatów technologii webowych prowadzonych na Wydziale Matematyki i&nbsp;Informatyki Uniwersytetu im. Adama Mickiewicza w Poznaniu.</div>
-	<a href="../../index.html" class="button-v button-module">Wróć do&nbsp;spisu materiałów</a>
+    <a href="../../index.html" class="button-v button-module">Wróć do&nbsp;spisu materiałów</a>
   <a href="https://jsfiddle.net/" target="blank" class="button-v button-module">Tu będziemy testować kod&nbsp;źródłowy</a>
-	<div style="clear: both;"></div>
+    <div style="clear: both;"></div>
 </div>
 
-Strona w budowie
+## 1. Standard ECMAScript 6
+
+W tej lekcji omówimy wybrane zagadnienia standardu ECMAScript 6. Otóż, jest to język skryptowy, którego&nbsp;jednym z&nbsp;dialektów jest znany nam
+już z&nbsp;kursu dla&nbsp;średniozaawansowanych JavaScript. Wtedy poznawaliśmy JavaScript w&nbsp;standardzie ECMAScript 5, który był bardzo
+popularny przez&nbsp;długi czas. Wraz&nbsp;z&nbsp;wejściem ES 6 w&nbsp;języku JavaScript pojawiły się&nbsp;nowe funkcjonalności. Część z&nbsp;nich omówimy dzisiaj. Poza tym omówimy kilka podstawowych zagadnień jeszcze z&nbsp;ES 5, o&nbsp;których nie&nbsp;było okazji powiedzieć wcześniej,
+a&nbsp;często o&nbsp;nie&nbsp;się&nbsp;pyta na&nbsp;rozmowach rekrutacyjnych na&nbsp;stanowiska związane z&nbsp;front-endem.
+
+### 1.1. Closure
+
+Zasięg stworzony przez funkcję, który rozgranicza zgromadzone w nim funkcje i zmienne od pozostałych części kodu tworząc dla nich osobne "środowisko"
+nazywamy **domknięciem** (z ang. _closure_).
+
+### Przykład 1.1.1.
+
+```js
+var x = "Jestem globalny.";
+function closure() {
+    var x = "Jestem w domknięciu.";
+}
+console.log(x);
+```
+
+Wywołanie ostatniej linii w powyższym przykładzie wyświetli w konsoli deweloperskiej "Jestem globalny.". 
+Funkcja <span class="preformat">closure()</span> służy tutaj jako domknięcie, tzn. zmienna w&nbsp;funkcji i&nbsp;ta na&nbsp;zewnątrz to
+zupełnie dwie różne zmienne. 
+
+Jeśli byśmy jednak chcieli zmodyfikować zmienną z&nbsp;naszego przykładu wystarczy usunąć słowo kluczowe <span class="preformat">var</span>
+w&nbsp;ciele funkcji.
+
+### Ćwiczenie 1.1.1.
+
+Przeanalizuj działanie poniższego kodu źródłowego. Co zostanie wyświetlone w konsoli? Wyjaśnij działanie tego kodu.
+
+```js
+for (var i = 0; i < 5; i++) {
+    setTimeout(function() {
+        console.log(i);
+    }, 100);
+}
+```
+
+### Ćwiczenie 1.1.2.
+
+Zaproponuj sposób naprawy kodu z ćwiczenia 1.1. tak, aby pętla faktycznie działała tak jak większość mogłaby się spodziewać.
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_112.js**_.
+
+**Podpowiedź** - wykorzystaj funkcję natychmiastową.
+
+### 1.2. Zasięg zmiennych
+
+Jedną z najbardziej podstawowych nowości, które pojawiły się w standardzie ECMAScript 6 są nowe słowa kluczowe dotyczące deklaracji zmiennych.
+
+W ES 5 mieliśmy tylko jeden zasięg zmiennych - zasięg funkcyjny, gdzie zmienne deklarowaliśmy ze&nbsp;słowem kluczowym <span class="preformat">var</span>. Teraz pojawił się inny zasięg - **zasięg blokowy**, który będziemy deklarować słowem kluczowym <span class="preformat">let</span>.
+Do tego dochodzi słowo kluczowe <span class="preformat">const</span>, które oznacza deklarację stałej.
+
+**Co to znaczy zasięg blokowy zmiennych?**
+
+Do tej pory, aby umieścić zmienną w zakresie lokalnym musieliśmy używać domknięcia. Dzięki ECMAScript 6 nie&nbsp;ma potrzeby takiego "kombinowania".
+Teraz możemy po prostu użyć zakresu blokowego.
+
+### Przykład 1.2.1.
+
+```js
+/* Zasięg funkcyjny */
+
+var i = 100; // zmienna globalna
+for (var i = 0; i < 5; i++) { // nadpisanie tej samej zmiennej globalnej
+    // działanie pętli for
+}
+console.log(i); // wyświetli wartość 5
+
+/* Domknięcie */
+
+var i = 100;
+(function () {
+    for (var i = 0; i < 5; i++) { // zmiennna lokalna
+        // działanie pętli for
+    }
+})();
+console.log(i); // wyświetli wartość 100
+
+/* Zasięg blokowy */
+
+let i = 100; // zmienna globalna
+for (let i = 0; i < 5; i++) { // zmiennna lokalna w zakresie pętli for
+    // działanie pętli for
+}
+
+console.log(i); // wyświetli wartość 100
+
+```
+
+### Ćwiczenie 1.2.1.
+
+Kod napisany w ćwiczeniu 1.1.2. zmodyfikuj tak, aby wykorzystywał zakres lokalny zmiennych w ES6.
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_121.js**_.
+
+**No dobrze a co z tymi stałymi?**
+
+Stałych używamy, kiedy przypisanie wartości musi się odbywać wraz z&nbsp;deklaracją
+oraz&nbsp;gdy&nbsp;chcemy zabronić przypisywania nowej wartości do&nbsp;wcześniej utworzonej zmiennej.
+
+Stałe nie przechowują obiektów ani tablic, a&nbsp;jedynie referencje do nich. I&nbsp;choć nie możemy przypisać stałym nowych referencji, to możemy zmienić same tablice czy&nbsp;obiekty bez&nbsp;wyrzucenia żadnego błędu. Dzieje się tak, gdyż referencje, a&nbsp;więc&nbsp;to, co&nbsp;przechowuje stała pozostają niezmienne.
+
+### Przykład 1.2.2.
+
+```js
+const x = [1, 2, 3];
+x = [2]; // wyświetli błąd
+const y = {value: 7};
+y = 6; // wyświetli błąd
+
+/* Ale... */
+
+const x = [1, 2, 3];
+x[0] = 2; // to zadziała
+const y = {value: 7};
+y.value = 5; // to zadziała
+y.newValue = 10; // to zadziała
+```
+
+### 1.3. Dziedziczenie - prototypy
+
+Czasem w języku JavaScript będziemy chcieli rozwiązywać problemy tak jak robi się&nbsp;to w&nbsp;innych językach programowania.
+Jednak dziedziczenie w JS różni się od tego z&nbsp;obiektowych języków.
+Jak wiemy, język JavaScript nie&nbsp;posiada pojęcia klasy. Wszystko jest obiektem (a&nbsp;już na&nbsp;pewno funkcje).
+Każdy obiekt jest związany tzw. obiektem **prototypu**, np.&nbsp;każda funkcja, którą utworzymy dostaje od&nbsp;razu
+właściwość <span class="preformat">prototype</span>, która&nbsp;zawiera nowy pusty obiekt.
+Właściwość ta zawiera w&nbsp;sobie właściwość <span class="preformat">constructor</span>, która to&nbsp;z&nbsp;kolei wskazuje na&nbsp;utworzoną funkcję.
+Tak utworzony obiekt prototypu możemy wykorzystać do&nbsp;przypisywania do&nbsp;niego właściwości i&nbsp;funkcji -
+będą one&nbsp;współdzielone przez&nbsp;obiekty dziedziczące.
+
+To co upodabnia dziedziczenie w JavaScript do języków programowania posiadających klasy jest słowo kluczowe <span class="preformat">new</span>.
+Użycie tego słowa do&nbsp;wywołania funkcji zmienia jej zachowanie. Zamiast wywołać ją bezpośrednio, tworzony jest nowy obiekt, którego właściwość <span class="preformat">prototype</span> jest wiązana z&nbsp;właściwością <span class="preformat">prototype</span> tej funkcji.
+Ponadto słowo kluczowe <span class="preformat">this</span> jest wiązane z&nbsp;nowo powstałym obiektem, więc&nbsp;wszystkie odwołania do <span class="preformat">this</span> w&nbsp;tej funkcji odbywają się na&nbsp;rzecz nowo utworzonego obiektu (po&nbsp;wszystkich operacjach wszystkie instrukcje w&nbsp;funkcji również są wywoływane).
+
+### Przykład 1.3.1.
+
+```js
+function Osoba(name){
+  this.name = name;
+}
+
+Osoba.prototype.getName = function (){
+  return this.name + ' Kowalski';
+}
+
+var test = new Osoba('Jan');
+console.log(test.getName());
+```
+
+### Przykład 1.3.2.
+
+Wejdź na stronę <a href="https://github.com/mdn/learning-area/blob/master/javascript/oojs/advanced/oojs-class-inheritance-finished.html" target="blank">Object-oriented JavaScript inheritance</a>.
+
+### Ćwiczenie 1.3.1.
+
+Napisz skrypt języka JavaScript, który tworzy "klasę" **Figura** z&nbsp;właściwością _nazwa_, a&nbsp;następnie "klasę" **Czworokat**, która
+dziedziczy z **Figura**. Jej właściwości to _typ-czworokata_ oraz&nbsp;_dlugosci-bokow_. Dalej utwórz "klasę" **Prostokat**, która
+dziedziczy z&nbsp;"klasy" **Czworokat**. Posiada ona metodę _podaj-pole_ i&nbsp;_podaj-obwod_.
+Utwórz obiekt "klasy" **Prostokąt**, ustaw mu wymiary 5x8 i&nbsp;wypisz jego nazwę, typ, pole oraz&nbsp;obwód.
+
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_131.js**_.
+
+**Jak to robić łatwiej i bardziej "obiektowo" w ES6?**
+
+Używając słów <span class="preformat">class</span> oraz <span class="preformat">extends</span>.
+
+### Przykład 1.3.3.
+
+```js
+class Animal { 
+  constructor(name) {
+    this.name = name;
+  }
+  
+  talk() {
+    console.log(this.name + ' talks.');
+  }
+}
+
+class Dog extends Animal {
+  speak() {
+    super.speak();
+    console.log(this.name + ' barks.');
+  }
+}
+
+let animal = new Animal('Mruczek');
+animal.talk();
+let dog = new Lion('Simba');
+dog.talk();
+console.log(typeof lion === typeof cat);
+```
+
+Mimo, że używamy tutaj słów znanych z innych języków programowania to tak na&nbsp;prawdę "pod&nbsp;spodem" dalej mamy prototypy :)
+
+### Ćwiczenie 1.3.2.
+
+Zmodyfikuj rozwiązanie ćwiczenia 1.3.1. tak, aby używać słów <span class="preformat">class</span> oraz <span class="preformat">extends</span>.
+
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_132.js**_.
+
+### 1.4. Hoisting zmiennych
+
+
+
+### 1.5. Domyślne parametry funkcji
+
+
+
+### 1.6. Arrow functions
+
+
+
+### 1.7. Skrócona składnia dla deklaracji metod obiektu
+
+
+
+### 1.8. Callbacki i obiekt Promise
+
+
+
+### 1.9. Nowe możliwości stringów
+
+#### 1.9.1. Interpolacja stringów
+
+
+
+#### 1.9.2. Stringi wielowierszowe
+
+
+
+#### 1.9.3. Metody stringowe
+
+
+### Zadania domowe
+
+### Zadanie 1.
+
+
+### Zadanie 2.
+
+
+
+### Źródła
+
+* Duckett Jon, _JavaScript and JQuery: Interactive Front-End Web Development_, przeł. Robert Górczyński, Helion, 2015, ISBN 978-83-283-0126-9.
+* blog.nebula.us/13-javascript-closures-czyli-zrozumiec-i-wykorzystac-domkniecia
+* blog.nebula.us/25-ecmascript-6-top-10-nowosci-cz-3-let-czyli-blokowy-zakres-zmiennych
+* nafrontendzie.pl/dziedziczenie-javascript-wersja-klasyczna
+* blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions
+* blog.nebula.us/26-ecmascript-6-top-10-nowosci-cz-4-nowe-mozliwosci-stringow
+* blog.nebula.us/29-ecmascript-6-top-10-nowosci-cz-7-domyslne-parametry-funkcji
+* blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring
+* blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises
