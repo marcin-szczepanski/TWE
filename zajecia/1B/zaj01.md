@@ -2,11 +2,11 @@
 layout: default
 ---
 <div class="inner">
-	<h1 id="main1">Zajęcia 1</h1>
+    <h1 id="main1">Zajęcia 1</h1>
     <div id="main2" class="h2">Materiały do&nbsp;warsztatów technologii webowych prowadzonych na Wydziale Matematyki i&nbsp;Informatyki Uniwersytetu im. Adama Mickiewicza w Poznaniu.</div>
-	<a href="../../index.html" class="button-v button-module">Wróć do&nbsp;spisu materiałów</a>
-	<a href="https://jsfiddle.net/" target="blank" class="button-v button-module">Tu będziemy testować kod&nbsp;źródłowy</a>
-	<div style="clear: both;"></div>
+    <a href="../../index.html" class="button-v button-module">Wróć do&nbsp;spisu materiałów</a>
+    <a href="https://jsfiddle.net/" target="blank" class="button-v button-module">Tu będziemy testować kod&nbsp;źródłowy</a>
+    <div style="clear: both;"></div>
 </div>
 
 ## 1. Nowości w HTML5
@@ -50,23 +50,23 @@ Na przykład na stronie głównej naszej witryny możemy umieścić kilka elemen
 
 ```html
 <section class="popular-recipes">
-	<h2>Popularne przepisy</h2>
-	<a href="">Grillowany kurczak</a>
-	<a href="">Mielone kotleciki z kurczaka</a>
-	<a href="">Smażone naleśniki</a>
-	<a href="">Gulasz z kurczaka</a>
+    <h2>Popularne przepisy</h2>
+    <a href="">Grillowany kurczak</a>
+    <a href="">Mielone kotleciki z kurczaka</a>
+    <a href="">Smażone naleśniki</a>
+    <a href="">Gulasz z kurczaka</a>
 </section>
 ```
 
-### 1.4. Grupy nagłówków
+### 1.4. Grupy nagłówków (aktualizacja - usunięto z HTML5!)
 Element <span class="preformat">&lt;hgroup&gt;</span> służy do grupowania od jednego do kilku elementów <span class="preformat">&lt;h1&gt; - &lt;h6&gt;</span>, tak by były one traktowane jako jeden nagłówek.
 
 ### Przykład 1.3.
 
 ```html
 <hgroup>
-	<h2>Nauka HTML5</h2>
-	<h3>Kurs tygodniowy</h3>
+    <h2>Nauka HTML5</h2>
+    <h3>Kurs tygodniowy</h3>
 </hgroup>
 ```
 
@@ -132,20 +132,20 @@ Natomiast w drugiej sytuacji element <span class="preformat">&lt;aside&gt;</span
 
 ```html
 <aside>
-	<section class="popular-recipes">
-		<h2>Popularne przepisy</h2>
-		<a href="">Grillowany kurczak</a>
-		<a href="">Mielone kotleciki z kurczaka</a>
-		<a href="">Smażone naleśniki</a>
-		<a href="">Gulasz z kurczaka</a>
-	</section>
-	<section class="contact-details">
-		<h2>Kontakt</h2>
-		<p>Dania świata <br />
-			ul. Poznańska 27 <br />
-			Poznań
-		</p>
-	</section>
+    <section class="popular-recipes">
+        <h2>Popularne przepisy</h2>
+        <a href="">Grillowany kurczak</a>
+        <a href="">Mielone kotleciki z kurczaka</a>
+        <a href="">Smażone naleśniki</a>
+        <a href="">Gulasz z kurczaka</a>
+    </section>
+    <section class="contact-details">
+        <h2>Kontakt</h2>
+        <p>Dania świata <br />
+            ul. Poznańska 27 <br />
+            Poznań
+        </p>
+    </section>
 </aside>
 ```
 
@@ -156,21 +156,21 @@ Przeanalizuj poniższy kod źródłowy:
 
 ```html
 <div class="wrapper">
-	<header>
-		<h1>Dania świata</h1>
-		<nav>
-			<!-- zawartość paska nawigacyjnego -->
-		</nav>
-	</header>
-	<section class="courses">
-		<!-- zawartość sekcji -->
-	</section>
-	<aside>
-		<!-- zawartość paska bocznego -->
-	</aside>
-	<footer>
-		<!-- zawartość stopki -->
-	</footer>
+    <header>
+        <h1>Dania świata</h1>
+        <nav>
+            <!-- zawartość paska nawigacyjnego -->
+        </nav>
+    </header>
+    <section class="courses">
+        <!-- zawartość sekcji -->
+    </section>
+    <aside>
+        <!-- zawartość paska bocznego -->
+    </aside>
+    <footer>
+        <!-- zawartość stopki -->
+    </footer>
 </div>
 ```
 
@@ -217,9 +217,9 @@ Przeanalizujmy poniższy przykład:
 
 ```html
 <form action="http://www.jakaswitryna.com/login.php">
-	<p>Nazwa użytkownika:
-		<input type="text" name="username" size="15" maxlength="30" />
-	</p>  
+    <p>Nazwa użytkownika:
+        <input type="text" name="username" size="15" maxlength="30" />
+    </p>  
 </form>
 ```
 
@@ -244,9 +244,9 @@ Przeanalizuj poniższy kod źródłowy:
 
 ```html
 <form action="http://www.jakaswitryna.com/login.php">
-	<p>Co myślisz o tym koncercie?</p>
-	<textarea name="comments" cols="30" rows="4">
-	Tutaj wpisz swój komentarz...</textarea>   
+    <p>Co myślisz o tym koncercie?</p>
+    <textarea name="comments" cols="30" rows="4">
+    Tutaj wpisz swój komentarz...</textarea>   
 </form>
 ```
 
@@ -260,15 +260,15 @@ Przeanalizuj poniższy kod źródłowy:
 
 ```html
 <form action="http://www.jakaswitryna.com/profile.php">
-	<p>Wybierz swój ulubiony kolor:
-		<br />
-		<input type="radio" name="color" value="blue"
-		    checked="checked" /> Niebieski
-		<input type="radio" name="color" value="green" />
-		    Zielony
-		<input type="radio" name="color" value="red" />
-		    Czerwony
-	</p>
+    <p>Wybierz swój ulubiony kolor:
+        <br />
+        <input type="radio" name="color" value="blue"
+            checked="checked" /> Niebieski
+        <input type="radio" name="color" value="green" />
+            Zielony
+        <input type="radio" name="color" value="red" />
+            Czerwony
+    </p>
 </form>
 ```
 
@@ -283,15 +283,15 @@ Jeżeli elementowi <span class="preformat">&lt;input&gt;</span> nadamy atrybut <
 
 ```html
 <form action="http://www.jakaswitryna.com/profile.php">
-	<p>Wybierz swoją ulubioną usługę muzyczną:
-		<br />
-		<input type="checkbox" name="service"
-		    value="itunes" checked="checked" /> iTunes
-		<input type="checkbox" name="service"
-		    value="lastfm" /> Last.fm
-		<input type="checkbox" name="service"
-		    value="spotify" /> Spotify
-	</p>
+    <p>Wybierz swoją ulubioną usługę muzyczną:
+        <br />
+        <input type="checkbox" name="service"
+            value="itunes" checked="checked" /> iTunes
+        <input type="checkbox" name="service"
+            value="lastfm" /> Last.fm
+        <input type="checkbox" name="service"
+            value="spotify" /> Spotify
+    </p>
 </form>
 ```
 
@@ -304,10 +304,10 @@ Jakie znaczenie ma atrybut <span class="preformat">value</span> w poniższym kod
 
 ```html
 <form action="http://www.jakaswitryna.com/profile.php">
-	<p>Subskrybuj nasz biuletyn informacyjny:</p>
-	<input type="text" name="email" />
-	<input type="submit" name="subscribe"
-		value="Subskrybuj" />  
+    <p>Subskrybuj nasz biuletyn informacyjny:</p>
+    <input type="text" name="email" />
+    <input type="submit" name="subscribe"
+        value="Subskrybuj" />  
 </form>
 ```
 
@@ -318,10 +318,10 @@ Jeżeli elementowi <span class="preformat">&lt;input&gt;</span> nadamy atrybut <
 
 ```html
 <form action="http://www.jakaswitryna.com/profile.php">
-	<p>Subskrybuj nas:</p>
-	<input type="text" name="email" />
-	<input type="image" src="images/subscribe.jpg"
-		width="100" height="20" />  
+    <p>Subskrybuj nas:</p>
+    <input type="text" name="email" />
+    <input type="image" src="images/subscribe.jpg"
+        width="100" height="20" />  
 </form>
 ```
 
@@ -336,15 +336,15 @@ Przeanalizuj poniższy kod źródłowy:
 
 ```html
 <form action="http://www.jakaswitryna.com/profile.php">
-	<fieldset>
-		<legend>Informacje kontaktowe</legend>
-		<label>Adres email:<br />
-		<input type="text" name="email" /></label><br />
-		<label>Telefon komórkowy:<br />
-		<input type="text" name="mobile" /></label><br />
-		<label>Telefon:<br />
-		<input type="text" name="telephone" /></label>
-	</fieldset>
+    <fieldset>
+        <legend>Informacje kontaktowe</legend>
+        <label>Adres email:<br />
+        <input type="text" name="email" /></label><br />
+        <label>Telefon komórkowy:<br />
+        <input type="text" name="mobile" /></label><br />
+        <label>Telefon:<br />
+        <input type="text" name="telephone" /></label>
+    </fieldset>
 </form>
 ```
 
