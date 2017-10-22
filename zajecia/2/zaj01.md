@@ -191,8 +191,8 @@ class Animal {
 }
 
 class Dog extends Animal {
-    speak() {
-        super.speak();
+    talk() {
+        super.talk();
         console.log(this.name + ' barks.');
     }
 }
