@@ -82,22 +82,22 @@ console.log(i); // wyświetli wartość 5
 
 /* Domknięcie */
 
-var i = 100;
+var j = 100;
 (function () {
-    for (var i = 0; i < 5; i++) { // zmiennna lokalna
+    for (var j = 0; j < 5; j++) { // zmiennna lokalna
         // działanie pętli for
     }
 })();
-console.log(i); // wyświetli wartość 100
+console.log(j); // wyświetli wartość 100
 
 /* Zasięg blokowy */
 
-let i = 100; // zmienna globalna
-for (let i = 0; i < 5; i++) { // zmiennna lokalna w zakresie pętli for
+let k = 100; // zmienna globalna
+for (let k = 0; k < 5; k++) { // zmiennna lokalna w zakresie pętli for
     // działanie pętli for
 }
 
-console.log(i); // wyświetli wartość 100
+console.log(k); // wyświetli wartość 100
 
 ```
 
@@ -123,11 +123,11 @@ y = 6; // wyświetli błąd
 
 /* Ale... */
 
-const x = [1, 2, 3];
-x[0] = 2; // to zadziała
-const y = {value: 7};
-y.value = 5; // to zadziała
-y.newValue = 10; // to zadziała
+const a = [1, 2, 3];
+a[0] = 2; // to zadziała
+const b = {value: 7};
+b.value = 5; // to zadziała
+b.newValue = 10; // to zadziała
 ```
 
 ### 1.3. Dziedziczenie - prototypy
@@ -181,27 +181,27 @@ Używając słów <span class="preformat">class</span> oraz <span class="preform
 
 ```js
 class Animal { 
-  constructor(name) {
-    this.name = name;
-  }
-  
-  talk() {
-    console.log(this.name + ' talks.');
-  }
+    constructor(name) {
+        this.name = name;
+    }
+
+    talk() {
+        console.log(this.name + ' talks.');
+    }
 }
 
 class Dog extends Animal {
-  speak() {
-    super.speak();
-    console.log(this.name + ' barks.');
-  }
+    speak() {
+        super.speak();
+        console.log(this.name + ' barks.');
+    }
 }
 
 let animal = new Animal('Mruczek');
 animal.talk();
-let dog = new Lion('Simba');
+let dog = new Dog('Puszek');
 dog.talk();
-console.log(typeof lion === typeof cat);
+console.log(typeof animal === typeof dog);
 ```
 
 Mimo, że używamy tutaj słów znanych z innych języków programowania to tak na&nbsp;prawdę "pod&nbsp;spodem" dalej mamy prototypy :)
