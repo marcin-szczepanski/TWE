@@ -249,6 +249,28 @@ _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nb
 
 ### Zadanie 1.
 
+Napisz skrypt języka JavaScript, który utworzy "klasę" **Osoba** z&nbsp;właściwościami
+_imie_, _nazwisko_, _rokUrodzenia_, _plec_ oraz&nbsp;metodą _podajWiek_, która korzystając
+z&nbsp;obiektu **Date** oblicza wiek danej osoby.
+
+Utwórz też "klasę" **Nauczyciel**, która również będzie dziedziczyć z&nbsp;klasy **Osoba**
+i&nbsp;będzie zawierać pole _nauczanyPrzedmiot_ i&nbsp;_rokRozpoczeciaPracy_.
+Do&nbsp;tego metoda _podajIloscLatPracy_, która działa analogicznie do&nbsp;metody _podajWiek_.
+
+Utwórz "klasę" **Wychowawca**, która dziedziczy z&nbsp;klasy **Nauczyciel**
+i&nbsp;będzie zawierać pole _przydzielonaKlasa_.
+
+Utwórz obiekt klasy **Wychowawca** z&nbsp;danym imieniem, nazwiskiem, rokiem urodzenia, płcią, nauczanym przedmiotem
+oraz&nbsp;rokiem rozpoczęcia pracy. Wywołaj na&nbsp;nim metody _podajWiek_ i&nbsp;_podajIloscLatPracy_.
+
+Wyświetl w&nbsp;konsoli deweloperskiej cały obiekt i&nbsp;to, co&nbsp;zwróciły metody.
+
+**Zadanie wykonaj na 2 sposoby, które poznaliśmy na zajęciach - bez użycia słów <span class="preformat">class</span>
+(w&nbsp;nazwie pliku z&nbsp;rozwiązaniem dajemy literę **A**) oraz&nbsp;<span class="preformat">extends</span>
+a&nbsp;następnie z&nbsp;użyciem tych słów (w&nbsp;nazwie pliku z&nbsp;rozwiązaniem dajemy literę **B**).**
+
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **homework_task_01A.js**
+i&nbsp;**homework_task_01B.js**_.
 
 ### Zadanie 2.
 
