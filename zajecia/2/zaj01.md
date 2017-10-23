@@ -266,13 +266,21 @@ oraz&nbsp;rokiem rozpoczęcia pracy. Wywołaj na&nbsp;nim metody _podajWiek_ i&n
 Wyświetl w&nbsp;konsoli deweloperskiej cały obiekt i&nbsp;to, co&nbsp;zwróciły metody.
 
 **Zadanie wykonaj na 2 sposoby, które poznaliśmy na zajęciach - bez użycia słów <span class="preformat">class</span>
-(w&nbsp;nazwie pliku z&nbsp;rozwiązaniem dajemy literę **A**) oraz&nbsp;<span class="preformat">extends</span>
-a&nbsp;następnie z&nbsp;użyciem tych słów (w&nbsp;nazwie pliku z&nbsp;rozwiązaniem dajemy literę **B**).**
+(w&nbsp;nazwie pliku z&nbsp;rozwiązaniem dajemy literę _A_) oraz&nbsp;<span class="preformat">extends</span>
+a&nbsp;następnie z&nbsp;użyciem tych słów (w&nbsp;nazwie pliku z&nbsp;rozwiązaniem dajemy literę _B_).**
 
 _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **homework_task_01A.js**
 i&nbsp;**homework_task_01B.js**_.
 
 ### Zadanie 2.
+
+Rozwiąż quiz dostepny na&nbsp;<a href="https://www.classmarker.com/" target="blank">classmarker.com</a> o&nbsp;nazwie **Zajęcia 1 - ECMAScript 6 - part I**.
+
+### Zadanie 3.
+
+
+
+### Zadanie 4.
 
 
 
