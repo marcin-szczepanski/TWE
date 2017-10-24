@@ -26,7 +26,7 @@ Na&nbsp;początku katalogi wypełnij pustymi plikami o&nbsp;nazwie **homework_ta
 W trakcie warsztatów stosuj następującą notację przy&nbsp;nazywaniu zadań domowych: **homework_task_01**, **homework_task_02**, itd.
 Dla&nbsp;ćwiczeń wykonywanych na&nbsp;zajęciach: **exercise_01**, **exercise_02**, itd.
 
-**Uwaga!** Link do repozytorium podaj w&nbsp;komentarzu do&nbsp;zadania na&nbsp;SealHubie o&nbsp;nazwie **Zajęcia 1.** w&nbsp;grupie zaawansowanej, edytując dodany wcześniej komentarz ze&nbsp;swoim imieniem i&nbsp;nazwiskiem.
+**Uwaga!** Link do repozytorium podaj w&nbsp;komentarzu do&nbsp;zadania na&nbsp;SealHubie o&nbsp;nazwie **Zajęcia 0** w&nbsp;grupie zaawansowanej, edytując dodany wcześniej komentarz ze&nbsp;swoim imieniem i&nbsp;nazwiskiem.
 
 ## Sprawy organizacyjne
 
