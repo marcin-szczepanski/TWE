@@ -202,6 +202,7 @@ animal.talk();
 let dog = new Dog('Puszek');
 dog.talk();
 console.log(typeof animal === typeof dog);
+console.log(typeof dog);
 ```
 
 Mimo, że używamy tutaj słów znanych z innych języków programowania to tak na&nbsp;prawdę "pod&nbsp;spodem" dalej mamy prototypy :)
