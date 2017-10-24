@@ -15,6 +15,9 @@ layout: default
 Załóż konto na <a href="https://hub.sealcode.org/" target="blank">Sealhub</a>. Nazwę użytkownika stwórz wg wzoru:
 imie-nazwisko (lub imie.nazwisko lub imie_nazwisko lub ImieNazwisko). Np. dla Jana Kowalskiego - jan-kowalski (lub jan.kowalski lub jan_kowalski lub JanKowalski).
 
+Następnie na swoim koncie w wyszukiwarce wpisz **Grupa zaawansowana**, wybierz ją, potem w&nbsp;panelu bocznym kliknij **Members**,
+a&nbsp;na&nbsp;kolejnej stronie w&nbsp;panelu po&nbsp;drugiej stronie kliknij **Join project**.
+
 ### Zadanie 2.
 
 Stwórz na Githubie nowe repozytorium o&nbsp;nazwie **Sealcode_workshops**,
