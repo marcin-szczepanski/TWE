@@ -55,7 +55,7 @@ for (var i = 0; i < 5; i++) {
 Zaproponuj sposób naprawy kodu z ćwiczenia 1.1. tak, aby pętla faktycznie działała tak jak większość mogłaby się spodziewać.
 _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_112.js**_.
 
-**Podpowiedź** - wykorzystaj funkcję natychmiastową.
+**Podpowiedź** - wykorzystaj <a href="https://stormit.pl/pytania-rekrutacyjne-javascript/#co-to-jest-funkcja-natychmiastowa-iife-8211-immediately-invoked-function-expression" target="blank">funkcję natychmiastową</a>.
 
 ### 1.2. Zasięg zmiennych
 
@@ -202,6 +202,7 @@ animal.talk();
 let dog = new Dog('Puszek');
 dog.talk();
 console.log(typeof animal === typeof dog);
+console.log(typeof dog);
 ```
 
 Mimo, że używamy tutaj słów znanych z innych języków programowania to tak na&nbsp;prawdę "pod&nbsp;spodem" dalej mamy prototypy :)
