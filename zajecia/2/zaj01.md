@@ -212,38 +212,63 @@ Zmodyfikuj rozwiązanie ćwiczenia 1.3.1. tak, aby używać słów <span class="
 
 _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_132.js**_.
 
-### 1.4. Hoisting zmiennych
+### 1.4. Arrow functions
 
+Przeanalizujmy treści dostępne na stronie <a href="http://blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions" target="blank">blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions</a>.
 
+### 1.5. Callbacki i obiekt Promise
 
-### 1.5. Domyślne parametry funkcji
+Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises" target="blank">blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises</a>.
+Treści tam zawarte zostaną poruszone w&nbsp;zadaniu domowym nr 4.
 
+### 1.6. Hoisting
 
+Przeczytaj materiały dostępne na stronie <a href="http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/" target="blank">http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/</a>. Treści tam zawarte
+zostaną poruszone w&nbsp;zadaniu domowym nr 4.
 
-### 1.6. Arrow functions
+### 1.7. Domyślne parametry funkcji
 
+Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/29-ecmascript-6-top-10-nowosci-cz-7-domyslne-parametry-funkcji" target="blank">blog.nebula.us/29-ecmascript-6-top-10-nowosci-cz-7-domyslne-parametry-funkcji</a>
+a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stronie zostaną poruszone w&nbsp;zadaniu domowym nr 4.
 
+### Ćwiczenie 1.7.1.
 
-### 1.7. Skrócona składnia dla deklaracji metod obiektu
+Napisz funkcję języka JavaScript, która dla podanego jako argument kąta (w&nbsp;stopniach), promienia oraz&nbsp;wartości liczby PI wyznaczy
+pole wycinka koła. Następnie wywołaj tę funkcję z&nbsp;następującymi argumentami:
 
+* (60, 5, 3.14);
+* (30, 7, 22/7);
+* (45, 2).
 
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_171.js**_.
 
-### 1.8. Callbacki i obiekt Promise
+### 1.8. Skróty składniowe i destructuring
 
+Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring" target="blank">blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring</a>. Treści tam zawarte
+zostaną poruszone w&nbsp;zadaniu domowym nr 4.
 
 
 ### 1.9. Nowe możliwości stringów
 
-#### 1.9.1. Interpolacja stringów
+Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/26-ecmascript-6-top-10-nowosci-cz-4-nowe-mozliwosci-stringow" target="blank">blog.nebula.us/26-ecmascript-6-top-10-nowosci-cz-4-nowe-mozliwosci-stringow</a>
+a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stronie zostaną poruszone w&nbsp;zadaniu domowym nr 4.
 
+### Ćwiczenie 1.9.1.
 
+Dany jest kod źródłowy języka JavaScript:
 
-#### 1.9.2. Stringi wielowierszowe
+```js
+var s = 'Podstawą szczęścia jest wolność, a podstawą wolności odwaga.';
 
+var text = 'Operuję na zdaniu: "Podstawą szczęścia jest wolność, a podstawą wolności odwaga." <br /><br />' + 'Trzynastym znakiem w tym zdaniu jest: ' + s.charAt(13) + '. <br />' + 'Znaki pomiędzy 7. a 12. pozycją to: ' + s.substring(7, 12) + '. <br />' + "Pierwszy raz znak 'ą' pojawia się na miejscu: " + s.indexOf('ą') + '. <br />' + 'Ten ciąg ma ' + s.length + ' znaków. <br/>' + "Po zamianie 'podstawą' na 'fundamentem' mamy: " + s.replace('podstawą', 'fundamentem') + '. <br />' + 'Część zdania przed przecinkiem to: ' + s.split(',')[0] + '. <br />' + 'Druga część zdania po odwróceniu to: ' + s.split(',')[1].split('').reverse().join('') + '.'
 
+console.log(text);
+```
 
-#### 1.9.3. Metody stringowe
+Popraw ten kod tak, aby w drugiej zmiennej nie były wykorzystywane znaki dodawania. Ciąg znaków do&nbsp;niej przypisany nie powinien
+być wyświetlany w jednej linii tylko tak, aby&nbsp;całość była widoczna na&nbsp;szerokości ekranu Twojego edytora kodów źródłowych.
 
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_191.js**_.
 
 ### Zadania domowe
 
@@ -278,11 +303,12 @@ Rozwiąż quiz dostepny na&nbsp;<a href="https://www.classmarker.com/" target="b
 
 ### Zadanie 3.
 
-
+Przeczytaj zawartość punktów **1.5.-1.9.** w&nbsp;tej lekcji i&nbsp;zrób wszystkie ćwiczenia, które tam się znajdują. Rozwiązania ćwiczeń umieść
+na&nbsp;repozytorium Githuba.
 
 ### Zadanie 4.
 
-
+Rozwiąż quiz dostepny na&nbsp;<a href="https://www.classmarker.com/" target="blank">classmarker.com</a> o&nbsp;nazwie **Zajęcia 1 - ECMAScript 6 - part II**.
 
 ### Źródła
 
@@ -295,3 +321,4 @@ Rozwiąż quiz dostepny na&nbsp;<a href="https://www.classmarker.com/" target="b
 * blog.nebula.us/29-ecmascript-6-top-10-nowosci-cz-7-domyslne-parametry-funkcji
 * blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring
 * blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises
+* poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript
