@@ -54,8 +54,10 @@ Dany jest kod strony HTML:
 		<title>Tytuł strony...</title>
 	</head>
 	<body>
-		<h1 class="header header1">Nagłówek H1</h1>
-		<h2 id="header2" class="header">Nagłówek H2<h2>
+        <header>
+            <h1 class="header header1">Nagłówek H1</h1>
+            <h2 id="header2" class="header">Nagłówek H2</h2>
+        </header>
 		<nav>
 			<ul>
 				<li><a href="/">Strona główna</a></li>
@@ -66,7 +68,9 @@ Dany jest kod strony HTML:
 			</ul>
 		</nav>
 		<section>
+            <h2>Sekcja 1</h2>
 			<article>
+                <h2>Formularz</h2>
 				<form action="http://www.jakaswitryna.com/review.php" method="get">
 					<fieldset>
 						<legend>
@@ -141,7 +145,8 @@ Dany jest kod strony HTML:
 		<footer>
 			&copy; 2017 Dania świata
 		</footer>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="ex231.js"></script>
 	</body>
 </html>
 ```
