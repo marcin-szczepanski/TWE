@@ -149,7 +149,7 @@ Dany jest kod strony HTML:
 ```
 
 Korzystając z funkcji <span class="preformat">$()</span> wyszukaj i wyświetl w konsoli nastepujące elementy
-na dwa sposoby - pierwszy z&nbsp;metodą <span class="preformat">html()</span> a drugi z&nbsp;metodą <span class="preformat">text()</span>:
+na a także na dwa sposoby ich treść - pierwszy z&nbsp;metodą <span class="preformat">html()</span> a&nbsp;drugi z&nbsp;metodą <span class="preformat">text()</span>:
 
 a) wszystkie nagłówki h1;
 
