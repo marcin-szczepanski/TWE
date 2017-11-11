@@ -54,10 +54,8 @@ Dany jest kod strony HTML:
 		<title>Tytuł strony...</title>
 	</head>
 	<body>
-		<header>
-			<h1 class="header header1">Nagłówek H1</h1>
-			<h2 id="header2" class="header">Nagłówek H2<h2>
-		</header>
+		<h1 class="header header1">Nagłówek H1</h1>
+		<h2 id="header2" class="header">Nagłówek H2<h2>
 		<nav>
 			<ul>
 				<li><a href="/">Strona główna</a></li>
