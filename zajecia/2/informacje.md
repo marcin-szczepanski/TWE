@@ -106,7 +106,7 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze&nbsp;wszystk
 	
 	**JS_5** Co to jest funkcja natychmiastowa i po co jej używamy?
 	
-	**JS_6** Czym jest funkcja callback (funkcja wywołania zwrotnego)?
+	**JS_6** Czym jest obiekt Promise?
 	
 	**JS_7** Jaki jest scope (zakres) zmiennych w standardzie ECMAScript 6 (chodzi o omówienie słów kluczowych <span class="preformat">var</span>, <span class="preformat">let</span>, <span class="preformat">const</span>)?
 	
