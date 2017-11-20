@@ -269,7 +269,7 @@ Dany jest kod źródłowy HTML:
 </html>
 ```
 
-Dla podanych niżej elementów tej strony podaj bezpośredniego rodzica, najbliższy element nadrzędny, następny i&nbsp;poprzedni element równorzędny
+Dla podanych niżej elementów tej strony podaj bezpośredniego rodzica, najbliższy element nadrzędny <span class="preformat">&lt;a&gt;</span>, następny i&nbsp;poprzedni element równorzędny
 oraz&nbsp;wszystkie elementy potomne:
 
 a) sekcja klasy **popular-recipes**;
