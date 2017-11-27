@@ -217,11 +217,11 @@ xhr.send(null);                                 // Wykonanie żądania.
 
 ### Ćwiczenie 4.2.2.
 
-Przygotuj stronę, na której zostaną wyświetlone informacje o Twoich 5 ulubionych piosenkach.
+Przygotuj stronę, na&nbsp;której zostaną wyświetlone informacje o&nbsp;Twoich 5 ulubionych piosenkach.
 Na&nbsp;stronie powinno być 5 przycisków - każdy z&nbsp;tytułem piosenki.
-Po kliknięciu na przycisk ten staje się nieaktywny a na stronie pojawiają się szczegóły pobrane z pliku (XML lub JSON).
-Po kliknięciu innego przycisku ten stary jest aktywny a obecnie kliknięty nieaktywny.
-W tym momencie dane są aktualizowane na stronie bez odświeżania całości.
+Po&nbsp;kliknięciu na przycisk ten staje się nieaktywny a&nbsp;na&nbsp;stronie pojawiają się szczegóły pobrane z pliku (XML lub&nbsp;JSON).
+Po&nbsp;kliknięciu innego przycisku ten stary jest aktywny a&nbsp;obecnie kliknięty nieaktywny.
+W&nbsp;tym momencie dane są aktualizowane na&nbsp;stronie bez&nbsp;odświeżania całości.
 Napisz dwa skrypty języka JavaScript, które będą wczytywać dane, które przygotowałeś(łaś) w&nbsp;poprzednim zadaniu.
 Pierwszy wczytuje dane XML a&nbsp;drugi dane JSON.
 
@@ -267,7 +267,7 @@ _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_04. Skrypt z&nb
 
 Wymień w&nbsp;punktach (jako stronę HTML), jakie Twoim zdaniem są wady i&nbsp;zalety korzystania z&nbsp;formatów danych (HTML, XML, JSON), w&nbsp;których otrzymujemy odpowiedź na&nbsp;żądanie przeglądarki.
 
-_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_04. Skrypt z&nbsp;rozwiązaniem nazwij **homework_task_02.html**_.
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_04. Plik z&nbsp;rozwiązaniem nazwij **homework_task_02.html**_.
 
 ### Źródła
 
