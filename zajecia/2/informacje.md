@@ -41,7 +41,7 @@ Zajęcia prowadzi **Marcin Szczepański**.
 
 Kontakt: <a href="maito:marcin.szczepanski@sealcode.org">marcin.szczepanski@sealcode.org</a>
 
-Dyżur: **wtorek o 10:00** (w laboratoriach komputerowych WMI, prawdopodobnie **A1-17**)
+Dyżur: **wtorek o 10:00** (w laboratoriach komputerowych WMI, prawdopodobnie **A1-16**)
 
 ### Zagadnienia poruszane w trakcie warsztatów:
 
