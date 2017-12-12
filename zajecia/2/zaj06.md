@@ -191,7 +191,7 @@ Przygotuj stronę internetową, która będzie:
 
 - pobierać informację o położeniu geograficznym użytkownika;
 - wyświetlać informację o współrzędnych geograficznych położenia użytkownika oraz&nbsp;dokładność tych pomiarów;
-- pobrane informacje o&nbsp;długości geograficznej zapisywać w&nbsp; localStorage;
+- pobraną informację o&nbsp;długości geograficznej zapisywać w&nbsp; localStorage;
 - pobraną informację o&nbsp;szerokości geograficznej zapisywać w&nbsp;sessionStorage;
 - miała przycisk "Usuń dane z&nbsp;WebStorage";
 - na kliknięcie powyżej wspomnianego przycisku usunie dane z&nbsp;localStorage i&nbsp;sessionStorage;
