@@ -86,28 +86,18 @@ Zakres materiału do pytań dotyczących kodu to cały materiał ze&nbsp;wszystk
 	
 	**CSS_1** Omów hierarchię selektorów w CSS3. Jak działa atrybut <span class="preformat">&lt;style&gt;</span> w HTML5? Jak nadpisać dowolny styl niezależnie od hierarchii selektorów?
 	
-	**CSS_2** Jakie wymiary będzie miał dany element danej strony (uczestnik dostaje kod HTML i&nbsp;CSS&nbsp;i&nbsp;na&nbsp;podstawie reguł zawartych w kodzie CSS analizuje jakie wymiary będzie miał element)? Omów swój tok rozumowania.
-	
-	**CSS_3** Na przykładzie podanej (na kartce) listy omów działanie selektorów pseudoklas <span class="preformat">:first-child()</span>, <span class="preformat">:last-child()</span>, <span class="preformat">:nth-child()</span>, <span class="preformat">:nth-last-child()</span>.
+	**CSS_2** Na przykładzie podanej (na kartce) listy omów działanie selektorów pseudoklas <span class="preformat">:first-child()</span>, <span class="preformat">:last-child()</span>, <span class="preformat">:nth-child()</span>, <span class="preformat">:nth-last-child()</span>.
 	
 	**CSS_4** Omów różnicę pomiędzy <span class="preformat">display: none</span> i <span class="preformat">visibility: hidden</span>. Jakie inne wartości może przyjmować właściwość <span class="preformat">display</span>? Omów je krótko.
 	
 	**CSS_5** Jakie wartości może przyjmować właściwość <span class="preformat">position</span>? Omów je.
 	
-	**CSS_6** Do czego służy właściwość <span class="preformat">float</span>? Jak naprawić problem: "jeśli wewnątrz rodzica znajduje się jedynie element pływający, to niektóre przeglądarki uznają, że ma on zerową wysokość" (uczestnik dostanie ten&nbsp;problem na&nbsp;kartce z przykładem jego wystąpienia)?
+	**JS_1** Co to jest "hoisting"?
 	
-	**JS_1** Do czego służą funkcje anonimowe w JavaScript?
+	**JS_2** Co to jest closure (domknięcie)?
 	
-	**JS_2** Omów przepływ zdarzeń w JavaScript.
+	**JS_3** Co to jest funkcja natychmiastowa i po co jej używamy?
 	
-	**JS_3** Co to jest "hoisting"?
+	**JS_4** Jaki jest scope (zakres) zmiennych w standardzie ECMAScript 6 (chodzi o omówienie słów kluczowych <span class="preformat">var</span>, <span class="preformat">let</span>, <span class="preformat">const</span>)?
 	
-	**JS_4** Co to jest closure (domknięcie)?
-	
-	**JS_5** Co to jest funkcja natychmiastowa i po co jej używamy?
-	
-	**JS_6** Czym jest obiekt Promise?
-	
-	**JS_7** Jaki jest scope (zakres) zmiennych w standardzie ECMAScript 6 (chodzi o omówienie słów kluczowych <span class="preformat">var</span>, <span class="preformat">let</span>, <span class="preformat">const</span>)?
-	
-	**JS_8** Czym są arrow functions?
+	**JS_5** Czym są arrow functions?
