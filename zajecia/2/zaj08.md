@@ -9,4 +9,8 @@ layout: default
 	<div style="clear: both;"></div>
 </div>
 
-Strona w budowie
+<object data="./assets/archives/Obsluga_bledow_debugowanie.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="./assets/archives/Obsluga_bledow_debugowanie.pdf" type="application/pdf">
+        <p>Ta przeglądarka nie obsługuje wyświetlania plików PDF. <a href="./assets/archives/Obsluga_bledow_debugowanie.pdf">Pobierz PDF na dysk</a>.</p>
+    </embed>
+</object>
