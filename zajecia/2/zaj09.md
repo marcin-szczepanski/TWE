@@ -9,4 +9,8 @@ layout: default
 	<div style="clear: both;"></div>
 </div>
 
-Strona w budowie
+<object data="./assets/archives/jQueryUI.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="./assets/archives/jQueryUI.pdf" type="application/pdf">
+        <p>Ta przeglądarka nie obsługuje wyświetlania plików PDF. <a href="./assets/archives/jQueryUI.pdf">Pobierz PDF na dysk</a>.</p>
+    </embed>
+</object>
