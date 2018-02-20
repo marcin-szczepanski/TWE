@@ -114,6 +114,9 @@ if ((x > -3) || (y > 0)) { // alternatywa (or)
 if (!(x < -5)) { // negacja (not)
 	console.log("true");
 }
+
+var z = 13;
+console.log(z % 3); // dzielenie modulo - reszta z dzielenia 13 przez 3 wynosi 1
 ```
 
 ### 9.3. Tablice
