@@ -234,7 +234,7 @@ a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stro
 ### Ćwiczenie 1.7.1.
 
 Napisz funkcję języka JavaScript, która dla podanego jako argument kąta (w&nbsp;stopniach), promienia oraz&nbsp;wartości liczby PI wyznaczy
-pole wycinka koła. Następnie wywołaj tę funkcję z&nbsp;następującymi argumentami:
+pole wycinka koła. Parametrem domyślnym jest trzeci argument czyli wartość liczby PI (domyślna wartość PI=Math.PI) Następnie wywołaj tę funkcję z&nbsp;następującymi argumentami:
 
 * (60, 5, 3.14);
 * (30, 7, 22/7);
