@@ -217,15 +217,15 @@ _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nb
 
 Przeanalizujmy treści dostępne na stronie <a href="http://blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions" target="blank">blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions</a>.
 
-### 1.5. Callbacki i obiekt Promise
-
-Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises" target="blank">blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises</a>.
-Treści tam zawarte zostaną poruszone w&nbsp;zadaniu domowym nr 4.
-
-### 1.6. Hoisting
+### 1.5. Hoisting
 
 Przeczytaj materiały dostępne na stronie <a href="http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/" target="blank">http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/</a>. Treści tam zawarte
 zostaną poruszone w&nbsp;zadaniu domowym nr 4.
+
+### 1.6. Callbacki i obiekt Promise
+
+Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises" target="blank">blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises</a>.
+Treści tam zawarte zostaną poruszone w&nbsp;zadaniu domowym nr 4.
 
 ### 1.7. Domyślne parametry funkcji
 
@@ -273,6 +273,10 @@ _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nb
 
 ### Zadania domowe
 
+### Zadanie 0.
+
+Rozwiąż quiz dostepny na&nbsp;<a href="https://www.classmarker.com/" target="blank">classmarker.com</a> o&nbsp;nazwie **ECMAScript 6 - cz. I**.
+
 ### Zadanie 1.
 
 Napisz skrypt języka JavaScript, który utworzy "klasę" **Osoba** z&nbsp;właściwościami
@@ -300,16 +304,12 @@ i&nbsp;**homework_task_01B.js**_.
 
 ### Zadanie 2.
 
-Rozwiąż quiz dostepny na&nbsp;<a href="https://www.classmarker.com/" target="blank">classmarker.com</a> o&nbsp;nazwie **Zajęcia 1 - ECMAScript 6 - part I**.
+Przeczytaj zawartość punktów **1.6.-1.9.** w&nbsp;tej lekcji i&nbsp;zrób wszystkie ćwiczenia, które tam się znajdują. Rozwiązania ćwiczeń umieść
+na&nbsp;repozytorium Githuba.
 
 ### Zadanie 3.
 
-Przeczytaj zawartość punktów **1.5.-1.9.** w&nbsp;tej lekcji i&nbsp;zrób wszystkie ćwiczenia, które tam się znajdują. Rozwiązania ćwiczeń umieść
-na&nbsp;repozytorium Githuba.
-
-### Zadanie 4.
-
-Rozwiąż quiz dostepny na&nbsp;<a href="https://www.classmarker.com/" target="blank">classmarker.com</a> o&nbsp;nazwie **Zajęcia 1 - ECMAScript 6 - part II**.
+Rozwiąż quiz dostepny na&nbsp;<a href="https://www.classmarker.com/" target="blank">classmarker.com</a> o&nbsp;nazwie **ECMAScript 6 - cz. II**.
 
 ### Źródła
 
