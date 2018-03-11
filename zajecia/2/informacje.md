@@ -8,70 +8,36 @@ layout: default
 	<div style="clear: both;"></div>
 </div>
 
-## Zadania wstępne
-
-### Zadanie 1.
-
-Załóż konto na <a href="https://hub.sealcode.org/" target="blank">Sealhub</a>. Nazwę użytkownika stwórz wg wzoru:
-imie-nazwisko (lub imie.nazwisko lub imie_nazwisko lub ImieNazwisko). Np. dla Jana Kowalskiego - jan-kowalski (lub jan.kowalski lub jan_kowalski lub JanKowalski).
-
-Następnie na swoim koncie w wyszukiwarce wpisz **Grupa zaawansowana**, wybierz ją, potem w&nbsp;panelu bocznym kliknij **Members**,
-a&nbsp;na&nbsp;kolejnej stronie w&nbsp;panelu po&nbsp;drugiej stronie kliknij **Join project**.
-
-### Zadanie 2.
-
-Stwórz na Githubie nowe repozytorium o&nbsp;nazwie **Sealcode_workshops**,
-a&nbsp;następnie utwórz w&nbsp;nim **9** katalogów o&nbsp;nazwach **Lesson_01**, **Lesson_02**, itd.
-W&nbsp;każdym z&nbsp;tych katalogów będziesz umieszczać rozwiązania zadań domowych
-z&nbsp;każdych zajęć oraz&nbsp;ćwiczeń, które&nbsp;będziesz wykonywać na&nbsp;zajęciach.
-Na&nbsp;początku katalogi wypełnij pustymi plikami o&nbsp;nazwie **homework_task_01**, ponieważ&nbsp;puste katalogi nie&nbsp;są wysyłane na&nbsp;Githuba!
-
-W trakcie warsztatów stosuj następującą notację przy&nbsp;nazywaniu zadań domowych: **homework_task_01**, **homework_task_02**, itd.
-Dla&nbsp;ćwiczeń wykonywanych na&nbsp;zajęciach: **exercise_01**, **exercise_02**, itd.
-
-**Uwaga!** Link do repozytorium podaj w&nbsp;komentarzu do&nbsp;zadania na&nbsp;SealHubie o&nbsp;nazwie **Zajęcia 0** w&nbsp;grupie zaawansowanej, edytując dodany wcześniej komentarz ze&nbsp;swoim imieniem i&nbsp;nazwiskiem.
-
 ## Sprawy organizacyjne
 
 ### Terminy zajęć:
-Zajęcia dla grupy zaawansowanej w semestrze zimowym 2017/2018 odbywają się w każdy **wtorek o&nbsp;11:45** w&nbsp;sali **A1-17**.
+Zajęcia dla grupy zaawansowanej w semestrze letnim 2017/2018 odbywają się w każdy **wtorek o&nbsp;11:45** w&nbsp;sali **A1-14**.
 
 ### Prowadzący:
 Zajęcia prowadzi **Marcin Szczepański**.
 
 Kontakt: <a href="maito:marcin.szczepanski@sealcode.org">marcin.szczepanski@sealcode.org</a>
 
-Dyżur: **wtorek o 10:00** (w laboratoriach komputerowych WMI, prawdopodobnie **A1-16**)
-
 ### Zagadnienia poruszane w trakcie warsztatów:
 
 * standard ECMAScript 6;
-*	podstawowe problemy języka JavaScript;
-* biblioteka jQuery;
-* AJAX;
-* żądania AJAX w bibliotece jQuery;
-*	API HTML5;
-*	biblioteka leaflet.js;
-*	zestaw wtyczek JQuery UI;
-*	obsługa błędów i debugowanie kodu języka JavaScript.
+* podstawowe problemy języka JavaScript;
+* obsługa błędów i debugowanie kodu języka JavaScript;
+* Node.js;
+* MongoDB;
+* Angular 2;
+* Bootstrap;
+* SASS/LESS.
 
 Każdy uczestnik, który będzie **aktywnie uczestniczyć** w warsztatach otrzyma na końcu imienny **certyfikat** :)
 
-### Co to znaczy "aktywnie uczestniczyć" w warsztatach?
-
-Aktywnie uczestniczyć w warsztatach oznacza, że uczestnik:
-
-*	był na co najmniej połowie warsztatów;
-*	zrobił co najmniej połowę zadań domowych z pozytywnym efektem;
-*	wykazał się wiedzą na zajęciach (może to&nbsp;być wykonanie zadania na&nbsp;zajęciach czy&nbsp;test-quiz).
-
 ### Testy:
 
-W czasie warsztatów zostaną przeprowadzone 2 testy, których celem jest sprawdzenie czy uczestnicy mają przyswojone treści związane z&nbsp;front-endem.
+W czasie warsztatów zostaną przeprowadzone co najmniej 2 testy, których celem jest sprawdzenie czy uczestnicy mają przyswojone treści związane z&nbsp;front-endem.
 
 Zakres i terminy testów:
 * **Test wstępny** - będzie przeprowadzony na&nbsp;pierwszych zajęciach w&nbsp;formie pisemnej (zadania zamknięte jednokrotnego i&nbsp;wielokrotnego wyboru oraz&nbsp;zadania polegające na&nbsp;napisaniu/uzupełnieniu kodu). Zakres materiału: _podstawy składni języka JavaScript, obiekty w&nbsp;języku JavaScript, obiektowy model dokumentu, zdarzenia języka JavaScript, podstawowe informacje o&nbsp;REST-owym API na&nbsp;przykładzie biblioteki qwest_. Na&nbsp;podstawie wyników testu odpowiednio zostanie dopasowany materiał zajęć do&nbsp;grupy. Czas trwania testu: ok. 45 minut.
-* **Test końcowy** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z&nbsp;każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne (być może dotyczące pewnego kodu) i&nbsp;dwa krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Jedno ze&nbsp;wszystkich trzech pytań będzie dotyczyć HTML5, jedno CSS3 i&nbsp;jedno języka JavaScript. Czas trwania testu: ok. 10 minut na jedną osobę.
+* **Test końcowy** - będzie przeprowadzony na&nbsp;przedostatnich zajęciach w&nbsp;formie rozmowy. Rozmowa będzie przypominać rozmowę kwalifikacyjną do pracy jako FrontEnd Developer. Test zostanie przeprowadzony z&nbsp;każdym uczestnikiem oddzielnie. Każdy uczestnik dostanie jedno pytanie teoretyczne (być może dotyczące pewnego kodu) i&nbsp;dwa krótkie pytania dotyczące pewnego kodu HTML/CSS/JavaScript. Jedno ze&nbsp;wszystkich trzech pytań będzie dotyczyć HTML5, jedno CSS3 i&nbsp;jedno języka JavaScript. Poza tym jedno pytanie "miękkie" w języku polskim i jedno w języku angielskim. Czas trwania testu: ok. 10 minut na jedną osobę.
 Zakres materiału do pytań dotyczących kodu to cały materiał ze&nbsp;wszystkich trzech poziomów zaawansowania (Beginner, Intermediate, Advanced) z **wyłączeniem** tematyki związanej z&nbsp;API, AJAX, jQuery. Pytania te są krótkie, mniej więcej ok. 90 sekund na&nbsp;każde pytanie (reszta czasu na&nbsp;pytanie teoretyczne).
 
 	**<u>Lista pytań teoretycznych:</u>**
