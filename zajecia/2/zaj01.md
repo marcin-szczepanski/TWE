@@ -221,12 +221,17 @@ Zmodyfikuj rozwiązanie ćwiczenia 1.5.1. tak, aby używać słów <span class="
 
 _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_152.js**_.
 
-### 1.6. Domyślne parametry funkcji
+### 1.6. Skróty składniowe i destructuring
+
+Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring" target="blank">blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring</a>. Treści tam zawarte
+zostaną poruszone w&nbsp;zadaniu domowym nr 3.
+
+### 1.7. Domyślne parametry funkcji
 
 Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/29-ecmascript-6-top-10-nowosci-cz-7-domyslne-parametry-funkcji" target="blank">blog.nebula.us/29-ecmascript-6-top-10-nowosci-cz-7-domyslne-parametry-funkcji</a>
 a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stronie zostaną poruszone w&nbsp;zadaniu domowym nr 3.
 
-### Ćwiczenie 1.6.1.
+### Ćwiczenie 1.7.1.
 
 Napisz funkcję języka JavaScript, która dla podanego jako argument kąta (w&nbsp;stopniach), promienia oraz&nbsp;wartości liczby PI wyznaczy
 pole wycinka koła. Parametrem domyślnym jest trzeci argument czyli wartość liczby PI (domyślna wartość PI=Math.PI). Następnie wywołaj tę funkcję z&nbsp;następującymi argumentami:
@@ -235,14 +240,14 @@ pole wycinka koła. Parametrem domyślnym jest trzeci argument czyli wartość l
 * (30, 5, 22/7);
 * (30, 5).
 
-_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_161.js**_.
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_171.js**_.
 
-### 1.7. Nowe możliwości stringów
+### 1.8. Nowe możliwości stringów
 
 Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/26-ecmascript-6-top-10-nowosci-cz-4-nowe-mozliwosci-stringow" target="blank">blog.nebula.us/26-ecmascript-6-top-10-nowosci-cz-4-nowe-mozliwosci-stringow</a>
 a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stronie zostaną poruszone w&nbsp;zadaniu domowym nr 3.
 
-### Ćwiczenie 1.9.1.
+### Ćwiczenie 1.8.1.
 
 Dany jest kod źródłowy języka JavaScript:
 
@@ -257,12 +262,7 @@ console.log(text);
 Popraw ten kod tak, aby w drugiej zmiennej nie były wykorzystywane znaki dodawania. Ciąg znaków do&nbsp;niej przypisany nie powinien
 być wyświetlany w jednej linii tylko tak, aby&nbsp;całość była widoczna na&nbsp;szerokości ekranu Twojego edytora kodów źródłowych.
 
-_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_171.js**_.
-
-### 1.8. Skróty składniowe i destructuring
-
-Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring" target="blank">blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring</a>. Treści tam zawarte
-zostaną poruszone w&nbsp;zadaniu domowym nr 3.
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_181.js**_.
 
 ### 1.9. Callbacki i obiekt Promise
 
