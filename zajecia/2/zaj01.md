@@ -219,18 +219,17 @@ Przeanalizujmy treści dostępne na stronie <a href="http://blog.nebula.us/23-ec
 
 ### 1.5. Hoisting
 
-Przeczytaj materiały dostępne na stronie <a href="http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/" target="blank">http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/</a>. Treści tam zawarte
-zostaną poruszone w&nbsp;zadaniu domowym nr 4.
+Przeanalizujmy treści dostępne na stronie <a href="http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/" target="blank">http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/</a>. 
 
 ### 1.6. Callbacki i obiekt Promise
 
 Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises" target="blank">blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises</a>.
-Treści tam zawarte zostaną poruszone w&nbsp;zadaniu domowym nr 4.
+Treści tam zawarte zostaną poruszone w&nbsp;zadaniu domowym nr 3.
 
 ### 1.7. Domyślne parametry funkcji
 
 Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/29-ecmascript-6-top-10-nowosci-cz-7-domyslne-parametry-funkcji" target="blank">blog.nebula.us/29-ecmascript-6-top-10-nowosci-cz-7-domyslne-parametry-funkcji</a>
-a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stronie zostaną poruszone w&nbsp;zadaniu domowym nr 4.
+a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stronie zostaną poruszone w&nbsp;zadaniu domowym nr 3.
 
 ### Ćwiczenie 1.7.1.
 
@@ -246,13 +245,13 @@ _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nb
 ### 1.8. Skróty składniowe i destructuring
 
 Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring" target="blank">blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring</a>. Treści tam zawarte
-zostaną poruszone w&nbsp;zadaniu domowym nr 4.
+zostaną poruszone w&nbsp;zadaniu domowym nr 3.
 
 
 ### 1.9. Nowe możliwości stringów
 
 Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/26-ecmascript-6-top-10-nowosci-cz-4-nowe-mozliwosci-stringow" target="blank">blog.nebula.us/26-ecmascript-6-top-10-nowosci-cz-4-nowe-mozliwosci-stringow</a>
-a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stronie zostaną poruszone w&nbsp;zadaniu domowym nr 4.
+a&nbsp;następnie wykonaj poniższe ćwiczenie. Treści zawarte na&nbsp;tej stronie zostaną poruszone w&nbsp;zadaniu domowym nr 3.
 
 ### Ćwiczenie 1.9.1.
 
