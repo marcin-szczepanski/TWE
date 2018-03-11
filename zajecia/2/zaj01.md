@@ -259,15 +259,15 @@ być wyświetlany w jednej linii tylko tak, aby&nbsp;całość była widoczna na
 
 _Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_171.js**_.
 
-### 1.8. Callbacki i obiekt Promise
-
-Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises" target="blank">blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises</a>.
-Treści tam zawarte zostaną poruszone w&nbsp;zadaniu domowym nr 3.
-
-### 1.9. Skróty składniowe i destructuring
+### 1.8. Skróty składniowe i destructuring
 
 Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring" target="blank">blog.nebula.us/31-ecmascript-6-top-10-nowosci-cz-9-skroty-skladniowe-i-destructuring</a>. Treści tam zawarte
 zostaną poruszone w&nbsp;zadaniu domowym nr 3.
+
+### 1.9. Callbacki i obiekt Promise
+
+Przeczytaj materiały dostępne na stronie <a href="http://www.blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises" target="blank">blog.nebula.us/27-ecmascript-6-top-10-nowosci-cz-5-promises</a>.
+Treści tam zawarte zostaną poruszone w&nbsp;zadaniu domowym nr 3.
 
 ### Zadania domowe
 
