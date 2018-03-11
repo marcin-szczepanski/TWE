@@ -130,7 +130,15 @@ b.value = 5; // to zadziała
 b.newValue = 10; // to zadziała
 ```
 
-### 1.3. Dziedziczenie - prototypy
+### 1.3. Arrow functions
+
+Przeanalizujmy treści dostępne na stronie <a href="http://blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions" target="blank">blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions</a>.
+
+### 1.4. Hoisting
+
+Przeanalizujmy treści dostępne na stronie <a href="http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/" target="blank">http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/</a>. 
+
+### 1.5. Dziedziczenie - prototypy
 
 Czasem w języku JavaScript będziemy chcieli rozwiązywać problemy tak jak robi się&nbsp;to w&nbsp;innych językach programowania.
 Jednak dziedziczenie w JS różni się od tego z&nbsp;obiektowych języków.
@@ -145,7 +153,7 @@ To co upodabnia dziedziczenie w JavaScript do języków programowania posiadają
 Użycie tego słowa do&nbsp;wywołania funkcji zmienia jej zachowanie. Zamiast wywołać ją bezpośrednio, tworzony jest nowy obiekt, którego właściwość <span class="preformat">prototype</span> jest wiązana z&nbsp;właściwością <span class="preformat">prototype</span> tej funkcji.
 Ponadto słowo kluczowe <span class="preformat">this</span> jest wiązane z&nbsp;nowo powstałym obiektem, więc&nbsp;wszystkie odwołania do <span class="preformat">this</span> w&nbsp;tej funkcji odbywają się na&nbsp;rzecz nowo utworzonego obiektu (po&nbsp;wszystkich operacjach wszystkie instrukcje w&nbsp;funkcji również są wywoływane).
 
-### Przykład 1.3.1.
+### Przykład 1.5.1.
 
 ```js
 function Osoba(name){
@@ -160,24 +168,24 @@ var test = new Osoba('Jan');
 console.log(test.getName());
 ```
 
-### Przykład 1.3.2.
+### Przykład 1.5.2.
 
 Wejdź na stronę <a href="https://github.com/mdn/learning-area/blob/master/javascript/oojs/advanced/oojs-class-inheritance-finished.html" target="blank">Object-oriented JavaScript inheritance</a>.
 
-### Ćwiczenie 1.3.1.
+### Ćwiczenie 1.5.1.
 
 Napisz skrypt języka JavaScript, który tworzy "klasę" **Figura** z&nbsp;właściwością _nazwa_, a&nbsp;następnie "klasę" **Czworokat**, która
 dziedziczy z **Figura**. Jej właściwości to _typ-czworokata_ oraz&nbsp;_dlugosci-bokow_. Dalej utwórz "klasę" **Prostokat**, która
 dziedziczy z&nbsp;"klasy" **Czworokat**. Posiada ona metodę _podaj-pole_ i&nbsp;_podaj-obwod_.
 Utwórz obiekt "klasy" **Prostokąt**, ustaw mu wymiary 5x8 i&nbsp;wypisz jego nazwę, typ, pole oraz&nbsp;obwód.
 
-_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_131.js**_.
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_151.js**_.
 
 **Jak to robić łatwiej i bardziej "obiektowo" w ES6?**
 
 Używając słów <span class="preformat">class</span> oraz <span class="preformat">extends</span>.
 
-### Przykład 1.3.3.
+### Przykład 1.5.3.
 
 ```js
 class Animal { 
@@ -207,19 +215,11 @@ console.log(typeof dog);
 
 Mimo, że używamy tutaj słów znanych z innych języków programowania to tak na&nbsp;prawdę "pod&nbsp;spodem" dalej mamy prototypy :)
 
-### Ćwiczenie 1.3.2.
+### Ćwiczenie 1.5.2.
 
-Zmodyfikuj rozwiązanie ćwiczenia 1.3.1. tak, aby używać słów <span class="preformat">class</span> oraz <span class="preformat">extends</span>.
+Zmodyfikuj rozwiązanie ćwiczenia 1.5.1. tak, aby używać słów <span class="preformat">class</span> oraz <span class="preformat">extends</span>.
 
-_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_132.js**_.
-
-### 1.4. Arrow functions
-
-Przeanalizujmy treści dostępne na stronie <a href="http://blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions" target="blank">blog.nebula.us/23-ecmascript-6-top-10-nowosci-cz-1-arrow-functions</a>.
-
-### 1.5. Hoisting
-
-Przeanalizujmy treści dostępne na stronie <a href="http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/" target="blank">http://poradnik.drogimex.pl/2017/05/20/hoisting-zmiennych-i-funkcji-w-javascript/</a>. 
+_Rozwiązanie wyślij na repozytorium Githuba do katalogu Lesson_01. Skrypt z&nbsp;rozwiązaniem nazwij **exercise_152.js**_.
 
 ### 1.6. Callbacki i obiekt Promise
 
