@@ -373,21 +373,107 @@ Aby&nbsp;umieścić klip wideo w&nbsp; serwisie Dailymotion należy wykonać pon
 
 <img src="./assets/images/dm/dm10.jpg" />
 
-#### 11. Jeśli zejdziemy trochę w&nbsp;dół ukaże nam się opcja pozwalająca na&nbsp;usunięcie klipu - "Delete":
+#### 11.1. Jeśli zejdziemy trochę w&nbsp;dół ukaże nam się opcja pozwalająca na&nbsp;usunięcie klipu - "Delete":
 
 <img src="./assets/images/dm/dm11.jpg" />
 
-#### 12. Potwierdzamy usunięcie poprzez kliknięcie przycisku "Confirm":
+#### 11.2. Potwierdzamy usunięcie poprzez kliknięcie przycisku "Confirm":
 
 <img src="./assets/images/dm/dm12.jpg" />
 
-#### 13. Na stronie naszego kanału nie ma już klipu wideo:
+#### 11.3. Na stronie naszego kanału nie ma już klipu wideo:
 
 <img src="./assets/images/dm/dm13.jpg" />
 
 ### 4.3. Vimeo
 
+Wikipedia podaje, że&nbsp;Vimeo to serwis internetowy umożliwiający oglądanie 
+i&nbsp;udostępnianie plików filmowych przez użytkowników. Strona została założona 
+w&nbsp;listopadzie 2004 przez Zacha Kleina oraz&nbsp;Jakoba Lodwicka, który&nbsp;również wymyślił nazwę, 
+jest ona grą na słowie video poprzez wplecenie w&nbsp;nazwę słowa me (z&nbsp;ang.&nbsp;ja), 
+jako odniesienie do&nbsp;udostępniania plików stworzonych wyłącznie przez&nbsp;użytkowników. 
+Serwis został kupiony przez&nbsp;InterActiveCorp w&nbsp;sierpniu 2006 roku.
 
+Regulamin serwisu **zabrania przesyłania plików komercyjnych** (dopuszczalne z&nbsp;płatnego konta PRO), 
+wideo z&nbsp;gier, pornografii lub&nbsp;jakiegokolwiek pliku nieutworzonego przez&nbsp;użytkownika. 
+Serwis wyróżnia się&nbsp;praktycznym brakiem filmów amatorskich, nieprzygotowanych. 
+Spowodowane jest to głównie ograniczeniami wprowadzonymi na&nbsp;użytkowników.
+
+### Ćwiczenie 4.3.1.
+
+Wejdź na stronę serwisu <a href="https://vimeo.com/" target="blank">Vimeo</a> i&nbsp;zapoznaj się z&nbsp;interfejsem tego serwisu.
+
+### Ćwiczenie 4.3.2.
+
+Zaloguj się w&nbsp;serwisie <a href="https://vimeo.com/" target="blank">Vimeo</a>.
+
+#### Jak umieścić klip wideo w&nbsp;serwisie Vimeo?
+
+Aby&nbsp;umieścić klip wideo w&nbsp; serwisie Vimeo należy wykonać poniższe kroki:
+
+#### 1. Klikamy na przycisk "Upload":
+
+<img src="./assets/images/vm/vm1.jpg" />
+
+#### 2. Ustawiamy poziom prywatności filmu:
+
+<img src="./assets/images/vm/vm2.jpg" />
+
+#### 3. Następnie klikamy na&nbsp;przycisk "Choose files to upload":
+
+<img src="./assets/images/vm/vm3.jpg" />
+
+#### 4. Wybieramy plik wideo:
+
+<img src="./assets/images/vm/vm4.jpg" />
+
+#### 5. Czekamy aż plik się załaduje - w&nbsp;tym czasie ustawiamy podstawowe informacje o&nbsp;filmie:
+
+<img src="./assets/images/vm/vm5.jpg" />
+
+#### 6. Następnie klikamy przycisk "Save":
+
+<img src="./assets/images/vm/vm6.jpg" />
+
+#### 7. Na naszym koncie od teraz jest dostępny nasz klip:
+
+<img src="./assets/images/vm/vm7.jpg" />
+
+#### 8.1. Aby edytować wideo klikamy na "Videos":
+
+<img src="./assets/images/vm/vm8.jpg" />
+
+#### 8.2. Następnie wybieramy "Settings":
+
+<img src="./assets/images/vm/vm9.jpg" />
+
+#### 8.3. W zakładce "Basics" możemy ustawić podstawowe informacje takie jak np.&nbsp;tytuł czy&nbsp;opis:
+
+<img src="./assets/images/vm/vm10.jpg" />
+
+#### 9.1. Po wybraniu zakładki "Embed" mamy dostęp do&nbsp;kodu HTML, który&nbsp;który możemy umieścić w&nbsp;kodzie naszej strony, aby&nbsp;osadzić na&nbsp;niej wideo:
+
+<img src="./assets/images/vm/vm11.jpg" />
+
+#### 9.2. Po kliknięciu na "Embed code" klikamy przycisk "Copy" - w&nbsp;tym momencie w&nbsp;schowku mamy kod HTML do&nbsp;osadzenia:
+
+<img src="./assets/images/vm/vm12.jpg" />
+
+#### 10.1. W zakładce "Basics" po zjechaniu na&nbsp;sam dół mamy opcję usunięcia pliku wideo:
+
+<img src="./assets/images/vm/vm13.jpg" />
+
+#### 10.2. Klikamy na&nbsp;przycisk "Delete this video":
+
+<img src="./assets/images/vm/vm14.jpg" />
+
+#### 10.3. Wpisujemy hasło do&nbsp;naszego konta a&nbsp;następnie przycisk "Confirm":
+
+<img src="./assets/images/vm/vm15.jpg" />
+
+#### 10.4. Od teraz naszego filmu nie ma w&nbsp;Vimeo:
+
+<img src="./assets/images/vm/vm16.jpg" />
 
 ## 5. Podsumowanie
 
