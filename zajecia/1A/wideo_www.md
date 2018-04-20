@@ -61,7 +61,7 @@ Najprostszym sposobem umieszczenia materiału wideo na&nbsp;własnej stronie
 jest skorzystanie z&nbsp;usługi udostępniającej klipy
 takiej jak **YouTube** czy **Vimeo**.
 Zdarzają się jednak sytuacje, w&nbsp;których takie rozwiązanie jest
-nieodpowiednie (o czym mowa będzie później) i trzeba umieścić klipy wideo
+nieodpowiednie (o&nbsp;czym mowa będzie później) i&nbsp;trzeba umieścić klipy wideo
 we&nbsp;własnej witrynie.
 
 ## 2. Jak to się robiło kiedyś? - czyli słów kilka o&nbsp;filmach Flash Video
@@ -74,7 +74,7 @@ plików FLV na&nbsp;stronie na&nbsp;najnowszych przeglądarkach już nie jest ws
 W dużym skrócie **Flash** to wtyczka do&nbsp;przeglądarek internetowych od&nbsp;Adobe, która&nbsp;umożliwia wyświetlanie określonych typów zawartości.
 Jej instalacja jest niezbędna, by&nbsp;odtwarzać reklamy i&nbsp;treści multimedialne wykonane przy&nbsp;wykonaniu tej technologii.
 Wtyczka Flash przez wiele lat była uważana za&nbsp;niezbędne wyposażenie każdej przeglądarki internetowej.
-Na&nbsp;przestrzeni lat jej znaczenie zaczęło maleć i&nbsp;rośnie liczba stron porzucających Flasha na&nbsp;rzecz innych technologii, takich jak HTML 5.
+Na&nbsp;przestrzeni lat jej znaczenie zaczęło maleć i&nbsp;rośnie liczba stron porzucających Flasha na&nbsp;rzecz innych technologii, takich jak HTML5.
 
 Natomiast **Flash Video** jest kontenerem multimedialnym używanym do&nbsp;dystrybucji plików wideo w&nbsp;Internecie.
 Pliki Flash Video mają rozszerzenie **.flv**.
@@ -185,6 +185,27 @@ przy&nbsp;osadzaniu wideo na&nbsp;własnej stronie.
 
 
 ## 5. Podsumowanie
+
+Witryny umożliwiające prezentowanie klipów wideo udostępniają odtwarzacze działające w&nbsp;większości przeglądarek.
+Korzystając z nich, nie trzeba się przejmować kodowaniem materiału wideo, gdyż&nbsp;pozwalają one na&nbsp;przesyłanie
+filmów zapisanych w&nbsp;wielu różnych formatach. 
+Po&nbsp;przesłaniu materiału wideo usługi te automatycznie go konwerują do&nbsp;różnych formatów
+wymaganych przez&nbsp;poszczególne przeglądarki.
+
+Firmy prowadzące serwery WWW często pobierają dodatkowe opłaty, jeśli witryna zużywa dużą szerokość pasma,
+a&nbsp;pliki zawierające filmy są duże. Dlatego przechowywanie i&nbsp;udostępnianie klipów wideo na&nbsp;własnej
+stronie może generować dodatkowe koszty. Jeśli natomiast umieścimy klipy np. na&nbsp;YouTube, unikniemy
+dodatkowych kosztów związanych z&nbsp;używaną szerokością pasma.
+
+Nasze klipy wideo będą umieszczone w&nbsp;witrynie z&nbsp;usługą udostępniającą, a&nbsp;zatem jeśli chcemy, by&nbsp;były
+one dostępne wyłącznie na&nbsp;naszej stronie, konieczne będzie umieszczenie materiału wideo na własnym serwerze i&nbsp;dodanie
+do&nbsp;niej odpowiedniego odtwarzacza.
+
+Niektóre witryny nakładają ograniczenia na&nbsp;dopuszczalną treść klipów wideo.
+Większość zabrania umieszczania w&nbsp;klipach materiałów reklamowych (co&nbsp;uniemożliwia czerpanie z&nbsp;nich korzyści finansowych).
+Część witryn z&nbsp;usługami udostępniania wideo będzie odtwarzać własne reklamy przed&nbsp;rozpoczęciem naszego klipu,
+a&nbsp;nawet nakładać je na&nbsp;film podczas jego odtwarzania.
+Oprócz tego jakość klipów wideo oferowana przez&nbsp;takie usługi może być niska.
 
 
 
