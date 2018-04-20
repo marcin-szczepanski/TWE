@@ -245,6 +245,7 @@ YouTube jest powszechnie znanym i&nbsp;popularnym serwisem, w&nbsp;którym może
 Pozwala również na&nbsp;osadzanie filmów na&nbsp;własnych stronach WWW z&nbsp;serwerów serwisu.
 Minusem jest to, że&nbsp;serwis nakłada reklamy na&nbsp;nasz klip.
 Jednak możliwości tego serwisu są większe - możemy między innymi tworzyć własne kanały (i&nbsp;zarabiać na&nbsp;nich).
+YouTube jest dostępny w&nbsp;wielu wersjach językowych - w&nbsp;tym po polsku.
 
 ### Ćwiczenie 4.1.1.
 
@@ -315,7 +316,74 @@ Aby&nbsp;umieścić klip wideo w&nbsp; serwisie YouTube należy wykonać poniżs
 
 ### 4.2. Dailymotion
 
+Wg&nbsp;Wikipedii Dailymotion to serwis internetowy umożliwiający prezentację filmów,
+wideoklipów lub&nbsp;własnych mini-produkcji w&nbsp;Internecie, reklamujący się&nbsp;hasłem 
+Regarder, publier, partager, założony w&nbsp;Paryżu we&nbsp;Francji, jako odpowiedź na&nbsp;serwis YouTube.
+Serwis ten jest w języku angielskim.
 
+### Ćwiczenie 4.2.1.
+
+Wejdź na stronę serwisu <a href="https://www.dailymotion.com/us" target="blank">Dailymotion</a> i&nbsp;zapoznaj się z&nbsp;interfejsem tego serwisu.
+
+### Ćwiczenie 4.2.2.
+
+Zaloguj się w&nbsp;serwisie <a href="https://www.dailymotion.com/us" target="blank">Dailymotion</a>.
+
+#### Jak umieścić klip wideo w&nbsp;serwisie Dailymotion?
+
+Aby&nbsp;umieścić klip wideo w&nbsp; serwisie Dailymotion należy wykonać poniższe kroki:
+
+#### 1. Klikamy na "Settings":
+
+<img src="./assets/images/dm/dm1.jpg" />
+
+#### 2. W panelu użytkownika wybieramy opcję "Upload":
+
+<img src="./assets/images/dm/dm2.jpg" />
+
+#### 3. Klikamy "Upload":
+
+<img src="./assets/images/dm/dm3.jpg" />
+
+#### 4. Wybieramy "Select video files":
+
+<img src="./assets/images/dm/dm4.jpg" />
+
+#### 5. Wybieramy plik wideo:
+
+<img src="./assets/images/dm/dm5.jpg" />
+
+#### 6. Czekamy aż plik się załaduje do&nbsp;końca:
+
+<img src="./assets/images/dm/dm6.jpg" />
+
+#### 7. Klikamy na "Edit and publish":
+
+<img src="./assets/images/dm/dm7.jpg" />
+
+#### 8. Nasz klip wideo będzie dostępny na&nbsp;naszym profilu:
+
+<img src="./assets/images/dm/dm8.jpg" />
+
+#### 9. Po kliknięciu w wideo pokaże się nam nasz klip z&nbsp;możliwością edycji:
+
+<img src="./assets/images/dm/dm9.jpg" />
+
+#### 10. Kiedy wybierzemy opcję "Edit video" zostaniemy przekierowani do&nbsp;panelu edycji:
+
+<img src="./assets/images/dm/dm10.jpg" />
+
+#### 11. Jeśli zejdziemy trochę w&nbsp;dół ukaże nam się opcja pozwalająca na&nbsp;usunięcie klipu - "Delete":
+
+<img src="./assets/images/dm/dm11.jpg" />
+
+#### 12. Potwierdzamy usunięcie poprzez kliknięcie przycisku "Confirm":
+
+<img src="./assets/images/dm/dm12.jpg" />
+
+#### 13. Na stronie naszego kanału nie ma już klipu wideo:
+
+<img src="./assets/images/dm/dm13.jpg" />
 
 ### 4.3. Vimeo
 
@@ -331,11 +399,11 @@ wymaganych przez&nbsp;poszczególne przeglądarki.
 
 Firmy prowadzące serwery WWW często pobierają dodatkowe opłaty, jeśli witryna zużywa dużą szerokość pasma,
 a&nbsp;pliki zawierające filmy są duże. Dlatego przechowywanie i&nbsp;udostępnianie klipów wideo na&nbsp;własnej
-stronie może generować dodatkowe koszty. Jeśli natomiast umieścimy klipy np. na&nbsp;YouTube, unikniemy
+stronie może generować dodatkowe koszty. Jeśli natomiast umieścimy klipy np.&nbsp;na&nbsp;YouTube, unikniemy
 dodatkowych kosztów związanych z&nbsp;używaną szerokością pasma.
 
 Nasze klipy wideo będą umieszczone w&nbsp;witrynie z&nbsp;usługą udostępniającą, a&nbsp;zatem jeśli chcemy, by&nbsp;były
-one dostępne wyłącznie na&nbsp;naszej stronie, konieczne będzie umieszczenie materiału wideo na własnym serwerze i&nbsp;dodanie
+one dostępne wyłącznie na&nbsp;naszej stronie, konieczne będzie umieszczenie materiału wideo na&nbsp;własnym serwerze i&nbsp;dodanie
 do&nbsp;niej odpowiedniego odtwarzacza.
 
 Niektóre witryny nakładają ograniczenia na&nbsp;dopuszczalną treść klipów wideo.
@@ -354,4 +422,5 @@ przygotowanie witryny, takie aby&nbsp;mogła je&nbsp;odtwarzać, będzie od&nbsp
 * e-zoner.pl;
 * youtube.com;
 * dailymotion.com;
-* vimeo.com
+* vimeo.com;
+* wikipedia.com
