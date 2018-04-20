@@ -241,7 +241,77 @@ przy&nbsp;osadzaniu wideo na&nbsp;własnej stronie.
 
 ### 4.1. YouTube
 
+YouTube jest powszechnie znanym i&nbsp;popularnym serwisem, w&nbsp;którym możemy **bezpłatnie** przechowywać klipy wideo i&nbsp;udostępniać je.
+Pozwala również na&nbsp;osadzanie filmów na&nbsp;własnych stronach WWW z&nbsp;serwerów serwisu.
+Minusem jest to, że&nbsp;serwis nakłada reklamy na&nbsp;nasz klip.
+Jednak możliwości tego serwisu są większe - możemy między innymi tworzyć własne kanały (i&nbsp;zarabiać na&nbsp;nich).
 
+### Ćwiczenie 4.1.1.
+
+Wejdź na stronę serwisu <a href="https://www.youtube.com/?gl=PL&hl=pl" target="blank">YouTube</a> i&nbsp;zapoznaj się z&nbsp;interfejsem tego serwisu.
+
+### Ćwiczenie 4.1.2.
+
+Zaloguj się w&nbsp;serwisie <a href="https://www.youtube.com/?gl=PL&hl=pl" target="blank">YouTube</a> poprzez&nbsp;konto Google.
+Jeśli nie masz takiego konta - załóż je wcześniej.
+
+#### Jak umieścić klip wideo w&nbsp;serwisie YouTube?
+
+Aby&nbsp;umieścić klip wideo w&nbsp; serwisie YouTube należy wykonać poniższe kroki:
+
+#### 1. Klikamy na przycisk "Prześlij":
+
+<img src="./assets/images/yt/yt1.jpg" />
+
+#### 2. Wybieramy odpowiedni poziom prywatności filmu:
+
+<img src="./assets/images/yt/yt2.jpg" />
+
+#### 3. Wybierz plik do przesłania:
+
+<img src="./assets/images/yt/yt3.jpg" />
+
+<img src="./assets/images/yt/yt4.jpg" />
+
+#### 4. Pojawia się widok przesyłu pliku - tutaj można podać różne informacje o filmie:
+
+<img src="./assets/images/yt/yt5.jpg" />
+
+#### 5. Kiedy uzupełnimy odpowiednie informacje i&nbsp;plik zostanie przesłany należy opublikować wideo:
+
+<img src="./assets/images/yt/yt6.jpg" />
+
+#### 6.1. Po publikacji otrzymujemy bezpośredni link do&nbsp;naszego klipu wideo:
+
+<img src="./assets/images/yt/yt7.jpg" />
+
+#### 6.2. Po wejściu na wskazany adres widzimy nasz film:
+
+<img src="./assets/images/yt/yt10.jpg" />
+
+#### 7.1. Możemy też uzyskać kod HTML, który po&nbsp;umieszczeniu w&nbsp;kodzie strony osadzi nam nasz klip wideo:
+
+<img src="./assets/images/yt/yt8.jpg" />
+
+#### 7.2. Klikając "Pokaż więcej" uzyskamy możliwość manipulowania naszą ramką z&nbsp;filmem, który chcemy osadzić na&nbsp;naszej stronie WWW:
+
+<img src="./assets/images/yt/yt9.jpg" />
+
+#### 8. Aby edytować przesłany plik należy wejść do studia twórców:
+
+<img src="./assets/images/yt/yt11.jpg" />
+
+#### 9.1. Aby usunąć plik wideo (w studiu twórców) zaznaczamy nasz film, klikamy przycisk "Działania" a&nbsp;następnie "Usuń".
+
+<img src="./assets/images/yt/yt12.jpg" />
+
+#### 9.2. Potwierdzamy usunięcie pliku:
+
+<img src="./assets/images/yt/yt13.jpg" />
+
+#### 9.3. Otrzymujemy informację o&nbsp;usunięciu filmu:
+
+<img src="./assets/images/yt/yt14.jpg" />
 
 ### 4.2. Dailymotion
 
