@@ -262,57 +262,57 @@ Aby&nbsp;umieścić klip wideo w&nbsp; serwisie YouTube należy wykonać poniżs
 
 #### 1. Klikamy na przycisk "Prześlij":
 
-<img src="./assets/images/yt/yt1.jpg" />
+<a href="./assets/images/hq/yt/yt1.png" target="blank"><img src="./assets/images/yt/yt1.jpg" /></a>
 
 #### 2. Wybieramy odpowiedni poziom prywatności filmu:
 
-<img src="./assets/images/yt/yt2.jpg" />
+<a href="./assets/images/hq/yt/yt2.png" target="blank"><img src="./assets/images/yt/yt2.jpg" /></a>
 
 #### 3. Wybierz plik do przesłania:
 
-<img src="./assets/images/yt/yt3.jpg" />
+<a href="./assets/images/hq/yt/yt3.png" target="blank"><img src="./assets/images/yt/yt3.jpg" /></a>
 
-<img src="./assets/images/yt/yt4.jpg" />
+<a href="./assets/images/hq/yt/yt4.png" target="blank"><img src="./assets/images/yt/yt4.jpg" /></a>
 
 #### 4. Pojawia się widok przesyłu pliku - tutaj można podać różne informacje o filmie:
 
-<img src="./assets/images/yt/yt5.jpg" />
+<a href="./assets/images/hq/yt/yt5.png" target="blank"><img src="./assets/images/yt/yt5.jpg" /></a>
 
 #### 5. Kiedy uzupełnimy odpowiednie informacje i&nbsp;plik zostanie przesłany należy opublikować wideo:
 
-<img src="./assets/images/yt/yt6.jpg" />
+<a href="./assets/images/hq/yt/yt6.png" target="blank"><img src="./assets/images/yt/yt6.jpg" /></a>
 
 #### 6.1. Po publikacji otrzymujemy bezpośredni link do&nbsp;naszego klipu wideo:
 
-<img src="./assets/images/yt/yt7.jpg" />
+<a href="./assets/images/hq/yt/yt7.png" target="blank"><img src="./assets/images/yt/yt7.jpg" /></a>
 
 #### 6.2. Po wejściu na wskazany adres widzimy nasz film:
 
-<img src="./assets/images/yt/yt10.jpg" />
+<a href="./assets/images/hq/yt/yt10.png" target="blank"><img src="./assets/images/yt/yt10.jpg" /></a>
 
 #### 7.1. Możemy też uzyskać kod HTML, który po&nbsp;umieszczeniu w&nbsp;kodzie strony osadzi nam nasz klip wideo:
 
-<img src="./assets/images/yt/yt8.jpg" />
+<a href="./assets/images/hq/yt/yt8.png" target="blank"><img src="./assets/images/yt/yt8.jpg" /></a>
 
 #### 7.2. Klikając "Pokaż więcej" uzyskamy możliwość manipulowania naszą ramką z&nbsp;filmem, który chcemy osadzić na&nbsp;naszej stronie WWW:
 
-<img src="./assets/images/yt/yt9.jpg" />
+<a href="./assets/images/hq/yt/yt9.png" target="blank"><img src="./assets/images/yt/yt9.jpg" /></a>
 
 #### 8. Aby edytować przesłany plik należy wejść do studia twórców:
 
-<img src="./assets/images/yt/yt11.jpg" />
+<a href="./assets/images/hq/yt/yt11.png" target="blank"><img src="./assets/images/yt/yt11.jpg" /></a>
 
 #### 9.1. Aby usunąć plik wideo (w studiu twórców) zaznaczamy nasz film, klikamy przycisk "Działania" a&nbsp;następnie "Usuń".
 
-<img src="./assets/images/yt/yt12.jpg" />
+<a href="./assets/images/hq/yt/yt12.png" target="blank"><img src="./assets/images/yt/yt12.jpg" /></a>
 
 #### 9.2. Potwierdzamy usunięcie pliku:
 
-<img src="./assets/images/yt/yt13.jpg" />
+<a href="./assets/images/hq/yt/yt13.png" target="blank"><img src="./assets/images/yt/yt13.jpg" /></a>
 
 #### 9.3. Otrzymujemy informację o&nbsp;usunięciu filmu:
 
-<img src="./assets/images/yt/yt14.jpg" />
+<a href="./assets/images/hq/yt/yt14.png" target="blank"><img src="./assets/images/yt/yt14.jpg" /></a>
 
 ### 4.2. Dailymotion
 
@@ -335,55 +335,55 @@ Aby&nbsp;umieścić klip wideo w&nbsp; serwisie Dailymotion należy wykonać pon
 
 #### 1. Klikamy na "Settings":
 
-<img src="./assets/images/dm/dm1.jpg" />
+<a href="./assets/images/hq/dm/dm1.png" target="blank"><img src="./assets/images/dm/dm1.jpg" /></a>
 
 #### 2. W panelu użytkownika wybieramy opcję "Upload":
 
-<img src="./assets/images/dm/dm2.jpg" />
+<a href="./assets/images/hq/dm/dm2.png" target="blank"><img src="./assets/images/dm/dm2.jpg" /></a>
 
 #### 3. Klikamy "Upload":
 
-<img src="./assets/images/dm/dm3.jpg" />
+<a href="./assets/images/hq/dm/dm3.png" target="blank"><img src="./assets/images/dm/dm3.jpg" /></a>
 
 #### 4. Wybieramy "Select video files":
 
-<img src="./assets/images/dm/dm4.jpg" />
+<a href="./assets/images/hq/dm/dm4.png" target="blank"><img src="./assets/images/dm/dm4.jpg" /></a>
 
 #### 5. Wybieramy plik wideo:
 
-<img src="./assets/images/dm/dm5.jpg" />
+<a href="./assets/images/hq/dm/dm5.png" target="blank"><img src="./assets/images/dm/dm5.jpg" /></a>
 
 #### 6. Czekamy aż plik się załaduje do&nbsp;końca:
 
-<img src="./assets/images/dm/dm6.jpg" />
+<a href="./assets/images/hq/dm/dm6.png" target="blank"><img src="./assets/images/dm/dm6.jpg" /></a>
 
 #### 7. Klikamy na "Edit and publish":
 
-<img src="./assets/images/dm/dm7.jpg" />
+<a href="./assets/images/hq/dm/dm7.png" target="blank"><img src="./assets/images/dm/dm7.jpg" /></a>
 
 #### 8. Nasz klip wideo będzie dostępny na&nbsp;naszym profilu:
 
-<img src="./assets/images/dm/dm8.jpg" />
+<a href="./assets/images/hq/dm/dm8.png" target="blank"><img src="./assets/images/dm/dm8.jpg" /></a>
 
 #### 9. Po kliknięciu w wideo pokaże się nam nasz klip z&nbsp;możliwością edycji:
 
-<img src="./assets/images/dm/dm9.jpg" />
+<a href="./assets/images/hq/dm/dm9.png" target="blank"><img src="./assets/images/dm/dm9.jpg" /></a>
 
 #### 10. Kiedy wybierzemy opcję "Edit video" zostaniemy przekierowani do&nbsp;panelu edycji:
 
-<img src="./assets/images/dm/dm10.jpg" />
+<a href="./assets/images/hq/dm/dm10.png" target="blank"><img src="./assets/images/dm/dm10.jpg" /></a>
 
 #### 11.1. Jeśli zejdziemy trochę w&nbsp;dół ukaże nam się opcja pozwalająca na&nbsp;usunięcie klipu - "Delete":
 
-<img src="./assets/images/dm/dm11.jpg" />
+<a href="./assets/images/hq/dm/dm11.png" target="blank"><img src="./assets/images/dm/dm11.jpg" /></a>
 
 #### 11.2. Potwierdzamy usunięcie poprzez kliknięcie przycisku "Confirm":
 
-<img src="./assets/images/dm/dm12.jpg" />
+<a href="./assets/images/hq/dm/dm12.png" target="blank"><img src="./assets/images/dm/dm12.jpg" /></a>
 
 #### 11.3. Na stronie naszego kanału nie ma już klipu wideo:
 
-<img src="./assets/images/dm/dm13.jpg" />
+<a href="./assets/images/hq/dm/dm13.png" target="blank"><img src="./assets/images/dm/dm13.jpg" /></a>
 
 ### 4.3. Vimeo
 
@@ -413,67 +413,67 @@ Aby&nbsp;umieścić klip wideo w&nbsp; serwisie Vimeo należy wykonać poniższe
 
 #### 1. Klikamy na przycisk "Upload":
 
-<img src="./assets/images/vm/vm1.jpg" />
+<a href="./assets/images/hq/vm/vm1.png" target="blank"><img src="./assets/images/vm/vm1.jpg" /></a>
 
 #### 2. Ustawiamy poziom prywatności filmu:
 
-<img src="./assets/images/vm/vm2.jpg" />
+<a href="./assets/images/hq/vm/vm2.png" target="blank"><img src="./assets/images/vm/vm2.jpg" /></a>
 
 #### 3. Następnie klikamy na&nbsp;przycisk "Choose files to upload":
 
-<img src="./assets/images/vm/vm3.jpg" />
+<a href="./assets/images/hq/vm/vm3.png" target="blank"><img src="./assets/images/vm/vm3.jpg" /></a>
 
 #### 4. Wybieramy plik wideo:
 
-<img src="./assets/images/vm/vm4.jpg" />
+<a href="./assets/images/hq/vm/vm4.png" target="blank"><img src="./assets/images/vm/vm4.jpg" /></a>
 
 #### 5. Czekamy aż plik się załaduje - w&nbsp;tym czasie ustawiamy podstawowe informacje o&nbsp;filmie:
 
-<img src="./assets/images/vm/vm5.jpg" />
+<a href="./assets/images/hq/vm/vm5.png" target="blank"><img src="./assets/images/vm/vm5.jpg" /></a>
 
 #### 6. Następnie klikamy przycisk "Save":
 
-<img src="./assets/images/vm/vm6.jpg" />
+<a href="./assets/images/hq/vm/vm6.png" target="blank"><img src="./assets/images/vm/vm6.jpg" /></a>
 
 #### 7. Na naszym koncie od teraz jest dostępny nasz klip:
 
-<img src="./assets/images/vm/vm7.jpg" />
+<a href="./assets/images/hq/vm/vm7.png" target="blank"><img src="./assets/images/vm/vm7.jpg" /></a>
 
 #### 8.1. Aby edytować wideo klikamy na "Videos":
 
-<img src="./assets/images/vm/vm8.jpg" />
+<a href="./assets/images/hq/vm/vm8.png" target="blank"><img src="./assets/images/vm/vm8.jpg" /></a>
 
 #### 8.2. Następnie wybieramy "Settings":
 
-<img src="./assets/images/vm/vm9.jpg" />
+<a href="./assets/images/hq/vm/vm9.png" target="blank"><img src="./assets/images/vm/vm9.jpg" /></a>
 
 #### 8.3. W zakładce "Basics" możemy ustawić podstawowe informacje takie jak np.&nbsp;tytuł czy&nbsp;opis:
 
-<img src="./assets/images/vm/vm10.jpg" />
+<a href="./assets/images/hq/vm/vm10.png" target="blank"><img src="./assets/images/vm/vm10.jpg" /></a>
 
 #### 9.1. Po wybraniu zakładki "Embed" mamy dostęp do&nbsp;kodu HTML, który&nbsp;który możemy umieścić w&nbsp;kodzie naszej strony, aby&nbsp;osadzić na&nbsp;niej wideo:
 
-<img src="./assets/images/vm/vm11.jpg" />
+<a href="./assets/images/hq/vm/vm11.png" target="blank"><img src="./assets/images/vm/vm11.jpg" /></a>
 
 #### 9.2. Po kliknięciu na "Embed code" klikamy przycisk "Copy" - w&nbsp;tym momencie w&nbsp;schowku mamy kod HTML do&nbsp;osadzenia:
 
-<img src="./assets/images/vm/vm12.jpg" />
+<a href="./assets/images/hq/vm/vm12.png" target="blank"><img src="./assets/images/vm/vm12.jpg" /></a>
 
 #### 10.1. W zakładce "Basics" po zjechaniu na&nbsp;sam dół mamy opcję usunięcia pliku wideo:
 
-<img src="./assets/images/vm/vm13.jpg" />
+<a href="./assets/images/hq/vm/vm13.png" target="blank"><img src="./assets/images/vm/vm14.jpg" /></a>
 
 #### 10.2. Klikamy na&nbsp;przycisk "Delete this video":
 
-<img src="./assets/images/vm/vm14.jpg" />
+<a href="./assets/images/hq/vm/vm14.png" target="blank"><img src="./assets/images/vm/vm14.jpg" /></a>
 
 #### 10.3. Wpisujemy hasło do&nbsp;naszego konta a&nbsp;następnie przycisk "Confirm":
 
-<img src="./assets/images/vm/vm15.jpg" />
+<a href="./assets/images/hq/vm/vm15.png" target="blank"><img src="./assets/images/vm/vm15.jpg" /></a>
 
 #### 10.4. Od teraz naszego filmu nie ma w&nbsp;Vimeo:
 
-<img src="./assets/images/vm/vm16.jpg" />
+<a href="./assets/images/hq/vm/vm16.png" target="blank"><img src="./assets/images/vm/vm16.jpg" /></a>
 
 ## 5. Podsumowanie
 
