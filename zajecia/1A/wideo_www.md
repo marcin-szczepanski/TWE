@@ -66,6 +66,9 @@ we&nbsp;własnej witrynie.
 
 ## 2. Jak to się robiło kiedyś? - czyli słów kilka o&nbsp;filmach Flash Video
 
+Aktualnie już nie używa się tej technologii i&nbsp;poniżej przedstawiony sposób osadzania
+plików FLV na&nbsp;stronie na&nbsp;najnowszych przeglądarkach już nie jest wspierany.
+
 ### 2.1. Czym jest Flash Video?
 
 W dużym skrócie **Flash** to wtyczka do&nbsp;przeglądarek internetowych od&nbsp;Adobe, która&nbsp;umożliwia wyświetlanie określonych typów zawartości.
@@ -82,23 +85,67 @@ Aby prezentować materiały wideo na&nbsp;własnej stronie przy&nbsp;użyciu Fla
 
 #### 2.2.1. Konwersja materiału wideo do&nbsp;formatu FLV
 
-
+Aby skorzystać z&nbsp;Flash Video, trzeba skonwertować posiadany materiał do&nbsp;formatu FLV.
+Począwszy od&nbsp;wersji 6, środowisko Flash zawiera narzędzie **Flash Video Converter** umożliwiające
+konwersję materiału wideo do&nbsp;formatu FLV.
+Niektóre odtwarzacze Flash obsługują także format H264 (a&nbsp;niektóre programy do&nbsp;edycji
+wideo umożliwiają zapisywanie materiału w&nbsp;tym formacie).
+Inne programy umożliwiające konwersję materiału do&nbsp;tych dwóch formatów można znaleźć
+po&nbsp;wpisaniu w&nbsp;wyszukiwarce hasła "FLV or H264 converters".
 
 #### 2.2.2. Wybór odtwarzacza plików FLV
 
-
+Do odtwarzania filmów FLV potrzebny będzie odtwarzacz napisany w&nbsp;technologii Flash.
+Służy on do&nbsp;odtwarzania filmu oraz&nbsp;udostępnia elementy sterujące, takie jak
+przyciski do&nbsp;odtwarzania i&nbsp;zatrzymywania filmu. 
+Takie odtwarzacze można znaleźć na&nbsp;stronach takich jak jwplayer.com.
+Korzystanie z&nbsp;takich odtwarzaczy nie&nbsp;wymaga kupowania środowiska Flash.
 
 #### 2.2.3. Umieszczenie odtwarzacza i&nbsp;materiału wideo na&nbsp;stronie
 
+Odtwarzacz można umieścić na&nbsp;stronie przy użyciu technik wykorzystujących skrypty JavaScript,
+takich jak SWFObject.
 
+Do odtwarzacza należy przekazać informację o lokalizacji klipu wideo, który ma być prezentowany.
 
-**Czym jest technika SWFObject?**
+**Czym jest SWFObject?**
 
+SWFObject jest to skrypt, który można pobrać bezpłatnie z&nbsp;witryny Google.
+Skrypt ten sprawdza, czy przeglądarka użytkownika może wyświetlać filmy Flash.
 
+Poniżej znajduje się krótki przykład umieszczania filmu flash na&nbsp;stronie WWW:
 
-### 2.3. Umieszczanie filmów Flash Video na&nbsp;stronach
+### Przykład 2.1.
 
-
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type"
+      content="text/html; charset=UTF-8">
+    <title>Dodawanie Flash Video</title>
+    <script type="text/javascript"
+      src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+    <script type="text/javascript">
+      var flashvars = {}; // zmienna służąca do przekazywania informacji
+      var params = { // obiekt parametrów dla odtwarzacza
+        movie:"../video/puppy.flv" }; // lokalizacja pliku FLV
+      swfobject.embedSWF("flash/osplayer.swf", // lokalizacja pliku odtwarzacza
+        "snow", // element strony, który będzie zastąpiony filmem - określony poprzez id
+        "400", // szerokość filmu w px
+        "345", // wysokość filmu w px
+        "8.0.0", // najniższa wersja odtwarzacza Flash, której można użyć do wyświetlenia filmu
+        flashvars,
+        params);
+      </script>
+  </head>
+  <body>
+    <div id="snow">
+      <div id="snow"><p>Film o szczeniaku bawiącym się w śniegu.</p></div>
+    </div>
+  </body>
+</html>
+```
 
 ## 3. Osadzanie plików wideo na stronie w HTML5
 
