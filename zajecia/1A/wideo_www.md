@@ -461,7 +461,7 @@ Aby&nbsp;umieścić klip wideo w&nbsp; serwisie Vimeo należy wykonać poniższe
 
 #### 10.1. W zakładce "Basics" po zjechaniu na&nbsp;sam dół mamy opcję usunięcia pliku wideo:
 
-<a href="./assets/images/hq/vm/vm13.png" target="blank"><img src="./assets/images/vm/vm14.jpg" /></a>
+<a href="./assets/images/hq/vm/vm13.png" target="blank"><img src="./assets/images/vm/vm13.jpg" /></a>
 
 #### 10.2. Klikamy na&nbsp;przycisk "Delete this video":
 
