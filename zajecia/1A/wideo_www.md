@@ -117,7 +117,7 @@ Poniżej znajduje się krótki przykład umieszczania filmu flash na&nbsp;stroni
 
 ### Przykład 2.1.
 
-<script async src="//jsfiddle.net/marcin00412/mgx3fxfo/embed/html,result/dark/"></script>
+<script async src="//jsfiddle.net/marcin00412/mgx3fxfo/1/embed/html,result/dark/"></script>
 
 ## 3. Osadzanie plików wideo na stronie w HTML5
 
