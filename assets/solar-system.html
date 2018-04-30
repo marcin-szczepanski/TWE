@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+     <head>
+          <meta charset="UTF-8" />
+          <title>Animacja SVG</title>
+     </head>
+     <body style="text-align: center">
+            <svg width="1200" height="700">
+                <pattern id="cosmos" patternUnits="userSpaceOnUse" width="1200" height="700">
+                    <image xlink:href="https://marcin-szczepanski.github.io/TWE/assets/images/solar/milky-way-starry-sky-night-sky-star-956999.jpeg" x="0" y="0" width="1200" height="700" />
+                </pattern>
+                <pattern id="sun" patternUnits="userSpaceOnUse" x="500" y="250" width="200" height="200">
+                    <image xlink:href="https://marcin-szczepanski.github.io/TWE/assets/images/solar/sun_transparent_background_sun_world_by_royalblueiv-d6r3ze7.png" x="0" y="0" width="200" height="200" />
+                </pattern>
+                <pattern id="mercury" patternUnits="userSpaceOnUse" x="-19" y="-19" width="38" height="38">
+                    <image xlink:href="https://marcin-szczepanski.github.io/TWE/assets/images/solar/mercury.png" x="0" y="0" width="38" height="38" />
+                </pattern>
+                <pattern id="venus" patternUnits="userSpaceOnUse" x="-47.5" y="-47.5" width="95" height="95">
+                    <image xlink:href="https://marcin-szczepanski.github.io/TWE/assets/images/solar/1 qmHRZV3-03NOcciPdwgkCQ.png" x="0" y="0" width="95" height="95" />
+                </pattern>
+                <pattern id="earth" patternUnits="userSpaceOnUse" x="-50" y="-50" width="100" height="100">
+                    <image xlink:href="https://marcin-szczepanski.github.io/TWE/assets/images/solar/Earth-PNG-Pic.png" x="0" y="0" width="100" height="100" />
+                </pattern>
+                <pattern id="moon" patternUnits="userSpaceOnUse" x="-7" y="-7" width="14" height="14">
+                    <image xlink:href="https://marcin-szczepanski.github.io/TWE/assets/images/solar/The_moon.png" x="0" y="0" width="14" height="14" />
+                </pattern>
+                <pattern id="mars" patternUnits="userSpaceOnUse" x="-27" y="-27" width="54" height="54">
+                    <image xlink:href="https://marcin-szczepanski.github.io/TWE/assets/images/solar/m1.png" x="0" y="0" width="54" height="54" />
+                </pattern>
+
+                <rect x="0" y="0" width="1200" height="700" fill="url(#cosmos)"/>
+
+                <text x="30" y="60" font-family="Verdana" font-size="30" font-weight="700" fill="white">Fragment układu</text>
+                <text x="30" y="100" font-family="Verdana" font-size="30" font-weight="700" fill="white">Słonecznego</text>
+                
+                <path d="M296,350a304,304 0 1,0 608,0a304,304 0 1,0 -608,0" stroke="white" id="mars-path" stroke-width="0.6px" fill-opacity="0"/>
+                <path d="M390,350a210,210 0 1,0 420,0a210,210 0 1,0 -420,0" stroke="white" id="earth-path" stroke-width="0.6px" fill-opacity="0"/>
+                <path d="M442,350a158,158 0 1,0 316,0a158,158 0 1,0 -316,0" stroke="white" id="venus-path" stroke-width="0.6px" fill-opacity="0"/>
+                <path d="M485,350a115,115 0 1,0 230,0a115,115 0 1,0 -230,0" stroke="white" id="mercury-path" stroke-width="0.6px" fill-opacity="0"/>
+
+                <circle cx="600" cy="350" r="100" fill="url(#sun)" />
+                <text x="533" y="350" font-family="Verdana" font-size="30" font-weight="700" fill="black">SŁOŃCE</text>
+
+                <g>
+                    <circle cx="0" cy="0" r="27" fill="url(#mars)"/>
+                    <text x="-20" y="40" font-family="Verdana" font-size="14" font-weight="700" fill="white">Mars</text>
+                    <animateMotion dur="56.4261314589235s" repeatCount="indefinite">
+                        <mpath xlink:href="#mars-path"></mpath>
+                    </animateMotion>
+                </g>
+                <g>
+                    <path d="M-60,0a60,60 0 1,0 120,0a60,60 0 1,0 -120,0" stroke="white" stroke-width="0.1px" id="moon-path" fill-opacity="0" />
+                    <circle cx="0" cy="0" r="50" fill="url(#earth)" />
+                    <g>
+                        <circle cx="0" cy="0" r="7" fill="url(#moon)"/>
+                        <text x="-25" y="-20" font-family="Verdana" font-size="14" font-weight="700" fill="white">Księżyc</text>
+                        <animateMotion dur="2.5s" repeatCount="indefinite">
+                            <mpath xlink:href="#moon-path"></mpath>
+                        </animateMotion>
+                    </g>
+                    <text x="-25" y="70" font-family="Verdana" font-size="14" font-weight="700" fill="white">Ziemia</text>
+                    <animateMotion dur="30s" repeatCount="indefinite">
+                        <mpath xlink:href="#earth-path"></mpath>
+                    </animateMotion>
+                </g>
+                <g>
+                    <circle cx="0" cy="0" r="47.5" fill="url(#venus)" />
+                    <text x="-25" y="70" font-family="Verdana" font-size="14" font-weight="700" fill="white">Wenus</text>
+                    <animateMotion dur="18.45553382652127s" repeatCount="indefinite">
+                        <mpath xlink:href="#venus-path"></mpath>
+                    </animateMotion>
+                </g>
+                <g>
+                    <circle cx="0" cy="0" r="19" fill="url(#mercury)" />
+                    <text x="-30" y="40" font-family="Verdana" font-size="14" font-weight="700" fill="white">Merkury</text>
+                    <animateMotion dur="7.186734356121988s" repeatCount="indefinite">
+                        <mpath xlink:href="#mercury-path"></mpath>
+                    </animateMotion>
+                </g>
+
+                <text x="900" y="620" font-family="Verdana" font-size="24" fill="white">Animację przygotował</text>
+                <text x="932" y="660" font-family="Verdana" font-size="24" fill="white">Marcin Szczepański</text>
+            </svg>
+     </body>
+</html>
