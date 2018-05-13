@@ -49,7 +49,7 @@ Dla obu rodzajów magazynów mamy te same metody i&nbsp;właściwości:
 
 ### Przykład 1.1.1.
 
-<script async src="//jsfiddle.net/marcin00412/1824fo05/embed/js,html,result/dark/"></script>
+<script async src="//jsfiddle.net/marcin00412/e56b05gk/embed/js,html,result/dark/"></script>
 
 ### 1.2. Magazyn sesji przeglądarki
 
