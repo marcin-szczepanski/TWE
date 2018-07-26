@@ -12,6 +12,14 @@ layout: default
 
 Na tej stronie znajdują się ćwiczenia wraz z przykładowymi (ale nie **jedynymi**) rozwiązaniami z&nbsp;praktycznej wiedzy o&nbsp;powłoce <span class="preformat">bash</span>.
 
+## Przydatne strony:
+
+- <a href="http://www.astrouw.edu.pl/~jskowron/pracownia/komendy/"
+target="blank">astrouw.edu.pl/~jskowron/pracownia/komendy/</a>
+
+- <a href="http://bprzybylski.github.io/DSOP/m02.html"
+target="blank">bprzybylski.github.io/DSOP/m02.html</a> 
+
 ## 1.1. Poruszanie się po katalogach
 
 ### Ćwiczenie 1.1.1.
@@ -455,14 +463,6 @@ w&nbsp;którym aktualnie się znajdujesz;
 </div>
 <div style="clear: both;"></div>
 </div>
-
-## Przydatne strony:
-
-- <a href="http://www.astrouw.edu.pl/~jskowron/pracownia/komendy/"
-target="blank">astrouw.edu.pl/~jskowron/pracownia/komendy/</a>
-
-- <a href="http://bprzybylski.github.io/DSOP/m02.html"
-target="blank">bprzybylski.github.io/DSOP/m02.html</a> 
 
 <br /> <br />
 
