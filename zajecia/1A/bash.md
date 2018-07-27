@@ -248,7 +248,7 @@ a&nbsp;pozostali bez&nbsp;żadnych praw;
 </div>
 
 - utwórz dowiązanie symboliczne do pliku **zmieniony** o&nbsp;nazwie **skrot_do_zmienionego** tak,
-aby&nbsp;dowiązanie to znalazło się w&nbsp;Twoim katalogu domowym;
+aby&nbsp;dowiązanie to znalazło się w&nbsp;Twoim katalogu domowym (użyj polecenia <span class="preformat">ln</span>);
 <div style="margin-left: 1.25rem; margin-top: -1rem;">
 <a class="button-v button-module button-task" style="cursor: pointer;">Pokaż rozwiązanie</a>
 <div class="solution">
